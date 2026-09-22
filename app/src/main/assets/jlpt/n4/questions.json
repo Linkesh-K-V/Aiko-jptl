@@ -1,0 +1,27 @@
+[
+  {
+    "id": "n4_q_01",
+    "japanese": "日本のアニメを字幕なしで見たことが＿＿＿。",
+    "reading": "にほんのアニメをじまくなしでみたことが＿＿＿。",
+    "romaji": "Nihon no anime o jimaku nashi de mita koto ga ___.",
+    "meaning": "Have you ever watched Japanese anime without subtitles?",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N4",
+    "examQuestionType": "GRAMMAR",
+    "examQuestionPrompt": "Choose the correct phrase to complete the experience pattern.",
+    "options": [
+      "ありますか",
+      "いますか",
+      "しますか",
+      "なりますか"
+    ],
+    "exampleJapanese": "日本のアニメを字幕なしで見たことがありますか。",
+    "exampleReading": "にほんのアニメをじまくなしでみたことがありますか。",
+    "exampleRomaji": "Nihon no anime o jimaku nashi de mita koto ga arimasu ka.",
+    "exampleEnglish": "Have you ever watched Japanese anime without subtitles?",
+    "mnemonicOrNote": "〜たことがある uses あります.",
+    "difficulty": 2,
+    "source": "JLPT N4 Practice Questions",
+    "relatedItems": []
+  }
+]

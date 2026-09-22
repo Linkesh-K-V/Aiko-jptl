@@ -1,0 +1,96 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left Horn -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M39,42 C36,32 30,25 24,24 C23,28 27,38 34,46 Z" />
+    <path
+        android:fillColor="#8E0000"
+        android:pathData="M39,42 C35,35 30,29 24,24 C26,24 33,32 37,44 Z" />
+
+    <!-- Right Horn -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M69,42 C72,32 78,25 84,24 C85,28 81,38 74,46 Z" />
+    <path
+        android:fillColor="#8E0000"
+        android:pathData="M69,42 C73,35 78,29 84,24 C82,24 75,32 71,44 Z" />
+
+    <!-- Spiky Hair / Crest behind mask -->
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M44,36 L54,23 L64,36 L54,32 Z" />
+    <path
+        android:fillColor="#26A69A"
+        android:pathData="M34,40 L40,28 L46,38 Z" />
+    <path
+        android:fillColor="#26A69A"
+        android:pathData="M74,40 L68,28 L62,38 Z" />
+
+    <!-- Main Bone Demon Skull Mask -->
+    <path
+        android:fillColor="#F5F5F0"
+        android:pathData="M34,44 C34,36 43,34 54,34 C65,34 74,36 74,44 C75,52 73,59 70,64 C68,67 65,71 63,78 L45,78 C43,71 40,67 38,64 C35,59 33,52 34,44 Z" />
+
+    <!-- Mask Shadow / Depth -->
+    <path
+        android:fillColor="#DDDCD4"
+        android:pathData="M45,78 L63,78 L60,84 L48,84 Z" />
+
+    <!-- Teeth / Jaw slats -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M46,72 L62,72 L61,75 L47,75 Z" />
+    <path
+        android:fillColor="#F5F5F0"
+        android:pathData="M49,71 L51,71 L51,75 L49,75 Z" />
+    <path
+        android:fillColor="#F5F5F0"
+        android:pathData="M53,71 L55,71 L55,75 L53,75 Z" />
+    <path
+        android:fillColor="#F5F5F0"
+        android:pathData="M57,71 L59,71 L59,75 L57,75 Z" />
+
+    <!-- Dark Eye Sockets -->
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M40,50 L49,53 L45,61 L39,57 Z" />
+    <path
+        android:fillColor="#1A1A1A"
+        android:pathData="M68,50 L59,53 L63,61 L69,57 Z" />
+
+    <!-- Glowing Red/Amber Eyes Inside Sockets -->
+    <path
+        android:fillColor="#FF3D00"
+        android:pathData="M42,54 L47,56 L44,59 Z" />
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M44,55 L46,56 L45,58 Z" />
+
+    <path
+        android:fillColor="#FF3D00"
+        android:pathData="M66,54 L61,56 L64,59 Z" />
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M64,55 L62,56 L63,58 Z" />
+
+    <!-- Nose cavity -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M52,62 L56,62 L54,67 Z" />
+
+    <!-- Mask Cracks -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#C62828"
+        android:strokeWidth="1"
+        android:pathData="M52,38 L50,44 L53,48" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#B71C1C"
+        android:strokeWidth="0.8"
+        android:pathData="M65,42 L62,45 L64,49" />
+</vector>

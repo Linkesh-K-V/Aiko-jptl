@@ -1,0 +1,31 @@
+[
+  {
+    "id": "n2_q_01",
+    "japanese": "彼がコンクールで優勝できたのは、毎日欠かさず練習した成果＿＿＿。",
+    "reading": "かれがコンクールでゆうしょうできたのは、まいにちかかさずれんしゅうしたせいか＿＿＿。",
+    "romaji": "Kare ga konkuuru de yuushou dekita no wa, mainichi kakasazu renshuu shita seika ___.",
+    "meaning": "The reason he won the competition is nothing other than the result of practicing every single day without fail.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N2",
+    "examQuestionType": "GRAMMAR",
+    "examQuestionPrompt": "Choose the expression emphasizing that something is definitively the sole cause.",
+    "options": [
+      "にほかならない",
+      "にすぎない",
+      "どころではない",
+      "にとどまらない"
+    ],
+    "exampleJapanese": "彼がコンクールで優勝できたのは、毎日欠かさず練習した成果にほかならない。",
+    "exampleReading": "かれがコンクールでゆうしょうできたのは、まいにちかかさずれんしゅうしたせいかにほかならない。",
+    "exampleRomaji": "Kare ga konkuuru de yuushou dekita no wa, mainichi kakasazu renshuu shita seika ni hokanaranai.",
+    "exampleEnglish": "The reason he won the competition is nothing other than the result of practicing every single day without fail.",
+    "mnemonicOrNote": "〜にほかならない indicates 'nothing other than'.",
+    "difficulty": 4,
+    "source": "JLPT N2 Practice Questions",
+    "relatedItems": [
+      "n2_g_01",
+      "n2_g_07",
+      "n5_v_41"
+    ]
+  }
+]

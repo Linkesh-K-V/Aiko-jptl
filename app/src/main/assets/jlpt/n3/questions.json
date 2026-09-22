@@ -1,0 +1,31 @@
+[
+  {
+    "id": "n3_q_01",
+    "japanese": "明日までにレポートを出さなければならないので、今夜は寝る＿＿＿。",
+    "reading": "あしたまでにレポートをださなければならないので、こんやはねる＿＿＿。",
+    "romaji": "Ashita made ni repooto o dasanakereba naranai node, kon'ya wa neru ___.",
+    "meaning": "Since I must submit the report by tomorrow, I cannot afford to sleep tonight.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N3",
+    "examQuestionType": "GRAMMAR",
+    "examQuestionPrompt": "Choose the most appropriate expression denoting situational inability.",
+    "options": [
+      "わけにはいかない",
+      "ことにしている",
+      "はずがない",
+      "わけではない"
+    ],
+    "exampleJapanese": "明日までにレポートを出さなければならないので、今夜は寝るわけにはいかない。",
+    "exampleReading": "あしたまでにレポートをださなければならないので、こんやはねるわけにはいかない。",
+    "exampleRomaji": "Ashita made ni repooto o dasanakereba naranai node, kon'ya wa neru wake ni wa ikanai.",
+    "exampleEnglish": "Since I must submit the report by tomorrow, I cannot afford to sleep tonight.",
+    "mnemonicOrNote": "〜わけにはいかない means one cannot do something due to obligation.",
+    "difficulty": 3,
+    "source": "JLPT N3 Practice Questions",
+    "relatedItems": [
+      "n3_g_01",
+      "n5_v_39",
+      "n5_v_66"
+    ]
+  }
+]

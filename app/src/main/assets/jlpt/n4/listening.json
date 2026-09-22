@@ -1,0 +1,30 @@
+[
+  {
+    "id": "n4_l_01",
+    "japanese": "病院の受付で男の人と看護師が話しています。男の人は薬をいつ飲みますか。\n看護師：この薬は一日三回、毎食後に必ず飲んでください。\n男：朝、昼、晩のご飯の後ですね。食前ではないですね。\n看護師：はい、胃を守るために必ず食後に飲んでください。\n男：分かりました。ありがとうございます。\n質問：男の人は薬をいつ飲みますか。",
+    "reading": "びょういんのうけつけでおとこのひととかんごしがはなしています。おとこのひとはくすりをいつのみますか。\nかんごし：このくすりはいちにちさんかい、まいしょくごにかならずのんでください。\nおとこ：あさ、ひる、ばんのごはんのあとですね。しょくぜんではないですね。\nかんごし：はい、いをまもるためにかならずしょくごにのんでください。\nおとこ：わかりました。ありがとうございます。\nしつもん：おとこのひとはくすりをいつのみますか。",
+    "romaji": "Byouin no uketsuke de otoko no hito to kangoshi ga hanashite imasu. Otoko no hito wa kusuri o itsu nomimasu ka.\nKangoshi: Kono kusuri wa ichinichi sankai, maishokugo ni kanarazu nonde kudasai.\nOtoko: Asa, hiru, ban no gohan no ato desu ne. Shokuzen de wa nai desu ne.\nKangoshi: Hai, i o mamoru tame ni kanarazu shokugo ni nonde kudasai.\nOtoko: Wakarimashita. Arigatou gozaimasu.\nShitsumon: Otoko no hito wa kusuri o itsu nomimasu ka.",
+    "meaning": "At a hospital reception, a man and a nurse are talking. When will the man take the medicine?\nNurse: Please take this medicine three times a day, always after every meal.\nMan: After breakfast, lunch, and dinner, right? Not before meals?\nNurse: Yes, to protect your stomach, please be sure to take it after meals.\nMan: Understood. Thank you.\nQuestion: When will the man take the medicine?",
+    "category": "LISTENING",
+    "jlptLevel": "N4",
+    "difficulty": 2,
+    "tags": "listening,hospital,health",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "男の人は薬をいつ飲みますか。",
+    "options": [
+      "毎食後",
+      "毎食前",
+      "寝る前だけ",
+      "朝食前だけ"
+    ],
+    "source": "JLPT N4 Graded Listening",
+    "relatedItems": [
+      "n5_g_09",
+      "n5_v_27",
+      "n5_v_45",
+      "n5_v_46",
+      "n5_v_57",
+      "n5_v_92"
+    ]
+  }
+]

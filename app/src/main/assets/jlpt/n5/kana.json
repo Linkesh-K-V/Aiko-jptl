@@ -1,0 +1,5416 @@
+[
+  {
+    "id": "kana_h_001",
+    "japanese": "あ",
+    "reading": "あ",
+    "romaji": "a",
+    "meaning": "Hiragana vowel 'a' (ah)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like an apple with a stem.",
+    "exampleJapanese": "あさ",
+    "exampleReading": "あさ",
+    "exampleRomaji": "asa",
+    "exampleEnglish": "morning",
+    "options": [
+      "a",
+      "o",
+      "u",
+      "e"
+    ],
+    "relatedItems": [
+      "n5_v_45"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_002",
+    "japanese": "い",
+    "reading": "い",
+    "romaji": "i",
+    "meaning": "Hiragana vowel 'i' (ee)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like two upright needles side by side.",
+    "exampleJapanese": "いぬ",
+    "exampleReading": "いぬ",
+    "exampleRomaji": "inu",
+    "exampleEnglish": "dog",
+    "options": [
+      "i",
+      "ri",
+      "ko",
+      "ni"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_003",
+    "japanese": "う",
+    "reading": "う",
+    "romaji": "u",
+    "meaning": "Hiragana vowel 'u' (oo)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a bent person carrying a heavy load.",
+    "exampleJapanese": "うみ",
+    "exampleReading": "うみ",
+    "exampleRomaji": "umi",
+    "exampleEnglish": "sea, ocean",
+    "options": [
+      "u",
+      "tsu",
+      "ra",
+      "wa"
+    ],
+    "relatedItems": [
+      "n5_v_154"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_004",
+    "japanese": "え",
+    "reading": "え",
+    "romaji": "e",
+    "meaning": "Hiragana vowel 'e' (eh)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like an energetic ninja running.",
+    "exampleJapanese": "えき",
+    "exampleReading": "えき",
+    "exampleRomaji": "eki",
+    "exampleEnglish": "train station",
+    "options": [
+      "e",
+      "n",
+      "i",
+      "a"
+    ],
+    "relatedItems": [
+      "n5_v_56"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_005",
+    "japanese": "お",
+    "reading": "お",
+    "romaji": "o",
+    "meaning": "Hiragana vowel 'o' (oh)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a golfer on a green ball.",
+    "exampleJapanese": "おちゃ",
+    "exampleReading": "おちゃ",
+    "exampleRomaji": "ocha",
+    "exampleEnglish": "green tea",
+    "options": [
+      "o",
+      "a",
+      "mu",
+      "su"
+    ],
+    "relatedItems": [
+      "n5_v_34"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_006",
+    "japanese": "か",
+    "reading": "か",
+    "romaji": "ka",
+    "meaning": "Hiragana 'ka'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a blade cutting open something.",
+    "exampleJapanese": "かわ",
+    "exampleReading": "かわ",
+    "exampleRomaji": "kawa",
+    "exampleEnglish": "river",
+    "options": [
+      "ka",
+      "ga",
+      "ki",
+      "ku"
+    ],
+    "relatedItems": [
+      "n5_v_155"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_007",
+    "japanese": "き",
+    "reading": "き",
+    "romaji": "ki",
+    "meaning": "Hiragana 'ki'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like an old-fashioned key.",
+    "exampleJapanese": "き",
+    "exampleReading": "き",
+    "exampleRomaji": "ki",
+    "exampleEnglish": "tree, wood",
+    "options": [
+      "ki",
+      "sa",
+      "gi",
+      "chi"
+    ],
+    "relatedItems": [
+      "n5_v_160"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_008",
+    "japanese": "く",
+    "reading": "く",
+    "romaji": "ku",
+    "meaning": "Hiragana 'ku'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like the open beak of a cuckoo bird.",
+    "exampleJapanese": "くるま",
+    "exampleReading": "くるま",
+    "exampleRomaji": "kuruma",
+    "exampleEnglish": "car",
+    "options": [
+      "ku",
+      "he",
+      "tsu",
+      "ko"
+    ],
+    "relatedItems": [
+      "n5_v_61"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_009",
+    "japanese": "け",
+    "reading": "け",
+    "romaji": "ke",
+    "meaning": "Hiragana 'ke'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like the wooden staves of a beer keg.",
+    "exampleJapanese": "けさ",
+    "exampleReading": "けさ",
+    "exampleRomaji": "kesa",
+    "exampleEnglish": "this morning",
+    "options": [
+      "ke",
+      "ha",
+      "ho",
+      "ni"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_010",
+    "japanese": "こ",
+    "reading": "こ",
+    "romaji": "ko",
+    "meaning": "Hiragana 'ko'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like two cozy worms curled together.",
+    "exampleJapanese": "こども",
+    "exampleReading": "こども",
+    "exampleRomaji": "kodomo",
+    "exampleEnglish": "child",
+    "options": [
+      "ko",
+      "ni",
+      "ta",
+      "i"
+    ],
+    "relatedItems": [
+      "n5_v_25"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_011",
+    "japanese": "さ",
+    "reading": "さ",
+    "romaji": "sa",
+    "meaning": "Hiragana 'sa'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a sword crossing downward.",
+    "exampleJapanese": "さかな",
+    "exampleReading": "さかな",
+    "exampleRomaji": "sakana",
+    "exampleEnglish": "fish",
+    "options": [
+      "sa",
+      "chi",
+      "ki",
+      "za"
+    ],
+    "relatedItems": [
+      "n5_v_31"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_012",
+    "japanese": "し",
+    "reading": "し",
+    "romaji": "shi",
+    "meaning": "Hiragana 'shi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a giant fishing hook in water.",
+    "exampleJapanese": "しろい",
+    "exampleReading": "しろい",
+    "exampleRomaji": "shiroi",
+    "exampleEnglish": "white",
+    "options": [
+      "shi",
+      "tsu",
+      "ji",
+      "hi"
+    ],
+    "relatedItems": [
+      "n5_v_14"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_013",
+    "japanese": "す",
+    "reading": "す",
+    "romaji": "su",
+    "meaning": "Hiragana 'su'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a coiled straw for sipping soup.",
+    "exampleJapanese": "すし",
+    "exampleReading": "すし",
+    "exampleRomaji": "sushi",
+    "exampleEnglish": "sushi",
+    "options": [
+      "su",
+      "mu",
+      "o",
+      "zu"
+    ],
+    "relatedItems": [
+      "n5_v_37"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_014",
+    "japanese": "せ",
+    "reading": "せ",
+    "romaji": "se",
+    "meaning": "Hiragana 'se'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like someone standing proudly on a stage.",
+    "exampleJapanese": "せんせい",
+    "exampleReading": "せんせい",
+    "exampleRomaji": "sensei",
+    "exampleEnglish": "teacher",
+    "options": [
+      "se",
+      "sa",
+      "ze",
+      "ya"
+    ],
+    "relatedItems": [
+      "n5_v_63"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_015",
+    "japanese": "そ",
+    "reading": "そ",
+    "romaji": "so",
+    "meaning": "Hiragana 'so'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a zigzag sewing stitch.",
+    "exampleJapanese": "そら",
+    "exampleReading": "そら",
+    "exampleRomaji": "sora",
+    "exampleEnglish": "sky",
+    "options": [
+      "so",
+      "te",
+      "ro",
+      "zo"
+    ],
+    "relatedItems": [
+      "n5_v_157"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_016",
+    "japanese": "た",
+    "reading": "た",
+    "romaji": "ta",
+    "meaning": "Hiragana 'ta'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like the letters 't' and 'a'.",
+    "exampleJapanese": "たかい",
+    "exampleReading": "たかい",
+    "exampleRomaji": "takai",
+    "exampleEnglish": "tall, expensive",
+    "options": [
+      "ta",
+      "da",
+      "na",
+      "ko"
+    ],
+    "relatedItems": [
+      "n5_v_13"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_017",
+    "japanese": "ち",
+    "reading": "ち",
+    "romaji": "chi",
+    "meaning": "Hiragana 'chi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a cheerleader cheering.",
+    "exampleJapanese": "ちいさい",
+    "exampleReading": "ちいさい",
+    "exampleRomaji": "chiisai",
+    "exampleEnglish": "small",
+    "options": [
+      "chi",
+      "sa",
+      "ra",
+      "ji"
+    ],
+    "relatedItems": [
+      "n5_v_10"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_018",
+    "japanese": "つ",
+    "reading": "つ",
+    "romaji": "tsu",
+    "meaning": "Hiragana 'tsu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like the crest of a tidal tsunami wave.",
+    "exampleJapanese": "つくえ",
+    "exampleReading": "つくえ",
+    "exampleRomaji": "tsukue",
+    "exampleEnglish": "desk",
+    "options": [
+      "tsu",
+      "shi",
+      "u",
+      "ku"
+    ],
+    "relatedItems": [
+      "n5_v_174"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_019",
+    "japanese": "て",
+    "reading": "て",
+    "romaji": "te",
+    "meaning": "Hiragana 'te'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like an open hand or dog's tail.",
+    "exampleJapanese": "て",
+    "exampleReading": "て",
+    "exampleRomaji": "te",
+    "exampleEnglish": "hand",
+    "options": [
+      "te",
+      "de",
+      "so",
+      "to"
+    ],
+    "relatedItems": [
+      "n5_v_148"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_020",
+    "japanese": "と",
+    "reading": "と",
+    "romaji": "to",
+    "meaning": "Hiragana 'to'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a stubbed toe with a splinter.",
+    "exampleJapanese": "ともだち",
+    "exampleReading": "ともだち",
+    "exampleRomaji": "tomodachi",
+    "exampleEnglish": "friend",
+    "options": [
+      "to",
+      "do",
+      "te",
+      "ko"
+    ],
+    "relatedItems": [
+      "n5_v_27"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_021",
+    "japanese": "な",
+    "reading": "な",
+    "romaji": "na",
+    "meaning": "Hiragana 'na'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a nun kneeling in front of a cross.",
+    "exampleJapanese": "なつ",
+    "exampleReading": "なつ",
+    "exampleRomaji": "natsu",
+    "exampleEnglish": "summer",
+    "options": [
+      "na",
+      "ta",
+      "me",
+      "ne"
+    ],
+    "relatedItems": [
+      "n5_v_134"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_022",
+    "japanese": "に",
+    "reading": "に",
+    "romaji": "ni",
+    "meaning": "Hiragana 'ni'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a needle and a spool of thread.",
+    "exampleJapanese": "にほん",
+    "exampleReading": "にほん",
+    "exampleRomaji": "nihon",
+    "exampleEnglish": "Japan",
+    "options": [
+      "ni",
+      "ko",
+      "ha",
+      "i"
+    ],
+    "relatedItems": [
+      "n5_v_02"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_023",
+    "japanese": "ぬ",
+    "reading": "ぬ",
+    "romaji": "nu",
+    "meaning": "Hiragana 'nu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like chopsticks twisting round noodles.",
+    "exampleJapanese": "ぬの",
+    "exampleReading": "ぬの",
+    "exampleRomaji": "nuno",
+    "exampleEnglish": "cloth",
+    "options": [
+      "nu",
+      "me",
+      "ne",
+      "wa"
+    ],
+    "relatedItems": [
+      "n5_v_172"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_024",
+    "japanese": "ね",
+    "reading": "ね",
+    "romaji": "ne",
+    "meaning": "Hiragana 'ne'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a curled cat with a loop tail.",
+    "exampleJapanese": "ねこ",
+    "exampleReading": "ねこ",
+    "exampleRomaji": "neko",
+    "exampleEnglish": "cat",
+    "options": [
+      "ne",
+      "nu",
+      "wa",
+      "re"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_025",
+    "japanese": "の",
+    "reading": "の",
+    "romaji": "no",
+    "meaning": "Hiragana 'no'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a 'No smoking' circle slash.",
+    "exampleJapanese": "のみもの",
+    "exampleReading": "のみもの",
+    "exampleRomaji": "nomimono",
+    "exampleEnglish": "beverage",
+    "options": [
+      "no",
+      "me",
+      "ru",
+      "ro"
+    ],
+    "relatedItems": [
+      "n5_v_36"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_026",
+    "japanese": "は",
+    "reading": "は",
+    "romaji": "ha",
+    "meaning": "Hiragana 'ha'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a standing person with a bag.",
+    "exampleJapanese": "はな",
+    "exampleReading": "はな",
+    "exampleRomaji": "hana",
+    "exampleEnglish": "flower",
+    "options": [
+      "ha",
+      "ba",
+      "pa",
+      "ho"
+    ],
+    "relatedItems": [
+      "n5_v_161"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_027",
+    "japanese": "ひ",
+    "reading": "ひ",
+    "romaji": "hi",
+    "meaning": "Hiragana 'hi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a smiling mouth shouting 'hee hee'.",
+    "exampleJapanese": "ひと",
+    "exampleReading": "ひと",
+    "exampleRomaji": "hito",
+    "exampleEnglish": "person",
+    "options": [
+      "hi",
+      "bi",
+      "pi",
+      "shi"
+    ],
+    "relatedItems": [
+      "n5_v_01"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_028",
+    "japanese": "ふ",
+    "reading": "ふ",
+    "romaji": "fu",
+    "meaning": "Hiragana 'fu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like Mount Fuji surrounded by clouds.",
+    "exampleJapanese": "ふゆ",
+    "exampleReading": "ふゆ",
+    "exampleRomaji": "fuyu",
+    "exampleEnglish": "winter",
+    "options": [
+      "fu",
+      "bu",
+      "pu",
+      "u"
+    ],
+    "relatedItems": [
+      "n5_v_136"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_029",
+    "japanese": "へ",
+    "reading": "へ",
+    "romaji": "he",
+    "meaning": "Hiragana 'he'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like an arrow pointing to heaven.",
+    "exampleJapanese": "へや",
+    "exampleReading": "へや",
+    "exampleRomaji": "heya",
+    "exampleEnglish": "room",
+    "options": [
+      "he",
+      "be",
+      "pe",
+      "ku"
+    ],
+    "relatedItems": [
+      "n5_v_171"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_030",
+    "japanese": "ほ",
+    "reading": "ほ",
+    "romaji": "ho",
+    "meaning": "Hiragana 'ho'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a horse with a rider wearing a hat.",
+    "exampleJapanese": "ほん",
+    "exampleReading": "ほん",
+    "exampleRomaji": "hon",
+    "exampleEnglish": "book",
+    "options": [
+      "ho",
+      "bo",
+      "po",
+      "ha"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_031",
+    "japanese": "ま",
+    "reading": "ま",
+    "romaji": "ma",
+    "meaning": "Hiragana 'ma'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like an angel calling mama.",
+    "exampleJapanese": "まち",
+    "exampleReading": "まち",
+    "exampleRomaji": "machi",
+    "exampleEnglish": "town, city",
+    "options": [
+      "ma",
+      "mo",
+      "ho",
+      "ha"
+    ],
+    "relatedItems": [
+      "n5_v_159"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_032",
+    "japanese": "み",
+    "reading": "み",
+    "romaji": "mi",
+    "meaning": "Hiragana 'mi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like lucky number 21.",
+    "exampleJapanese": "みず",
+    "exampleReading": "みず",
+    "exampleRomaji": "mizu",
+    "exampleEnglish": "water",
+    "options": [
+      "mi",
+      "ma",
+      "mu",
+      "me"
+    ],
+    "relatedItems": [
+      "n5_v_32"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_033",
+    "japanese": "む",
+    "reading": "む",
+    "romaji": "mu",
+    "meaning": "Hiragana 'mu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a cow giving off a loud moo.",
+    "exampleJapanese": "むし",
+    "exampleReading": "むし",
+    "exampleRomaji": "mushi",
+    "exampleEnglish": "insect",
+    "options": [
+      "mu",
+      "su",
+      "me",
+      "mo"
+    ],
+    "relatedItems": [
+      "n5_v_145"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_034",
+    "japanese": "め",
+    "reading": "め",
+    "romaji": "me",
+    "meaning": "Hiragana 'me'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like an eye (目, me) sketched softly.",
+    "exampleJapanese": "め",
+    "exampleReading": "め",
+    "exampleRomaji": "me",
+    "exampleEnglish": "eye",
+    "options": [
+      "me",
+      "nu",
+      "ne",
+      "no"
+    ],
+    "relatedItems": [
+      "n5_v_146"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_035",
+    "japanese": "も",
+    "reading": "も",
+    "romaji": "mo",
+    "meaning": "Hiragana 'mo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a fishing hook with more worms.",
+    "exampleJapanese": "もの",
+    "exampleReading": "もの",
+    "exampleRomaji": "mono",
+    "exampleEnglish": "thing, object",
+    "options": [
+      "mo",
+      "ma",
+      "to",
+      "ho"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_036",
+    "japanese": "や",
+    "reading": "や",
+    "romaji": "ya",
+    "meaning": "Hiragana 'ya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a yak with curved horns.",
+    "exampleJapanese": "やま",
+    "exampleReading": "やま",
+    "exampleRomaji": "yama",
+    "exampleEnglish": "mountain",
+    "options": [
+      "ya",
+      "se",
+      "ka",
+      "yu"
+    ],
+    "relatedItems": [
+      "n5_v_153"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_037",
+    "japanese": "ゆ",
+    "reading": "ゆ",
+    "romaji": "yu",
+    "meaning": "Hiragana 'yu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a swimming fish in clear water.",
+    "exampleJapanese": "ゆき",
+    "exampleReading": "ゆき",
+    "exampleRomaji": "yuki",
+    "exampleEnglish": "snow",
+    "options": [
+      "yu",
+      "ya",
+      "yo",
+      "me"
+    ],
+    "relatedItems": [
+      "n5_v_138"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_038",
+    "japanese": "よ",
+    "reading": "よ",
+    "romaji": "yo",
+    "meaning": "Hiragana 'yo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a yo-yo hanging from a string.",
+    "exampleJapanese": "よる",
+    "exampleReading": "よる",
+    "exampleRomaji": "yoru",
+    "exampleEnglish": "night",
+    "options": [
+      "yo",
+      "ma",
+      "ha",
+      "ya"
+    ],
+    "relatedItems": [
+      "n5_v_47"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_039",
+    "japanese": "ら",
+    "reading": "ら",
+    "romaji": "ra",
+    "meaning": "Hiragana 'ra'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a rabbit standing on hind legs.",
+    "exampleJapanese": "らいしゅう",
+    "exampleReading": "らいしゅう",
+    "exampleRomaji": "raishuu",
+    "exampleEnglish": "next week",
+    "options": [
+      "ra",
+      "chi",
+      "u",
+      "ro"
+    ],
+    "relatedItems": [
+      "n5_v_124"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_040",
+    "japanese": "り",
+    "reading": "り",
+    "romaji": "ri",
+    "meaning": "Hiragana 'ri'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like two reeds blowing in the wind.",
+    "exampleJapanese": "りんご",
+    "exampleReading": "りんご",
+    "exampleRomaji": "ringo",
+    "exampleEnglish": "apple",
+    "options": [
+      "ri",
+      "i",
+      "re",
+      "ka"
+    ],
+    "relatedItems": [
+      "n5_v_33"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_041",
+    "japanese": "る",
+    "reading": "る",
+    "romaji": "ru",
+    "meaning": "Hiragana 'ru'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like number 3 with a loop at the base.",
+    "exampleJapanese": "るす",
+    "exampleReading": "るす",
+    "exampleRomaji": "rusu",
+    "exampleEnglish": "absence from home",
+    "options": [
+      "ru",
+      "ro",
+      "re",
+      "wa"
+    ],
+    "relatedItems": [
+      "n5_v_171"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_042",
+    "japanese": "れ",
+    "reading": "れ",
+    "romaji": "re",
+    "meaning": "Hiragana 're'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a runner reaching the finish line.",
+    "exampleJapanese": "れんしゅう",
+    "exampleReading": "れんしゅう",
+    "exampleRomaji": "renshuu",
+    "exampleEnglish": "practice",
+    "options": [
+      "re",
+      "ne",
+      "wa",
+      "ru"
+    ],
+    "relatedItems": [
+      "n5_v_70"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_043",
+    "japanese": "ろ",
+    "reading": "ろ",
+    "romaji": "ro",
+    "meaning": "Hiragana 'ro'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like number 3 with no loop.",
+    "exampleJapanese": "ろうそく",
+    "exampleReading": "ろうそく",
+    "exampleRomaji": "rousoku",
+    "exampleEnglish": "candle",
+    "options": [
+      "ro",
+      "ru",
+      "so",
+      "u"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_044",
+    "japanese": "わ",
+    "reading": "わ",
+    "romaji": "wa",
+    "meaning": "Hiragana 'wa'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a water bird sitting quietly.",
+    "exampleJapanese": "わたし",
+    "exampleReading": "わたし",
+    "exampleRomaji": "watashi",
+    "exampleEnglish": "I, myself",
+    "options": [
+      "wa",
+      "ne",
+      "re",
+      "o"
+    ],
+    "relatedItems": [
+      "n5_v_01"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_045",
+    "japanese": "を",
+    "reading": "を",
+    "romaji": "wo",
+    "meaning": "Hiragana 'wo/o' (Particle)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like a person jumping over an obstacle.",
+    "exampleJapanese": "ほんをよむ",
+    "exampleReading": "ほんをよむ",
+    "exampleRomaji": "hon o yomu",
+    "exampleEnglish": "read a book",
+    "options": [
+      "wo",
+      "o",
+      "a",
+      "te"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_046",
+    "japanese": "ん",
+    "reading": "ん",
+    "romaji": "n",
+    "meaning": "Hiragana nasal 'n'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Gojūon",
+    "mnemonicOrNote": "Looks like the lowercase cursive letter 'n'.",
+    "exampleJapanese": "にほん",
+    "exampleReading": "にほん",
+    "exampleRomaji": "nihon",
+    "exampleEnglish": "Japan",
+    "options": [
+      "n",
+      "so",
+      "e",
+      "u"
+    ],
+    "relatedItems": [
+      "n5_v_02"
+    ],
+    "tags": "KANA,HIRAGANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_047",
+    "japanese": "が",
+    "reading": "が",
+    "romaji": "ga",
+    "meaning": "Hiragana 'ga'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "か with dakuten marks.",
+    "exampleJapanese": "がくせい",
+    "exampleReading": "がくせい",
+    "exampleRomaji": "gakusei",
+    "exampleEnglish": "student",
+    "options": [
+      "ga",
+      "ka",
+      "za",
+      "da"
+    ],
+    "relatedItems": [
+      "n5_v_62"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_048",
+    "japanese": "ぎ",
+    "reading": "ぎ",
+    "romaji": "gi",
+    "meaning": "Hiragana 'gi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "き with dakuten marks.",
+    "exampleJapanese": "ぎんこう",
+    "exampleReading": "ぎんこう",
+    "exampleRomaji": "ginkou",
+    "exampleEnglish": "bank",
+    "options": [
+      "gi",
+      "ki",
+      "ji",
+      "bi"
+    ],
+    "relatedItems": [
+      "n5_v_58"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_049",
+    "japanese": "ぐ",
+    "reading": "ぐ",
+    "romaji": "gu",
+    "meaning": "Hiragana 'gu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "く with dakuten marks.",
+    "exampleJapanese": "ぐらい",
+    "exampleReading": "ぐらい",
+    "exampleRomaji": "gurai",
+    "exampleEnglish": "approximate amount",
+    "options": [
+      "gu",
+      "ku",
+      "zu",
+      "bu"
+    ],
+    "relatedItems": [
+      "n5_v_42"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_050",
+    "japanese": "げ",
+    "reading": "げ",
+    "romaji": "ge",
+    "meaning": "Hiragana 'ge'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "け with dakuten marks.",
+    "exampleJapanese": "げつようび",
+    "exampleReading": "げつようび",
+    "exampleRomaji": "getsuyoubi",
+    "exampleEnglish": "Monday",
+    "options": [
+      "ge",
+      "ke",
+      "ze",
+      "de"
+    ],
+    "relatedItems": [
+      "n5_v_50"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_051",
+    "japanese": "ご",
+    "reading": "ご",
+    "romaji": "go",
+    "meaning": "Hiragana 'go'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "こ with dakuten marks.",
+    "exampleJapanese": "ごはん",
+    "exampleReading": "ごはん",
+    "exampleRomaji": "gohan",
+    "exampleEnglish": "meal, cooked rice",
+    "options": [
+      "go",
+      "ko",
+      "zo",
+      "do"
+    ],
+    "relatedItems": [
+      "n5_v_38"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_052",
+    "japanese": "ざ",
+    "reading": "ざ",
+    "romaji": "za",
+    "meaning": "Hiragana 'za'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "さ with dakuten marks.",
+    "exampleJapanese": "ざっし",
+    "exampleReading": "ざっし",
+    "exampleRomaji": "zasshi",
+    "exampleEnglish": "magazine",
+    "options": [
+      "za",
+      "sa",
+      "ga",
+      "da"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_053",
+    "japanese": "じ",
+    "reading": "じ",
+    "romaji": "ji",
+    "meaning": "Hiragana 'ji'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "し with dakuten marks.",
+    "exampleJapanese": "じかん",
+    "exampleReading": "じかん",
+    "exampleRomaji": "jikan",
+    "exampleEnglish": "time, hours",
+    "options": [
+      "ji",
+      "shi",
+      "gi",
+      "chi"
+    ],
+    "relatedItems": [
+      "n5_v_43"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_054",
+    "japanese": "ず",
+    "reading": "ず",
+    "romaji": "zu",
+    "meaning": "Hiragana 'zu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "す with dakuten marks.",
+    "exampleJapanese": "ずっと",
+    "exampleReading": "ずっと",
+    "exampleRomaji": "zutto",
+    "exampleEnglish": "all the time, by far",
+    "options": [
+      "zu",
+      "su",
+      "gu",
+      "bu"
+    ],
+    "relatedItems": [
+      "n5_v_22"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_055",
+    "japanese": "ぜ",
+    "reading": "ぜ",
+    "romaji": "ze",
+    "meaning": "Hiragana 'ze'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "せ with dakuten marks.",
+    "exampleJapanese": "ぜんぶ",
+    "exampleReading": "ぜんぶ",
+    "exampleRomaji": "zenbu",
+    "exampleEnglish": "all, whole",
+    "options": [
+      "ze",
+      "se",
+      "ge",
+      "de"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_056",
+    "japanese": "ぞ",
+    "reading": "ぞ",
+    "romaji": "zo",
+    "meaning": "Hiragana 'zo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "そ with dakuten marks.",
+    "exampleJapanese": "ぞう",
+    "exampleReading": "ぞう",
+    "exampleRomaji": "zou",
+    "exampleEnglish": "elephant",
+    "options": [
+      "zo",
+      "so",
+      "go",
+      "do"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_057",
+    "japanese": "だ",
+    "reading": "だ",
+    "romaji": "da",
+    "meaning": "Hiragana 'da'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "た with dakuten marks.",
+    "exampleJapanese": "だいがく",
+    "exampleReading": "だいがく",
+    "exampleRomaji": "daigaku",
+    "exampleEnglish": "university",
+    "options": [
+      "da",
+      "ta",
+      "za",
+      "ga"
+    ],
+    "relatedItems": [
+      "n5_v_64"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_058",
+    "japanese": "ぢ",
+    "reading": "ぢ",
+    "romaji": "ji",
+    "meaning": "Hiragana 'ji' (di)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "ち with dakuten marks.",
+    "exampleJapanese": "はなぢ",
+    "exampleReading": "はなぢ",
+    "exampleRomaji": "hanaji",
+    "exampleEnglish": "nosebleed",
+    "options": [
+      "ji",
+      "chi",
+      "dji",
+      "shi"
+    ],
+    "relatedItems": [
+      "n5_v_147"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_059",
+    "japanese": "づ",
+    "reading": "づ",
+    "romaji": "zu",
+    "meaning": "Hiragana 'zu' (du)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "つ with dakuten marks.",
+    "exampleJapanese": "つづく",
+    "exampleReading": "つづく",
+    "exampleRomaji": "tsuzuku",
+    "exampleEnglish": "to continue",
+    "options": [
+      "zu",
+      "tsu",
+      "du",
+      "su"
+    ],
+    "relatedItems": [
+      "n5_v_71"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_060",
+    "japanese": "で",
+    "reading": "で",
+    "romaji": "de",
+    "meaning": "Hiragana 'de'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "て with dakuten marks.",
+    "exampleJapanese": "でんしゃ",
+    "exampleReading": "でんしゃ",
+    "exampleRomaji": "densha",
+    "exampleEnglish": "train",
+    "options": [
+      "de",
+      "te",
+      "ze",
+      "ge"
+    ],
+    "relatedItems": [
+      "n5_v_57"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_061",
+    "japanese": "ど",
+    "reading": "ど",
+    "romaji": "do",
+    "meaning": "Hiragana 'do'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "と with dakuten marks.",
+    "exampleJapanese": "どこ",
+    "exampleReading": "どこ",
+    "exampleRomaji": "doko",
+    "exampleEnglish": "where",
+    "options": [
+      "do",
+      "to",
+      "zo",
+      "go"
+    ],
+    "relatedItems": [
+      "n5_v_78"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_062",
+    "japanese": "ば",
+    "reading": "ば",
+    "romaji": "ba",
+    "meaning": "Hiragana 'ba'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "は with dakuten marks.",
+    "exampleJapanese": "ばんごはん",
+    "exampleReading": "ばんごはん",
+    "exampleRomaji": "bangohan",
+    "exampleEnglish": "dinner",
+    "options": [
+      "ba",
+      "ha",
+      "pa",
+      "da"
+    ],
+    "relatedItems": [
+      "n5_v_39"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_063",
+    "japanese": "び",
+    "reading": "び",
+    "romaji": "bi",
+    "meaning": "Hiragana 'bi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "ひ with dakuten marks.",
+    "exampleJapanese": "びょういん",
+    "exampleReading": "びょういん",
+    "exampleRomaji": "byouin",
+    "exampleEnglish": "hospital",
+    "options": [
+      "bi",
+      "hi",
+      "pi",
+      "gi"
+    ],
+    "relatedItems": [
+      "n5_v_60"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_064",
+    "japanese": "ぶ",
+    "reading": "ぶ",
+    "romaji": "bu",
+    "meaning": "Hiragana 'bu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "ふ with dakuten marks.",
+    "exampleJapanese": "ぶんしょう",
+    "exampleReading": "ぶんしょう",
+    "exampleRomaji": "bunshou",
+    "exampleEnglish": "sentence",
+    "options": [
+      "bu",
+      "fu",
+      "pu",
+      "gu"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_065",
+    "japanese": "べ",
+    "reading": "べ",
+    "romaji": "be",
+    "meaning": "Hiragana 'be'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "へ with dakuten marks.",
+    "exampleJapanese": "べんきょう",
+    "exampleReading": "べんきょう",
+    "exampleRomaji": "benkyou",
+    "exampleEnglish": "study",
+    "options": [
+      "be",
+      "he",
+      "pe",
+      "de"
+    ],
+    "relatedItems": [
+      "n5_v_70"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_066",
+    "japanese": "ぼ",
+    "reading": "ぼ",
+    "romaji": "bo",
+    "meaning": "Hiragana 'bo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Dakuten",
+    "mnemonicOrNote": "ほ with dakuten marks.",
+    "exampleJapanese": "ぼうし",
+    "exampleReading": "ぼうし",
+    "exampleRomaji": "boushi",
+    "exampleEnglish": "hat, cap",
+    "options": [
+      "bo",
+      "ho",
+      "po",
+      "do"
+    ],
+    "relatedItems": [
+      "n5_v_167"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_067",
+    "japanese": "ぱ",
+    "reading": "ぱ",
+    "romaji": "pa",
+    "meaning": "Hiragana 'pa'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Handakuten",
+    "mnemonicOrNote": "は with handakuten circle.",
+    "exampleJapanese": "パン",
+    "exampleReading": "ぱん",
+    "exampleRomaji": "pan",
+    "exampleEnglish": "bread",
+    "options": [
+      "pa",
+      "ba",
+      "ha",
+      "ta"
+    ],
+    "relatedItems": [
+      "n5_v_40"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_068",
+    "japanese": "ぴ",
+    "reading": "ぴ",
+    "romaji": "pi",
+    "meaning": "Hiragana 'pi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Handakuten",
+    "mnemonicOrNote": "ひ with handakuten circle.",
+    "exampleJapanese": "ぴかぴか",
+    "exampleReading": "ぴかぴか",
+    "exampleRomaji": "pikapika",
+    "exampleEnglish": "sparkling",
+    "options": [
+      "pi",
+      "bi",
+      "hi",
+      "ki"
+    ],
+    "relatedItems": [
+      "n5_v_14"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_069",
+    "japanese": "ぷ",
+    "reading": "ぷ",
+    "romaji": "pu",
+    "meaning": "Hiragana 'pu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Handakuten",
+    "mnemonicOrNote": "ふ with handakuten circle.",
+    "exampleJapanese": "プール",
+    "exampleReading": "ぷーる",
+    "exampleRomaji": "puuru",
+    "exampleEnglish": "swimming pool",
+    "options": [
+      "pu",
+      "bu",
+      "fu",
+      "ku"
+    ],
+    "relatedItems": [
+      "n5_v_154"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_070",
+    "japanese": "ぺ",
+    "reading": "ぺ",
+    "romaji": "pe",
+    "meaning": "Hiragana 'pe'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Handakuten",
+    "mnemonicOrNote": "へ with handakuten circle.",
+    "exampleJapanese": "ページ",
+    "exampleReading": "ぺーじ",
+    "exampleRomaji": "peeji",
+    "exampleEnglish": "page",
+    "options": [
+      "pe",
+      "be",
+      "he",
+      "te"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_071",
+    "japanese": "ぽ",
+    "reading": "ぽ",
+    "romaji": "po",
+    "meaning": "Hiragana 'po'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Handakuten",
+    "mnemonicOrNote": "ほ with handakuten circle.",
+    "exampleJapanese": "ポスト",
+    "exampleReading": "ぽすと",
+    "exampleRomaji": "posuto",
+    "exampleEnglish": "postbox",
+    "options": [
+      "po",
+      "bo",
+      "ho",
+      "to"
+    ],
+    "relatedItems": [
+      "n5_v_59"
+    ],
+    "tags": "KANA,HIRAGANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_072",
+    "japanese": "きゃ",
+    "reading": "きゃ",
+    "romaji": "kya",
+    "meaning": "Hiragana combo 'kya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "き + small ゃ.",
+    "exampleJapanese": "きゃく",
+    "exampleReading": "きゃく",
+    "exampleRomaji": "kyaku",
+    "exampleEnglish": "guest, customer",
+    "options": [
+      "kya",
+      "ki",
+      "ka",
+      "kya"
+    ],
+    "relatedItems": [
+      "n5_v_62"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_073",
+    "japanese": "きゅ",
+    "reading": "きゅ",
+    "romaji": "kyu",
+    "meaning": "Hiragana combo 'kyu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "き + small ゅ.",
+    "exampleJapanese": "きゅう",
+    "exampleReading": "きゅう",
+    "exampleRomaji": "kyuu",
+    "exampleEnglish": "nine",
+    "options": [
+      "kyu",
+      "ki",
+      "ku",
+      "kyo"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_074",
+    "japanese": "きょ",
+    "reading": "きょ",
+    "romaji": "kyo",
+    "meaning": "Hiragana combo 'kyo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "き + small ょ.",
+    "exampleJapanese": "きょう",
+    "exampleReading": "きょう",
+    "exampleRomaji": "kyou",
+    "exampleEnglish": "today",
+    "options": [
+      "kyo",
+      "ki",
+      "ko",
+      "kyu"
+    ],
+    "relatedItems": [
+      "n5_v_46"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_075",
+    "japanese": "しゃ",
+    "reading": "しゃ",
+    "romaji": "sha",
+    "meaning": "Hiragana combo 'sha'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "し + small ゃ.",
+    "exampleJapanese": "しゃしん",
+    "exampleReading": "しゃしん",
+    "exampleRomaji": "shashin",
+    "exampleEnglish": "photograph",
+    "options": [
+      "sha",
+      "shi",
+      "sa",
+      "shu"
+    ],
+    "relatedItems": [
+      "n5_v_178"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_076",
+    "japanese": "しゅ",
+    "reading": "しゅ",
+    "romaji": "shu",
+    "meaning": "Hiragana combo 'shu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "し + small ゅ.",
+    "exampleJapanese": "しゅくだい",
+    "exampleReading": "しゅくだい",
+    "exampleRomaji": "shukudai",
+    "exampleEnglish": "homework",
+    "options": [
+      "shu",
+      "shi",
+      "su",
+      "sho"
+    ],
+    "relatedItems": [
+      "n5_v_62"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_077",
+    "japanese": "しょ",
+    "reading": "しょ",
+    "romaji": "sho",
+    "meaning": "Hiragana combo 'sho'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "し + small ょ.",
+    "exampleJapanese": "しょくどう",
+    "exampleReading": "しょくどう",
+    "exampleRomaji": "shokudou",
+    "exampleEnglish": "cafeteria, dining hall",
+    "options": [
+      "sho",
+      "shi",
+      "so",
+      "sha"
+    ],
+    "relatedItems": [
+      "n5_v_64"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_078",
+    "japanese": "ちゃ",
+    "reading": "ちゃ",
+    "romaji": "cha",
+    "meaning": "Hiragana combo 'cha'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ち + small ゃ.",
+    "exampleJapanese": "おちゃ",
+    "exampleReading": "おちゃ",
+    "exampleRomaji": "ocha",
+    "exampleEnglish": "tea",
+    "options": [
+      "cha",
+      "chi",
+      "ta",
+      "chu"
+    ],
+    "relatedItems": [
+      "n5_v_34"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_079",
+    "japanese": "ちゅ",
+    "reading": "ちゅ",
+    "romaji": "chu",
+    "meaning": "Hiragana combo 'chu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ち + small ゅ.",
+    "exampleJapanese": "ちゅうごく",
+    "exampleReading": "ちゅうごく",
+    "exampleRomaji": "chuugoku",
+    "exampleEnglish": "China",
+    "options": [
+      "chu",
+      "chi",
+      "tsu",
+      "cho"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_080",
+    "japanese": "ちょ",
+    "reading": "ちょ",
+    "romaji": "cho",
+    "meaning": "Hiragana combo 'cho'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ち + small ょ.",
+    "exampleJapanese": "ちょっと",
+    "exampleReading": "ちょっと",
+    "exampleRomaji": "chotto",
+    "exampleEnglish": "a little, just a minute",
+    "options": [
+      "cho",
+      "chi",
+      "to",
+      "cha"
+    ],
+    "relatedItems": [
+      "n5_v_22"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_081",
+    "japanese": "にゃ",
+    "reading": "にゃ",
+    "romaji": "nya",
+    "meaning": "Hiragana combo 'nya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "に + small ゃ.",
+    "exampleJapanese": "にゃー",
+    "exampleReading": "にゃー",
+    "exampleRomaji": "nyaa",
+    "exampleEnglish": "cat meow",
+    "options": [
+      "nya",
+      "ni",
+      "na",
+      "nyu"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_082",
+    "japanese": "にゅ",
+    "reading": "にゅ",
+    "romaji": "nyu",
+    "meaning": "Hiragana combo 'nyu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "に + small ゅ.",
+    "exampleJapanese": "ぎゅうにゅう",
+    "exampleReading": "ぎゅうにゅう",
+    "exampleRomaji": "gyuunyuu",
+    "exampleEnglish": "milk",
+    "options": [
+      "nyu",
+      "ni",
+      "nu",
+      "nyo"
+    ],
+    "relatedItems": [
+      "n5_v_35"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_083",
+    "japanese": "にょ",
+    "reading": "にょ",
+    "romaji": "nyo",
+    "meaning": "Hiragana combo 'nyo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "に + small ょ.",
+    "exampleJapanese": "にょうぼう",
+    "exampleReading": "にょうぼう",
+    "exampleRomaji": "nyoubou",
+    "exampleEnglish": "wife",
+    "options": [
+      "nyo",
+      "ni",
+      "no",
+      "nya"
+    ],
+    "relatedItems": [
+      "n5_v_16"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_084",
+    "japanese": "ひゃ",
+    "reading": "ひゃ",
+    "romaji": "hya",
+    "meaning": "Hiragana combo 'hya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ひ + small ゃ.",
+    "exampleJapanese": "ひゃく",
+    "exampleReading": "ひゃく",
+    "exampleRomaji": "hyaku",
+    "exampleEnglish": "one hundred",
+    "options": [
+      "hya",
+      "hi",
+      "ha",
+      "hyu"
+    ],
+    "relatedItems": [
+      "n5_v_107"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_085",
+    "japanese": "ひゅ",
+    "reading": "ひゅ",
+    "romaji": "hyu",
+    "meaning": "Hiragana combo 'hyu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ひ + small ゅ.",
+    "exampleJapanese": "ひゅう",
+    "exampleReading": "ひゅう",
+    "exampleRomaji": "hyuu",
+    "exampleEnglish": "whistling wind",
+    "options": [
+      "hyu",
+      "hi",
+      "fu",
+      "hyo"
+    ],
+    "relatedItems": [
+      "n5_v_138"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_086",
+    "japanese": "ひょ",
+    "reading": "ひょ",
+    "romaji": "hyo",
+    "meaning": "Hiragana combo 'hyo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ひ + small ょ.",
+    "exampleJapanese": "ひょう",
+    "exampleReading": "ひょう",
+    "exampleRomaji": "hyou",
+    "exampleEnglish": "table, chart",
+    "options": [
+      "hyo",
+      "hi",
+      "ho",
+      "hya"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_087",
+    "japanese": "みゃ",
+    "reading": "みゃ",
+    "romaji": "mya",
+    "meaning": "Hiragana combo 'mya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "み + small ゃ.",
+    "exampleJapanese": "みゃく",
+    "exampleReading": "みゃく",
+    "exampleRomaji": "myaku",
+    "exampleEnglish": "pulse",
+    "options": [
+      "mya",
+      "mi",
+      "ma",
+      "myu"
+    ],
+    "relatedItems": [
+      "n5_v_146"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_088",
+    "japanese": "みゅ",
+    "reading": "みゅ",
+    "romaji": "myu",
+    "meaning": "Hiragana combo 'myu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "み + small ゅ.",
+    "exampleJapanese": "みゅーじあむ",
+    "exampleReading": "みゅーじあむ",
+    "exampleRomaji": "myuujiamu",
+    "exampleEnglish": "museum",
+    "options": [
+      "myu",
+      "mi",
+      "mu",
+      "myo"
+    ],
+    "relatedItems": [
+      "n5_v_60"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_089",
+    "japanese": "みょ",
+    "reading": "みょ",
+    "romaji": "myo",
+    "meaning": "Hiragana combo 'myo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "み + small ょ.",
+    "exampleJapanese": "みょうじ",
+    "exampleReading": "みょうじ",
+    "exampleRomaji": "myouji",
+    "exampleEnglish": "family surname",
+    "options": [
+      "myo",
+      "mi",
+      "mo",
+      "mya"
+    ],
+    "relatedItems": [
+      "n5_v_01"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_090",
+    "japanese": "りゃ",
+    "reading": "りゃ",
+    "romaji": "rya",
+    "meaning": "Hiragana combo 'rya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "り + small ゃ.",
+    "exampleJapanese": "りゃく",
+    "exampleReading": "りゃく",
+    "exampleRomaji": "ryaku",
+    "exampleEnglish": "abbreviation",
+    "options": [
+      "rya",
+      "ri",
+      "ra",
+      "ryu"
+    ],
+    "relatedItems": [
+      "n5_v_70"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_091",
+    "japanese": "りゅ",
+    "reading": "りゅ",
+    "romaji": "ryu",
+    "meaning": "Hiragana combo 'ryu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "り + small ゅ.",
+    "exampleJapanese": "りゅうがくせい",
+    "exampleReading": "りゅうがくせい",
+    "exampleRomaji": "ryuugakusei",
+    "exampleEnglish": "international student",
+    "options": [
+      "ryu",
+      "ri",
+      "ru",
+      "ryo"
+    ],
+    "relatedItems": [
+      "n5_v_62"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_092",
+    "japanese": "りょ",
+    "reading": "りょ",
+    "romaji": "ryo",
+    "meaning": "Hiragana combo 'ryo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "り + small ょ.",
+    "exampleJapanese": "りょこう",
+    "exampleReading": "りょこう",
+    "exampleRomaji": "ryokou",
+    "exampleEnglish": "travel, trip",
+    "options": [
+      "ryo",
+      "ri",
+      "ro",
+      "rya"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_093",
+    "japanese": "ぎゃ",
+    "reading": "ぎゃ",
+    "romaji": "gya",
+    "meaning": "Hiragana combo 'gya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ぎ + small ゃ.",
+    "exampleJapanese": "ぎゃく",
+    "exampleReading": "ぎゃく",
+    "exampleRomaji": "gyaku",
+    "exampleEnglish": "reverse, opposite",
+    "options": [
+      "gya",
+      "gi",
+      "ga",
+      "gyu"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_094",
+    "japanese": "ぎゅ",
+    "reading": "ぎゅ",
+    "romaji": "gyu",
+    "meaning": "Hiragana combo 'gyu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ぎ + small ゅ.",
+    "exampleJapanese": "ぎゅうにく",
+    "exampleReading": "ぎゅうにく",
+    "exampleRomaji": "gyuuniku",
+    "exampleEnglish": "beef",
+    "options": [
+      "gyu",
+      "gi",
+      "gu",
+      "gyo"
+    ],
+    "relatedItems": [
+      "n5_v_41"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_095",
+    "japanese": "ぎょ",
+    "reading": "ぎょ",
+    "romaji": "gyo",
+    "meaning": "Hiragana combo 'gyo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ぎ + small ょ.",
+    "exampleJapanese": "ぎょぎょう",
+    "exampleReading": "ぎょぎょう",
+    "exampleRomaji": "gyogyou",
+    "exampleEnglish": "fishing industry",
+    "options": [
+      "gyo",
+      "gi",
+      "go",
+      "gya"
+    ],
+    "relatedItems": [
+      "n5_v_31"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_096",
+    "japanese": "じゃ",
+    "reading": "じゃ",
+    "romaji": "ja",
+    "meaning": "Hiragana combo 'ja'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "じ + small ゃ.",
+    "exampleJapanese": "じゃあ",
+    "exampleReading": "じゃあ",
+    "exampleRomaji": "jaa",
+    "exampleEnglish": "well then, goodbye",
+    "options": [
+      "ja",
+      "ji",
+      "za",
+      "ju"
+    ],
+    "relatedItems": [
+      "n5_v_89"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_097",
+    "japanese": "じゅ",
+    "reading": "じゅ",
+    "romaji": "ju",
+    "meaning": "Hiragana combo 'ju'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "じ + small ゅ.",
+    "exampleJapanese": "じゅぎょう",
+    "exampleReading": "じゅぎょう",
+    "exampleRomaji": "jugyou",
+    "exampleEnglish": "class, lesson",
+    "options": [
+      "ju",
+      "ji",
+      "zu",
+      "jo"
+    ],
+    "relatedItems": [
+      "n5_v_64"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_098",
+    "japanese": "じょ",
+    "reading": "じょ",
+    "romaji": "jo",
+    "meaning": "Hiragana combo 'jo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "じ + small ょ.",
+    "exampleJapanese": "じょせい",
+    "exampleReading": "じょせい",
+    "exampleRomaji": "josei",
+    "exampleEnglish": "woman, female",
+    "options": [
+      "jo",
+      "ji",
+      "zo",
+      "ja"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_099",
+    "japanese": "びゃ",
+    "reading": "びゃ",
+    "romaji": "bya",
+    "meaning": "Hiragana combo 'bya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "び + small ゃ.",
+    "exampleJapanese": "さんびゃく",
+    "exampleReading": "さんびゃく",
+    "exampleRomaji": "sanbyaku",
+    "exampleEnglish": "three hundred",
+    "options": [
+      "bya",
+      "bi",
+      "ba",
+      "byu"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_100",
+    "japanese": "びゅ",
+    "reading": "びゅ",
+    "romaji": "byu",
+    "meaning": "Hiragana combo 'byu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "び + small ゅ.",
+    "exampleJapanese": "びゅう",
+    "exampleReading": "びゅう",
+    "exampleRomaji": "byuu",
+    "exampleEnglish": "gust of wind",
+    "options": [
+      "byu",
+      "bi",
+      "bu",
+      "byo"
+    ],
+    "relatedItems": [
+      "n5_v_138"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_101",
+    "japanese": "びょ",
+    "reading": "びょ",
+    "romaji": "byo",
+    "meaning": "Hiragana combo 'byo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "び + small ょ.",
+    "exampleJapanese": "びょういん",
+    "exampleReading": "びょういん",
+    "exampleRomaji": "byouin",
+    "exampleEnglish": "hospital",
+    "options": [
+      "byo",
+      "bi",
+      "bo",
+      "bya"
+    ],
+    "relatedItems": [
+      "n5_v_60"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_102",
+    "japanese": "ぴゃ",
+    "reading": "ぴゃ",
+    "romaji": "pya",
+    "meaning": "Hiragana combo 'pya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ぴ + small ゃ.",
+    "exampleJapanese": "ろっぴゃく",
+    "exampleReading": "ろっぴゃく",
+    "exampleRomaji": "roppyaku",
+    "exampleEnglish": "six hundred",
+    "options": [
+      "pya",
+      "pi",
+      "pa",
+      "pyu"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_103",
+    "japanese": "ぴゅ",
+    "reading": "ぴゅ",
+    "romaji": "pyu",
+    "meaning": "Hiragana combo 'pyu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ぴ + small ゅ.",
+    "exampleJapanese": "ぴゅうぴゅう",
+    "exampleReading": "ぴゅうぴゅう",
+    "exampleRomaji": "pyuupyuu",
+    "exampleEnglish": "howling wind",
+    "options": [
+      "pyu",
+      "pi",
+      "pu",
+      "pyo"
+    ],
+    "relatedItems": [
+      "n5_v_138"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_104",
+    "japanese": "ぴょ",
+    "reading": "ぴょ",
+    "romaji": "pyo",
+    "meaning": "Hiragana combo 'pyo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Yōon",
+    "mnemonicOrNote": "ぴ + small ょ.",
+    "exampleJapanese": "ぴょんぴょん",
+    "exampleReading": "ぴょんぴょん",
+    "exampleRomaji": "pyonpyon",
+    "exampleEnglish": "hopping, bouncing",
+    "options": [
+      "pyo",
+      "pi",
+      "po",
+      "pya"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_h_105",
+    "japanese": "っ",
+    "reading": "っ",
+    "romaji": "tsu (sokuon)",
+    "meaning": "Small tsu (geminate stop)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Hiragana Sokuon",
+    "mnemonicOrNote": "Doubles the following consonant sound (stop).",
+    "exampleJapanese": "がっこう",
+    "exampleReading": "がっこう",
+    "exampleRomaji": "gakkou",
+    "exampleEnglish": "school",
+    "options": [
+      "tsu",
+      "su",
+      "chi",
+      "to"
+    ],
+    "relatedItems": [
+      "n5_v_55"
+    ],
+    "tags": "KANA,HIRAGANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_001",
+    "japanese": "ア",
+    "reading": "ア",
+    "romaji": "a",
+    "meaning": "Katakana 'a'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like an axe blade angled to cut.",
+    "exampleJapanese": "アメリカ",
+    "exampleReading": "あめりか",
+    "exampleRomaji": "amerika",
+    "exampleEnglish": "America, USA",
+    "options": [
+      "a",
+      "i",
+      "u",
+      "e"
+    ],
+    "relatedItems": [
+      "n5_v_02"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_002",
+    "japanese": "イ",
+    "reading": "イ",
+    "romaji": "i",
+    "meaning": "Katakana 'i'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like an easel stand.",
+    "exampleJapanese": "イギリス",
+    "exampleReading": "いぎりす",
+    "exampleRomaji": "igirisu",
+    "exampleEnglish": "United Kingdom",
+    "options": [
+      "i",
+      "a",
+      "ri",
+      "to"
+    ],
+    "relatedItems": [
+      "n5_v_02"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_003",
+    "japanese": "ウ",
+    "reading": "ウ",
+    "romaji": "u",
+    "meaning": "Katakana 'u'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like an umbrella without the hook.",
+    "exampleJapanese": "ウェブ",
+    "exampleReading": "うぇぶ",
+    "exampleRomaji": "webu",
+    "exampleEnglish": "web",
+    "options": [
+      "u",
+      "wa",
+      "fu",
+      "ra"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_004",
+    "japanese": "エ",
+    "reading": "エ",
+    "romaji": "e",
+    "meaning": "Katakana 'e'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like the steel girder of an elevator.",
+    "exampleJapanese": "エレベーター",
+    "exampleReading": "えれべーたー",
+    "exampleRomaji": "erebeetaa",
+    "exampleEnglish": "elevator",
+    "options": [
+      "e",
+      "ko",
+      "i",
+      "a"
+    ],
+    "relatedItems": [
+      "n5_v_56"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_005",
+    "japanese": "オ",
+    "reading": "オ",
+    "romaji": "o",
+    "meaning": "Katakana 'o'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like an opera singer taking a bow.",
+    "exampleJapanese": "オレンジ",
+    "exampleReading": "おれんじ",
+    "exampleRomaji": "orenji",
+    "exampleEnglish": "orange",
+    "options": [
+      "o",
+      "ka",
+      "ho",
+      "a"
+    ],
+    "relatedItems": [
+      "n5_v_33"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_006",
+    "japanese": "カ",
+    "reading": "カ",
+    "romaji": "ka",
+    "meaning": "Katakana 'ka'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a camera lens angle.",
+    "exampleJapanese": "カメラ",
+    "exampleReading": "かめら",
+    "exampleRomaji": "kamera",
+    "exampleEnglish": "camera",
+    "options": [
+      "ka",
+      "ga",
+      "ki",
+      "ku"
+    ],
+    "relatedItems": [
+      "n5_v_178"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_007",
+    "japanese": "キ",
+    "reading": "キ",
+    "romaji": "ki",
+    "meaning": "Katakana 'ki'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like two parallel keys.",
+    "exampleJapanese": "キロ",
+    "exampleReading": "きろ",
+    "exampleRomaji": "kiro",
+    "exampleEnglish": "kilo, kilometer",
+    "options": [
+      "ki",
+      "sa",
+      "gi",
+      "chi"
+    ],
+    "relatedItems": [
+      "n5_v_42"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_008",
+    "japanese": "ク",
+    "reading": "ク",
+    "romaji": "ku",
+    "meaning": "Katakana 'ku'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a cook's hat tipped sideways.",
+    "exampleJapanese": "クラス",
+    "exampleReading": "くらす",
+    "exampleRomaji": "kurasu",
+    "exampleEnglish": "class",
+    "options": [
+      "ku",
+      "wa",
+      "ta",
+      "fu"
+    ],
+    "relatedItems": [
+      "n5_v_64"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_009",
+    "japanese": "ケ",
+    "reading": "ケ",
+    "romaji": "ke",
+    "meaning": "Katakana 'ke'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a kettle pouring downward.",
+    "exampleJapanese": "ケーキ",
+    "exampleReading": "けーき",
+    "exampleRomaji": "keeki",
+    "exampleEnglish": "cake",
+    "options": [
+      "ke",
+      "ku",
+      "fu",
+      "ha"
+    ],
+    "relatedItems": [
+      "n5_v_40"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_010",
+    "japanese": "コ",
+    "reading": "コ",
+    "romaji": "ko",
+    "meaning": "Katakana 'ko'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like two corners forming a box.",
+    "exampleJapanese": "コーヒー",
+    "exampleReading": "こーひー",
+    "exampleRomaji": "koohii",
+    "exampleEnglish": "coffee",
+    "options": [
+      "ko",
+      "yu",
+      "ro",
+      "e"
+    ],
+    "relatedItems": [
+      "n5_v_35"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_011",
+    "japanese": "サ",
+    "reading": "サ",
+    "romaji": "sa",
+    "meaning": "Katakana 'sa'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like three salad tongs.",
+    "exampleJapanese": "サンドイッチ",
+    "exampleReading": "さんどいっち",
+    "exampleRomaji": "sandoicchi",
+    "exampleEnglish": "sandwich",
+    "options": [
+      "sa",
+      "se",
+      "chi",
+      "za"
+    ],
+    "relatedItems": [
+      "n5_v_40"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_012",
+    "japanese": "シ",
+    "reading": "シ",
+    "romaji": "shi",
+    "meaning": "Katakana 'shi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like sea foam splashing upward.",
+    "exampleJapanese": "シャツ",
+    "exampleReading": "しゃつ",
+    "exampleRomaji": "shatsu",
+    "exampleEnglish": "shirt",
+    "options": [
+      "shi",
+      "tsu",
+      "so",
+      "n"
+    ],
+    "relatedItems": [
+      "n5_v_165"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_013",
+    "japanese": "ス",
+    "reading": "ス",
+    "romaji": "su",
+    "meaning": "Katakana 'su'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a ski jumper in flight.",
+    "exampleJapanese": "スポーツ",
+    "exampleReading": "すぽーつ",
+    "exampleRomaji": "supootsu",
+    "exampleEnglish": "sports",
+    "options": [
+      "su",
+      "nu",
+      "fu",
+      "ma"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_014",
+    "japanese": "セ",
+    "reading": "セ",
+    "romaji": "se",
+    "meaning": "Katakana 'se'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a seven tilted sideways.",
+    "exampleJapanese": "セーター",
+    "exampleReading": "せーたー",
+    "exampleRomaji": "seetaa",
+    "exampleEnglish": "sweater",
+    "options": [
+      "se",
+      "sa",
+      "ze",
+      "ya"
+    ],
+    "relatedItems": [
+      "n5_v_166"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_015",
+    "japanese": "ソ",
+    "reading": "ソ",
+    "romaji": "so",
+    "meaning": "Katakana 'so'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like soft needles pointing down.",
+    "exampleJapanese": "ソファ",
+    "exampleReading": "そふぁ",
+    "exampleRomaji": "sofa",
+    "exampleEnglish": "sofa",
+    "options": [
+      "so",
+      "n",
+      "shi",
+      "tsu"
+    ],
+    "relatedItems": [
+      "n5_v_174"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_016",
+    "japanese": "タ",
+    "reading": "タ",
+    "romaji": "ta",
+    "meaning": "Katakana 'ta'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a tall taco stand.",
+    "exampleJapanese": "タクシー",
+    "exampleReading": "たくしー",
+    "exampleRomaji": "takushii",
+    "exampleEnglish": "taxi",
+    "options": [
+      "ta",
+      "da",
+      "ku",
+      "fu"
+    ],
+    "relatedItems": [
+      "n5_v_61"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_017",
+    "japanese": "チ",
+    "reading": "チ",
+    "romaji": "chi",
+    "meaning": "Katakana 'chi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a cheerleader waving a pompom.",
+    "exampleJapanese": "チーズ",
+    "exampleReading": "ちーず",
+    "exampleRomaji": "chiizu",
+    "exampleEnglish": "cheese",
+    "options": [
+      "chi",
+      "te",
+      "sa",
+      "ji"
+    ],
+    "relatedItems": [
+      "n5_v_37"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_018",
+    "japanese": "ツ",
+    "reading": "ツ",
+    "romaji": "tsu",
+    "meaning": "Katakana 'tsu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like two drops in a tsunami wave.",
+    "exampleJapanese": "ツアー",
+    "exampleReading": "つあー",
+    "exampleRomaji": "tsuaa",
+    "exampleEnglish": "tour",
+    "options": [
+      "tsu",
+      "shi",
+      "so",
+      "n"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_019",
+    "japanese": "テ",
+    "reading": "テ",
+    "romaji": "te",
+    "meaning": "Katakana 'te'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a television antenna pole.",
+    "exampleJapanese": "テレビ",
+    "exampleReading": "てれび",
+    "exampleRomaji": "terebi",
+    "exampleEnglish": "television",
+    "options": [
+      "te",
+      "de",
+      "chi",
+      "to"
+    ],
+    "relatedItems": [
+      "n5_v_175"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_020",
+    "japanese": "ト",
+    "reading": "ト",
+    "romaji": "to",
+    "meaning": "Katakana 'to'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a totem pole with a branch.",
+    "exampleJapanese": "トイレ",
+    "exampleReading": "といれ",
+    "exampleRomaji": "toire",
+    "exampleEnglish": "restroom, toilet",
+    "options": [
+      "to",
+      "do",
+      "i",
+      "te"
+    ],
+    "relatedItems": [
+      "n5_v_171"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_021",
+    "japanese": "ナ",
+    "reading": "ナ",
+    "romaji": "na",
+    "meaning": "Katakana 'na'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a pocket knife.",
+    "exampleJapanese": "ナイフ",
+    "exampleReading": "ないふ",
+    "exampleRomaji": "naifu",
+    "exampleEnglish": "knife",
+    "options": [
+      "na",
+      "me",
+      "ta",
+      "ha"
+    ],
+    "relatedItems": [
+      "n5_v_174"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_022",
+    "japanese": "ニ",
+    "reading": "ニ",
+    "romaji": "ni",
+    "meaning": "Katakana 'ni'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like two needles lying flat.",
+    "exampleJapanese": "ニュース",
+    "exampleReading": "にゅーす",
+    "exampleRomaji": "nyuusu",
+    "exampleEnglish": "news",
+    "options": [
+      "ni",
+      "ko",
+      "i",
+      "ro"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_023",
+    "japanese": "ヌ",
+    "reading": "ヌ",
+    "romaji": "nu",
+    "meaning": "Katakana 'nu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like chopsticks grabbing noodles.",
+    "exampleJapanese": "ヌードル",
+    "exampleReading": "ぬーどる",
+    "exampleRomaji": "nuudoru",
+    "exampleEnglish": "noodles",
+    "options": [
+      "nu",
+      "su",
+      "me",
+      "wa"
+    ],
+    "relatedItems": [
+      "n5_v_37"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_024",
+    "japanese": "ネ",
+    "reading": "ネ",
+    "romaji": "ne",
+    "meaning": "Katakana 'ne'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a necktie hanging down.",
+    "exampleJapanese": "ネクタイ",
+    "exampleReading": "ねくたい",
+    "exampleRomaji": "nekutai",
+    "exampleEnglish": "necktie",
+    "options": [
+      "ne",
+      "ho",
+      "ki",
+      "wa"
+    ],
+    "relatedItems": [
+      "n5_v_165"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_025",
+    "japanese": "ノ",
+    "reading": "ノ",
+    "romaji": "no",
+    "meaning": "Katakana 'no'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a clean nose slope.",
+    "exampleJapanese": "ノート",
+    "exampleReading": "のーと",
+    "exampleRomaji": "nooto",
+    "exampleEnglish": "notebook",
+    "options": [
+      "no",
+      "so",
+      "me",
+      "ru"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_026",
+    "japanese": "ハ",
+    "reading": "ハ",
+    "romaji": "ha",
+    "meaning": "Katakana 'ha'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like the roof of a house.",
+    "exampleJapanese": "ハンバーガー",
+    "exampleReading": "はんばーがー",
+    "exampleRomaji": "hanbaagaa",
+    "exampleEnglish": "hamburger",
+    "options": [
+      "ha",
+      "ba",
+      "pa",
+      "ya"
+    ],
+    "relatedItems": [
+      "n5_v_40"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_027",
+    "japanese": "ヒ",
+    "reading": "ヒ",
+    "romaji": "hi",
+    "meaning": "Katakana 'hi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like someone smiling heel to toe.",
+    "exampleJapanese": "ホテル",
+    "exampleReading": "ほてる",
+    "exampleRomaji": "hoteru",
+    "exampleEnglish": "hotel",
+    "options": [
+      "hi",
+      "bi",
+      "pi",
+      "se"
+    ],
+    "relatedItems": [
+      "n5_v_60"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_028",
+    "japanese": "フ",
+    "reading": "フ",
+    "romaji": "fu",
+    "meaning": "Katakana 'fu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a flag waving in the breeze.",
+    "exampleJapanese": "フォーク",
+    "exampleReading": "ふぉーく",
+    "exampleRomaji": "fooku",
+    "exampleEnglish": "fork",
+    "options": [
+      "fu",
+      "bu",
+      "pu",
+      "ra"
+    ],
+    "relatedItems": [
+      "n5_v_174"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_029",
+    "japanese": "ヘ",
+    "reading": "ヘ",
+    "romaji": "he",
+    "meaning": "Katakana 'he'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like Mount Fuji's slope.",
+    "exampleJapanese": "ヘリコプター",
+    "exampleReading": "へりこぷたー",
+    "exampleRomaji": "herikoputaa",
+    "exampleEnglish": "helicopter",
+    "options": [
+      "he",
+      "be",
+      "pe",
+      "ku"
+    ],
+    "relatedItems": [
+      "n5_v_61"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_030",
+    "japanese": "ホ",
+    "reading": "ホ",
+    "romaji": "ho",
+    "meaning": "Katakana 'ho'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a holy cross with wings.",
+    "exampleJapanese": "ホテル",
+    "exampleReading": "ほてる",
+    "exampleRomaji": "hoteru",
+    "exampleEnglish": "hotel",
+    "options": [
+      "ho",
+      "bo",
+      "po",
+      "ha"
+    ],
+    "relatedItems": [
+      "n5_v_60"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_031",
+    "japanese": "マ",
+    "reading": "マ",
+    "romaji": "ma",
+    "meaning": "Katakana 'ma'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a megaphone shouting 'mama'.",
+    "exampleJapanese": "マッチ",
+    "exampleReading": "まっち",
+    "exampleRomaji": "macchi",
+    "exampleEnglish": "match (fire)",
+    "options": [
+      "ma",
+      "mu",
+      "mo",
+      "a"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_032",
+    "japanese": "ミ",
+    "reading": "ミ",
+    "romaji": "mi",
+    "meaning": "Katakana 'mi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like three musical missile lines.",
+    "exampleJapanese": "ミルク",
+    "exampleReading": "みるく",
+    "exampleRomaji": "miruku",
+    "exampleEnglish": "milk",
+    "options": [
+      "mi",
+      "ma",
+      "mu",
+      "me"
+    ],
+    "relatedItems": [
+      "n5_v_35"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_033",
+    "japanese": "ム",
+    "reading": "ム",
+    "romaji": "mu",
+    "meaning": "Katakana 'mu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a triangle piece of cheese.",
+    "exampleJapanese": "ムービー",
+    "exampleReading": "むーびー",
+    "exampleRomaji": "muubii",
+    "exampleEnglish": "movie",
+    "options": [
+      "mu",
+      "su",
+      "ma",
+      "nu"
+    ],
+    "relatedItems": [
+      "n5_v_178"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_034",
+    "japanese": "メ",
+    "reading": "メ",
+    "romaji": "me",
+    "meaning": "Katakana 'me'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like crossing noodles.",
+    "exampleJapanese": "メニュー",
+    "exampleReading": "めにゅー",
+    "exampleRomaji": "menyuu",
+    "exampleEnglish": "menu",
+    "options": [
+      "me",
+      "nu",
+      "na",
+      "no"
+    ],
+    "relatedItems": [
+      "n5_v_37"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_035",
+    "japanese": "モ",
+    "reading": "モ",
+    "romaji": "mo",
+    "meaning": "Katakana 'mo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a monitor with two shelves.",
+    "exampleJapanese": "モデル",
+    "exampleReading": "もでる",
+    "exampleRomaji": "moderu",
+    "exampleEnglish": "model",
+    "options": [
+      "mo",
+      "ma",
+      "ho",
+      "ko"
+    ],
+    "relatedItems": [
+      "n5_v_63"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_036",
+    "japanese": "ヤ",
+    "reading": "ヤ",
+    "romaji": "ya",
+    "meaning": "Katakana 'ya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a yacht sail catching wind.",
+    "exampleJapanese": "ヤード",
+    "exampleReading": "やーど",
+    "exampleRomaji": "yaado",
+    "exampleEnglish": "yard",
+    "options": [
+      "ya",
+      "se",
+      "ka",
+      "yu"
+    ],
+    "relatedItems": [
+      "n5_v_159"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_037",
+    "japanese": "ユ",
+    "reading": "ユ",
+    "romaji": "yu",
+    "meaning": "Katakana 'yu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a u-turn ramp.",
+    "exampleJapanese": "ユーモア",
+    "exampleReading": "ゆーもあ",
+    "exampleRomaji": "yuumoa",
+    "exampleEnglish": "humor",
+    "options": [
+      "yu",
+      "ko",
+      "ya",
+      "yo"
+    ],
+    "relatedItems": [
+      "n5_v_27"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_038",
+    "japanese": "ヨ",
+    "reading": "ヨ",
+    "romaji": "yo",
+    "meaning": "Katakana 'yo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a yogurt spoon with shelves.",
+    "exampleJapanese": "ヨーロッパ",
+    "exampleReading": "よーろっぱ",
+    "exampleRomaji": "yooroppa",
+    "exampleEnglish": "Europe",
+    "options": [
+      "yo",
+      "ko",
+      "e",
+      "ya"
+    ],
+    "relatedItems": [
+      "n5_v_02"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_039",
+    "japanese": "ラ",
+    "reading": "ラ",
+    "romaji": "ra",
+    "meaning": "Katakana 'ra'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a radio antennae line.",
+    "exampleJapanese": "ラジオ",
+    "exampleReading": "らじお",
+    "exampleRomaji": "rajio",
+    "exampleEnglish": "radio",
+    "options": [
+      "ra",
+      "fu",
+      "u",
+      "ro"
+    ],
+    "relatedItems": [
+      "n5_v_175"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_040",
+    "japanese": "リ",
+    "reading": "リ",
+    "romaji": "ri",
+    "meaning": "Katakana 'ri'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like two parallel ribbons.",
+    "exampleJapanese": "リンゴ",
+    "exampleReading": "りんご",
+    "exampleRomaji": "ringo",
+    "exampleEnglish": "apple",
+    "options": [
+      "ri",
+      "i",
+      "re",
+      "ka"
+    ],
+    "relatedItems": [
+      "n5_v_33"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_041",
+    "japanese": "ル",
+    "reading": "ル",
+    "romaji": "ru",
+    "meaning": "Katakana 'ru'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like two legs running route.",
+    "exampleJapanese": "ルール",
+    "exampleReading": "るーる",
+    "exampleRomaji": "ruuru",
+    "exampleEnglish": "rule",
+    "options": [
+      "ru",
+      "re",
+      "ro",
+      "ha"
+    ],
+    "relatedItems": [
+      "n5_v_62"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_042",
+    "japanese": "レ",
+    "reading": "レ",
+    "romaji": "re",
+    "meaning": "Katakana 're'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a ray of sunlight bouncing.",
+    "exampleJapanese": "レストラン",
+    "exampleReading": "れすとらん",
+    "exampleRomaji": "resutoran",
+    "exampleEnglish": "restaurant",
+    "options": [
+      "re",
+      "ru",
+      "ro",
+      "wa"
+    ],
+    "relatedItems": [
+      "n5_v_60"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_043",
+    "japanese": "ロ",
+    "reading": "ロ",
+    "romaji": "ro",
+    "meaning": "Katakana 'ro'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a square road sign.",
+    "exampleJapanese": "ロシア",
+    "exampleReading": "ろしあ",
+    "exampleRomaji": "roshia",
+    "exampleEnglish": "Russia",
+    "options": [
+      "ro",
+      "ko",
+      "ru",
+      "so"
+    ],
+    "relatedItems": [
+      "n5_v_02"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_044",
+    "japanese": "ワ",
+    "reading": "ワ",
+    "romaji": "wa",
+    "meaning": "Katakana 'wa'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a wine glass outline.",
+    "exampleJapanese": "ワイン",
+    "exampleReading": "わいん",
+    "exampleRomaji": "wain",
+    "exampleEnglish": "wine",
+    "options": [
+      "wa",
+      "u",
+      "fu",
+      "o"
+    ],
+    "relatedItems": [
+      "n5_v_36"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_045",
+    "japanese": "ヲ",
+    "reading": "ヲ",
+    "romaji": "wo",
+    "meaning": "Katakana 'wo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Used historically or in stylized text.",
+    "exampleJapanese": "ヲタク",
+    "exampleReading": "をたく",
+    "exampleRomaji": "wotaku",
+    "exampleEnglish": "otaku",
+    "options": [
+      "wo",
+      "o",
+      "wa",
+      "fu"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_046",
+    "japanese": "ン",
+    "reading": "ン",
+    "romaji": "n",
+    "meaning": "Katakana 'n'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Gojūon",
+    "mnemonicOrNote": "Looks like a needle stroke moving up.",
+    "exampleJapanese": "パン",
+    "exampleReading": "ぱん",
+    "exampleRomaji": "pan",
+    "exampleEnglish": "bread",
+    "options": [
+      "n",
+      "so",
+      "shi",
+      "tsu"
+    ],
+    "relatedItems": [
+      "n5_v_40"
+    ],
+    "tags": "KANA,KATAKANA,GOJUON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_047",
+    "japanese": "ガ",
+    "reading": "ガ",
+    "romaji": "ga",
+    "meaning": "Katakana 'ga'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "カ with dakuten.",
+    "exampleJapanese": "ガス",
+    "exampleReading": "がす",
+    "exampleRomaji": "gasu",
+    "exampleEnglish": "gas",
+    "options": [
+      "ga",
+      "ka",
+      "za",
+      "da"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_048",
+    "japanese": "ギ",
+    "reading": "ギ",
+    "romaji": "gi",
+    "meaning": "Katakana 'gi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "キ with dakuten.",
+    "exampleJapanese": "ギター",
+    "exampleReading": "ぎたー",
+    "exampleRomaji": "gitaa",
+    "exampleEnglish": "guitar",
+    "options": [
+      "gi",
+      "ki",
+      "ji",
+      "bi"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_049",
+    "japanese": "グ",
+    "reading": "グ",
+    "romaji": "gu",
+    "meaning": "Katakana 'gu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "ク with dakuten.",
+    "exampleJapanese": "グラス",
+    "exampleReading": "ぐらす",
+    "exampleRomaji": "gurasu",
+    "exampleEnglish": "drinking glass",
+    "options": [
+      "gu",
+      "ku",
+      "zu",
+      "bu"
+    ],
+    "relatedItems": [
+      "n5_v_174"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_050",
+    "japanese": "ゲ",
+    "reading": "ゲ",
+    "romaji": "ge",
+    "meaning": "Katakana 'ge'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "ケ with dakuten.",
+    "exampleJapanese": "ゲーム",
+    "exampleReading": "げーむ",
+    "exampleRomaji": "geemu",
+    "exampleEnglish": "game",
+    "options": [
+      "ge",
+      "ke",
+      "ze",
+      "de"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_051",
+    "japanese": "ゴ",
+    "reading": "ゴ",
+    "romaji": "go",
+    "meaning": "Katakana 'go'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "コ with dakuten.",
+    "exampleJapanese": "ゴルフ",
+    "exampleReading": "ごるふ",
+    "exampleRomaji": "gorufu",
+    "exampleEnglish": "golf",
+    "options": [
+      "go",
+      "ko",
+      "zo",
+      "do"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_052",
+    "japanese": "ザ",
+    "reading": "ザ",
+    "romaji": "za",
+    "meaning": "Katakana 'za'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "サ with dakuten.",
+    "exampleJapanese": "サラダ",
+    "exampleReading": "さらだ",
+    "exampleRomaji": "sarada",
+    "exampleEnglish": "salad",
+    "options": [
+      "za",
+      "sa",
+      "ga",
+      "da"
+    ],
+    "relatedItems": [
+      "n5_v_37"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_053",
+    "japanese": "ジ",
+    "reading": "ジ",
+    "romaji": "ji",
+    "meaning": "Katakana 'ji'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "シ with dakuten.",
+    "exampleJapanese": "ジーンズ",
+    "exampleReading": "じーんず",
+    "exampleRomaji": "jiinzu",
+    "exampleEnglish": "jeans",
+    "options": [
+      "ji",
+      "shi",
+      "gi",
+      "chi"
+    ],
+    "relatedItems": [
+      "n5_v_165"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_054",
+    "japanese": "ズ",
+    "reading": "ズ",
+    "romaji": "zu",
+    "meaning": "Katakana 'zu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "ス with dakuten.",
+    "exampleJapanese": "ズボン",
+    "exampleReading": "ずぼん",
+    "exampleRomaji": "zubon",
+    "exampleEnglish": "pants, trousers",
+    "options": [
+      "zu",
+      "su",
+      "gu",
+      "bu"
+    ],
+    "relatedItems": [
+      "n5_v_166"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_055",
+    "japanese": "ゼ",
+    "reading": "ゼ",
+    "romaji": "ze",
+    "meaning": "Katakana 'ze'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "セ with dakuten.",
+    "exampleJapanese": "ゼロ",
+    "exampleReading": "ぜろ",
+    "exampleRomaji": "zero",
+    "exampleEnglish": "zero",
+    "options": [
+      "ze",
+      "se",
+      "ge",
+      "de"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_056",
+    "japanese": "ゾ",
+    "reading": "ゾ",
+    "romaji": "zo",
+    "meaning": "Katakana 'zo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "ソ with dakuten.",
+    "exampleJapanese": "ゾーン",
+    "exampleReading": "ぞーん",
+    "exampleRomaji": "zoon",
+    "exampleEnglish": "zone",
+    "options": [
+      "zo",
+      "so",
+      "go",
+      "do"
+    ],
+    "relatedItems": [
+      "n5_v_159"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_057",
+    "japanese": "ダ",
+    "reading": "ダ",
+    "romaji": "da",
+    "meaning": "Katakana 'da'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "タ with dakuten.",
+    "exampleJapanese": "ダンス",
+    "exampleReading": "だんす",
+    "exampleRomaji": "dansu",
+    "exampleEnglish": "dance",
+    "options": [
+      "da",
+      "ta",
+      "za",
+      "ga"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_058",
+    "japanese": "ヂ",
+    "reading": "ヂ",
+    "romaji": "ji",
+    "meaning": "Katakana 'ji' (di)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "チ with dakuten.",
+    "exampleJapanese": "ヂーゼル",
+    "exampleReading": "じーぜる",
+    "exampleRomaji": "jiizeru",
+    "exampleEnglish": "diesel",
+    "options": [
+      "ji",
+      "chi",
+      "dji",
+      "shi"
+    ],
+    "relatedItems": [
+      "n5_v_61"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_059",
+    "japanese": "ヅ",
+    "reading": "ヅ",
+    "romaji": "zu",
+    "meaning": "Katakana 'zu' (du)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "ツ with dakuten.",
+    "exampleJapanese": "ハナヅまり",
+    "exampleReading": "はなづまり",
+    "exampleRomaji": "hanazumari",
+    "exampleEnglish": "stuffy nose",
+    "options": [
+      "zu",
+      "tsu",
+      "du",
+      "su"
+    ],
+    "relatedItems": [
+      "n5_v_147"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_060",
+    "japanese": "デ",
+    "reading": "デ",
+    "romaji": "de",
+    "meaning": "Katakana 'de'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "テ with dakuten.",
+    "exampleJapanese": "デパート",
+    "exampleReading": "でぱーと",
+    "exampleRomaji": "depaato",
+    "exampleEnglish": "department store",
+    "options": [
+      "de",
+      "te",
+      "ze",
+      "ge"
+    ],
+    "relatedItems": [
+      "n5_v_58"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_061",
+    "japanese": "ド",
+    "reading": "ド",
+    "romaji": "do",
+    "meaning": "Katakana 'do'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "ト with dakuten.",
+    "exampleJapanese": "ドア",
+    "exampleReading": "どあ",
+    "exampleRomaji": "doa",
+    "exampleEnglish": "door",
+    "options": [
+      "do",
+      "to",
+      "zo",
+      "go"
+    ],
+    "relatedItems": [
+      "n5_v_171"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_062",
+    "japanese": "バ",
+    "reading": "バ",
+    "romaji": "ba",
+    "meaning": "Katakana 'ba'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "ハ with dakuten.",
+    "exampleJapanese": "バス",
+    "exampleReading": "ばす",
+    "exampleRomaji": "basu",
+    "exampleEnglish": "bus",
+    "options": [
+      "ba",
+      "ha",
+      "pa",
+      "da"
+    ],
+    "relatedItems": [
+      "n5_v_61"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_063",
+    "japanese": "ビ",
+    "reading": "ビ",
+    "romaji": "bi",
+    "meaning": "Katakana 'bi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "ヒ with dakuten.",
+    "exampleJapanese": "ビル",
+    "exampleReading": "びる",
+    "exampleRomaji": "biru",
+    "exampleEnglish": "building",
+    "options": [
+      "bi",
+      "hi",
+      "pi",
+      "gi"
+    ],
+    "relatedItems": [
+      "n5_v_58"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_064",
+    "japanese": "ブ",
+    "reading": "ブ",
+    "romaji": "bu",
+    "meaning": "Katakana 'bu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "フ with dakuten.",
+    "exampleJapanese": "ブーツ",
+    "exampleReading": "ぶーつ",
+    "exampleRomaji": "buutsu",
+    "exampleEnglish": "boots",
+    "options": [
+      "bu",
+      "fu",
+      "pu",
+      "gu"
+    ],
+    "relatedItems": [
+      "n5_v_167"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_065",
+    "japanese": "ベ",
+    "reading": "ベ",
+    "romaji": "be",
+    "meaning": "Katakana 'be'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "ヘ with dakuten.",
+    "exampleJapanese": "ベッド",
+    "exampleReading": "べっど",
+    "exampleRomaji": "beddo",
+    "exampleEnglish": "bed",
+    "options": [
+      "be",
+      "he",
+      "pe",
+      "de"
+    ],
+    "relatedItems": [
+      "n5_v_174"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_066",
+    "japanese": "ボ",
+    "reading": "ボ",
+    "romaji": "bo",
+    "meaning": "Katakana 'bo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Dakuten",
+    "mnemonicOrNote": "ホ with dakuten.",
+    "exampleJapanese": "ボールペン",
+    "exampleReading": "ぼーるぺん",
+    "exampleRomaji": "boorupen",
+    "exampleEnglish": "ballpoint pen",
+    "options": [
+      "bo",
+      "ho",
+      "po",
+      "do"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_067",
+    "japanese": "パ",
+    "reading": "パ",
+    "romaji": "pa",
+    "meaning": "Katakana 'pa'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Handakuten",
+    "mnemonicOrNote": "ハ with handakuten.",
+    "exampleJapanese": "パン",
+    "exampleReading": "ぱん",
+    "exampleRomaji": "pan",
+    "exampleEnglish": "bread",
+    "options": [
+      "pa",
+      "ba",
+      "ha",
+      "ta"
+    ],
+    "relatedItems": [
+      "n5_v_40"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_068",
+    "japanese": "ピ",
+    "reading": "ピ",
+    "romaji": "pi",
+    "meaning": "Katakana 'pi'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Handakuten",
+    "mnemonicOrNote": "ヒ with handakuten.",
+    "exampleJapanese": "ピアノ",
+    "exampleReading": "ぴあの",
+    "exampleRomaji": "piano",
+    "exampleEnglish": "piano",
+    "options": [
+      "pi",
+      "bi",
+      "hi",
+      "ki"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_069",
+    "japanese": "プ",
+    "reading": "プ",
+    "romaji": "pu",
+    "meaning": "Katakana 'pu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Handakuten",
+    "mnemonicOrNote": "フ with handakuten.",
+    "exampleJapanese": "プール",
+    "exampleReading": "ぷーる",
+    "exampleRomaji": "puuru",
+    "exampleEnglish": "swimming pool",
+    "options": [
+      "pu",
+      "bu",
+      "fu",
+      "ku"
+    ],
+    "relatedItems": [
+      "n5_v_154"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_070",
+    "japanese": "ペ",
+    "reading": "ペ",
+    "romaji": "pe",
+    "meaning": "Katakana 'pe'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Handakuten",
+    "mnemonicOrNote": "ヘ with handakuten.",
+    "exampleJapanese": "ペン",
+    "exampleReading": "ぺん",
+    "exampleRomaji": "pen",
+    "exampleEnglish": "pen",
+    "options": [
+      "pe",
+      "be",
+      "he",
+      "te"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_071",
+    "japanese": "ポ",
+    "reading": "ポ",
+    "romaji": "po",
+    "meaning": "Katakana 'po'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Handakuten",
+    "mnemonicOrNote": "ホ with handakuten.",
+    "exampleJapanese": "ポスト",
+    "exampleReading": "ぽすと",
+    "exampleRomaji": "posuto",
+    "exampleEnglish": "postbox",
+    "options": [
+      "po",
+      "bo",
+      "ho",
+      "to"
+    ],
+    "relatedItems": [
+      "n5_v_59"
+    ],
+    "tags": "KANA,KATAKANA,DAKUTEN,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_072",
+    "japanese": "キャ",
+    "reading": "キャ",
+    "romaji": "kya",
+    "meaning": "Katakana combo 'kya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "キ + small ャ.",
+    "exampleJapanese": "キャンプ",
+    "exampleReading": "きゃんぷ",
+    "exampleRomaji": "kyanpu",
+    "exampleEnglish": "camping",
+    "options": [
+      "kya",
+      "ki",
+      "ka",
+      "kya"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_073",
+    "japanese": "キュ",
+    "reading": "キュ",
+    "romaji": "kyu",
+    "meaning": "Katakana combo 'kyu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "キ + small ュ.",
+    "exampleJapanese": "キューカンバー",
+    "exampleReading": "きゅーかんばー",
+    "exampleRomaji": "kyuukanbaa",
+    "exampleEnglish": "cucumber",
+    "options": [
+      "kyu",
+      "ki",
+      "ku",
+      "kyo"
+    ],
+    "relatedItems": [
+      "n5_v_30"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_074",
+    "japanese": "キョ",
+    "reading": "キョ",
+    "romaji": "kyo",
+    "meaning": "Katakana combo 'kyo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "キ + small ョ.",
+    "exampleJapanese": "キロ",
+    "exampleReading": "きろ",
+    "exampleRomaji": "kiro",
+    "exampleEnglish": "kilo",
+    "options": [
+      "kyo",
+      "ki",
+      "ko",
+      "kyu"
+    ],
+    "relatedItems": [
+      "n5_v_42"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_075",
+    "japanese": "シャ",
+    "reading": "シャ",
+    "romaji": "sha",
+    "meaning": "Katakana combo 'sha'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "シ + small ャ.",
+    "exampleJapanese": "シャワー",
+    "exampleReading": "しゃわー",
+    "exampleRomaji": "shawaa",
+    "exampleEnglish": "shower",
+    "options": [
+      "sha",
+      "shi",
+      "sa",
+      "shu"
+    ],
+    "relatedItems": [
+      "n5_v_171"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_076",
+    "japanese": "シュ",
+    "reading": "シュ",
+    "romaji": "shu",
+    "meaning": "Katakana combo 'shu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "シ + small ュ.",
+    "exampleJapanese": "シュークリーム",
+    "exampleReading": "しゅーくりーむ",
+    "exampleRomaji": "shuukuriimu",
+    "exampleEnglish": "cream puff",
+    "options": [
+      "shu",
+      "shi",
+      "su",
+      "sho"
+    ],
+    "relatedItems": [
+      "n5_v_40"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_077",
+    "japanese": "ショ",
+    "reading": "ショ",
+    "romaji": "sho",
+    "meaning": "Katakana combo 'sho'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "シ + small ョ.",
+    "exampleJapanese": "シャツ",
+    "exampleReading": "しゃつ",
+    "exampleRomaji": "shatsu",
+    "exampleEnglish": "shirt",
+    "options": [
+      "sho",
+      "shi",
+      "so",
+      "sha"
+    ],
+    "relatedItems": [
+      "n5_v_165"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_078",
+    "japanese": "チャ",
+    "reading": "チャ",
+    "romaji": "cha",
+    "meaning": "Katakana combo 'cha'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "チ + small ャ.",
+    "exampleJapanese": "チャット",
+    "exampleReading": "ちゃっと",
+    "exampleRomaji": "chatto",
+    "exampleEnglish": "chat",
+    "options": [
+      "cha",
+      "chi",
+      "ta",
+      "chu"
+    ],
+    "relatedItems": [
+      "n5_v_07"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_079",
+    "japanese": "チュ",
+    "reading": "チュ",
+    "romaji": "chu",
+    "meaning": "Katakana combo 'chu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "チ + small ュ.",
+    "exampleJapanese": "チューリップ",
+    "exampleReading": "ちゅーりっぷ",
+    "exampleRomaji": "chuurippu",
+    "exampleEnglish": "tulip",
+    "options": [
+      "chu",
+      "chi",
+      "tsu",
+      "cho"
+    ],
+    "relatedItems": [
+      "n5_v_161"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_080",
+    "japanese": "チョ",
+    "reading": "チョ",
+    "romaji": "cho",
+    "meaning": "Katakana combo 'cho'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "チ + small ョ.",
+    "exampleJapanese": "チョコレート",
+    "exampleReading": "ちょこれーと",
+    "exampleRomaji": "chokoreeto",
+    "exampleEnglish": "chocolate",
+    "options": [
+      "cho",
+      "chi",
+      "to",
+      "cha"
+    ],
+    "relatedItems": [
+      "n5_v_40"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_081",
+    "japanese": "ニャ",
+    "reading": "ニャ",
+    "romaji": "nya",
+    "meaning": "Katakana combo 'nya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ニ + small ャ.",
+    "exampleJapanese": "ニャン",
+    "exampleReading": "にゃん",
+    "exampleRomaji": "nyan",
+    "exampleEnglish": "meow",
+    "options": [
+      "nya",
+      "ni",
+      "na",
+      "nyu"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_082",
+    "japanese": "ニュ",
+    "reading": "ニュ",
+    "romaji": "nyu",
+    "meaning": "Katakana combo 'nyu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ニ + small ュ.",
+    "exampleJapanese": "ニュース",
+    "exampleReading": "にゅーす",
+    "exampleRomaji": "nyuusu",
+    "exampleEnglish": "news",
+    "options": [
+      "nyu",
+      "ni",
+      "nu",
+      "nyo"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_083",
+    "japanese": "ニョ",
+    "reading": "ニョ",
+    "romaji": "nyo",
+    "meaning": "Katakana combo 'nyo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ニ + small ョ.",
+    "exampleJapanese": "ニョッキ",
+    "exampleReading": "にょっき",
+    "exampleRomaji": "nyokki",
+    "exampleEnglish": "gnocchi",
+    "options": [
+      "nyo",
+      "ni",
+      "no",
+      "nya"
+    ],
+    "relatedItems": [
+      "n5_v_37"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_084",
+    "japanese": "ヒャ",
+    "reading": "ヒャ",
+    "romaji": "hya",
+    "meaning": "Katakana combo 'hya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ヒ + small ャ.",
+    "exampleJapanese": "ヒヤシンス",
+    "exampleReading": "ひやしんす",
+    "exampleRomaji": "hiyashinsu",
+    "exampleEnglish": "hyacinth",
+    "options": [
+      "hya",
+      "hi",
+      "ha",
+      "hyu"
+    ],
+    "relatedItems": [
+      "n5_v_161"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_085",
+    "japanese": "ヒュ",
+    "reading": "ヒュ",
+    "romaji": "hyu",
+    "meaning": "Katakana combo 'hyu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ヒ + small ュ.",
+    "exampleJapanese": "ヒューズ",
+    "exampleReading": "ひゅーず",
+    "exampleRomaji": "fyuuzu",
+    "exampleEnglish": "fuse",
+    "options": [
+      "hyu",
+      "hi",
+      "fu",
+      "hyo"
+    ],
+    "relatedItems": [
+      "n5_v_175"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_086",
+    "japanese": "ヒョ",
+    "reading": "ヒョ",
+    "romaji": "hyo",
+    "meaning": "Katakana combo 'hyo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ヒ + small ョ.",
+    "exampleJapanese": "ヒョウ",
+    "exampleReading": "ひょう",
+    "exampleRomaji": "hyou",
+    "exampleEnglish": "leopard",
+    "options": [
+      "hyo",
+      "hi",
+      "ho",
+      "hya"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_087",
+    "japanese": "ミャ",
+    "reading": "ミャ",
+    "romaji": "mya",
+    "meaning": "Katakana combo 'mya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ミ + small ャ.",
+    "exampleJapanese": "ミャンマー",
+    "exampleReading": "みゃんまー",
+    "exampleRomaji": "myanmaa",
+    "exampleEnglish": "Myanmar",
+    "options": [
+      "mya",
+      "mi",
+      "ma",
+      "myu"
+    ],
+    "relatedItems": [
+      "n5_v_02"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_088",
+    "japanese": "ミュ",
+    "reading": "ミュ",
+    "romaji": "myu",
+    "meaning": "Katakana combo 'myu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ミ + small ュ.",
+    "exampleJapanese": "ミュージック",
+    "exampleReading": "みゅーじっく",
+    "exampleRomaji": "myuujikku",
+    "exampleEnglish": "music",
+    "options": [
+      "myu",
+      "mi",
+      "mu",
+      "myo"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_089",
+    "japanese": "ミョ",
+    "reading": "ミョ",
+    "romaji": "myo",
+    "meaning": "Katakana combo 'myo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ミ + small ョ.",
+    "exampleJapanese": "ミョウガ",
+    "exampleReading": "みょうが",
+    "exampleRomaji": "myouga",
+    "exampleEnglish": "myoga ginger",
+    "options": [
+      "myo",
+      "mi",
+      "mo",
+      "mya"
+    ],
+    "relatedItems": [
+      "n5_v_30"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_090",
+    "japanese": "リャ",
+    "reading": "リャ",
+    "romaji": "rya",
+    "meaning": "Katakana combo 'rya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "リ + small ャ.",
+    "exampleJapanese": "リャマ",
+    "exampleReading": "りゃま",
+    "exampleRomaji": "ryama",
+    "exampleEnglish": "llama",
+    "options": [
+      "rya",
+      "ri",
+      "ra",
+      "ryu"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_091",
+    "japanese": "リュ",
+    "reading": "リュ",
+    "romaji": "ryu",
+    "meaning": "Katakana combo 'ryu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "リ + small ュ.",
+    "exampleJapanese": "リュック",
+    "exampleReading": "りゅっく",
+    "exampleRomaji": "ryukku",
+    "exampleEnglish": "backpack, rucksack",
+    "options": [
+      "ryu",
+      "ri",
+      "ru",
+      "ryo"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_092",
+    "japanese": "リョ",
+    "reading": "リョ",
+    "romaji": "ryo",
+    "meaning": "Katakana combo 'ryo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "リ + small ョ.",
+    "exampleJapanese": "リョクトウ",
+    "exampleReading": "りょくとう",
+    "exampleRomaji": "ryokutou",
+    "exampleEnglish": "mung bean",
+    "options": [
+      "ryo",
+      "ri",
+      "ro",
+      "rya"
+    ],
+    "relatedItems": [
+      "n5_v_30"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_093",
+    "japanese": "ギャ",
+    "reading": "ギャ",
+    "romaji": "gya",
+    "meaning": "Katakana combo 'gya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ギ + small ャ.",
+    "exampleJapanese": "ギャラリー",
+    "exampleReading": "ぎゃらりー",
+    "exampleRomaji": "gyararii",
+    "exampleEnglish": "gallery",
+    "options": [
+      "gya",
+      "gi",
+      "ga",
+      "gyu"
+    ],
+    "relatedItems": [
+      "n5_v_60"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_094",
+    "japanese": "ギュ",
+    "reading": "ギュ",
+    "romaji": "gyu",
+    "meaning": "Katakana combo 'gyu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ギ + small ュ.",
+    "exampleJapanese": "レギュラー",
+    "exampleReading": "れぎゅらー",
+    "exampleRomaji": "regyuraa",
+    "exampleEnglish": "regular",
+    "options": [
+      "gyu",
+      "gi",
+      "gu",
+      "gyo"
+    ],
+    "relatedItems": [
+      "n5_v_62"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_095",
+    "japanese": "ギョ",
+    "reading": "ギョ",
+    "romaji": "gyo",
+    "meaning": "Katakana combo 'gyo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ギ + small ョ.",
+    "exampleJapanese": "ギョーザ",
+    "exampleReading": "ぎょーざ",
+    "exampleRomaji": "gyooza",
+    "exampleEnglish": "gyoza dumpling",
+    "options": [
+      "gyo",
+      "gi",
+      "go",
+      "gya"
+    ],
+    "relatedItems": [
+      "n5_v_37"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_096",
+    "japanese": "ジャ",
+    "reading": "ジャ",
+    "romaji": "ja",
+    "meaning": "Katakana combo 'ja'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ジ + small ャ.",
+    "exampleJapanese": "ジャケット",
+    "exampleReading": "じゃけっと",
+    "exampleRomaji": "jaketto",
+    "exampleEnglish": "jacket",
+    "options": [
+      "ja",
+      "ji",
+      "za",
+      "ju"
+    ],
+    "relatedItems": [
+      "n5_v_165"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_097",
+    "japanese": "ジュ",
+    "reading": "ジュ",
+    "romaji": "ju",
+    "meaning": "Katakana combo 'ju'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ジ + small ュ.",
+    "exampleJapanese": "ジュース",
+    "exampleReading": "じゅーす",
+    "exampleRomaji": "juusu",
+    "exampleEnglish": "juice",
+    "options": [
+      "ju",
+      "ji",
+      "zu",
+      "jo"
+    ],
+    "relatedItems": [
+      "n5_v_36"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_098",
+    "japanese": "ジョ",
+    "reading": "ジョ",
+    "romaji": "jo",
+    "meaning": "Katakana combo 'jo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ジ + small ョ.",
+    "exampleJapanese": "ジョギング",
+    "exampleReading": "じょぎんぐ",
+    "exampleRomaji": "jogingu",
+    "exampleEnglish": "jogging",
+    "options": [
+      "jo",
+      "ji",
+      "zo",
+      "ja"
+    ],
+    "relatedItems": [
+      "n5_v_188"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_099",
+    "japanese": "ビャ",
+    "reading": "ビャ",
+    "romaji": "bya",
+    "meaning": "Katakana combo 'bya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ビ + small ャ.",
+    "exampleJapanese": "ビャンビャン",
+    "exampleReading": "びゃんびゃん",
+    "exampleRomaji": "byanbyan",
+    "exampleEnglish": "biangbiang noodles",
+    "options": [
+      "bya",
+      "bi",
+      "ba",
+      "byu"
+    ],
+    "relatedItems": [
+      "n5_v_37"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_100",
+    "japanese": "ビュ",
+    "reading": "ビュ",
+    "romaji": "byu",
+    "meaning": "Katakana combo 'byu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ビ + small ュ.",
+    "exampleJapanese": "ビュッフェ",
+    "exampleReading": "びゅっふぇ",
+    "exampleRomaji": "byuffe",
+    "exampleEnglish": "buffet",
+    "options": [
+      "byu",
+      "bi",
+      "bu",
+      "byo"
+    ],
+    "relatedItems": [
+      "n5_v_37"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_101",
+    "japanese": "ビョ",
+    "reading": "ビョ",
+    "romaji": "byo",
+    "meaning": "Katakana combo 'byo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ビ + small ョ.",
+    "exampleJapanese": "ビョウソク",
+    "exampleReading": "びょうそく",
+    "exampleRomaji": "byousoku",
+    "exampleEnglish": "speed per second",
+    "options": [
+      "byo",
+      "bi",
+      "bo",
+      "bya"
+    ],
+    "relatedItems": [
+      "n5_v_43"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_102",
+    "japanese": "ピャ",
+    "reading": "ピャ",
+    "romaji": "pya",
+    "meaning": "Katakana combo 'pya'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ピ + small ャ.",
+    "exampleJapanese": "ピャー",
+    "exampleReading": "ぴゃー",
+    "exampleRomaji": "pyaa",
+    "exampleEnglish": "chirping sound",
+    "options": [
+      "pya",
+      "pi",
+      "pa",
+      "pyu"
+    ],
+    "relatedItems": [],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_103",
+    "japanese": "ピュ",
+    "reading": "ピュ",
+    "romaji": "pyu",
+    "meaning": "Katakana combo 'pyu'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ピ + small ュ.",
+    "exampleJapanese": "ピューレ",
+    "exampleReading": "ぴゅーれ",
+    "exampleRomaji": "pyuure",
+    "exampleEnglish": "puree",
+    "options": [
+      "pyu",
+      "pi",
+      "pu",
+      "pyo"
+    ],
+    "relatedItems": [
+      "n5_v_37"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_104",
+    "japanese": "ピョ",
+    "reading": "ピョ",
+    "romaji": "pyo",
+    "meaning": "Katakana combo 'pyo'",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Yōon",
+    "mnemonicOrNote": "ピ + small ョ.",
+    "exampleJapanese": "ピョンヤン",
+    "exampleReading": "ぴょんやん",
+    "exampleRomaji": "pyon-yan",
+    "exampleEnglish": "Pyongyang",
+    "options": [
+      "pyo",
+      "pi",
+      "po",
+      "pya"
+    ],
+    "relatedItems": [
+      "n5_v_02"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_105",
+    "japanese": "ッ",
+    "reading": "ッ",
+    "romaji": "tsu (sokuon)",
+    "meaning": "Katakana small tsu (stop)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Orthography",
+    "mnemonicOrNote": "Doubles the following consonant sound (stop).",
+    "exampleJapanese": "ベッド",
+    "exampleReading": "べっど",
+    "exampleRomaji": "beddo",
+    "exampleEnglish": "bed",
+    "options": [
+      "tsu",
+      "su",
+      "chi",
+      "to"
+    ],
+    "relatedItems": [
+      "n5_v_174"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  },
+  {
+    "id": "kana_k_106",
+    "japanese": "ー",
+    "reading": "ー",
+    "romaji": "chouonpu",
+    "meaning": "Katakana long vowel mark (ー)",
+    "category": "KANA",
+    "jlptLevel": "N5",
+    "partOfSpeech": "Katakana Orthography",
+    "mnemonicOrNote": "Extends the preceding vowel sound by one mora.",
+    "exampleJapanese": "コーヒー",
+    "exampleReading": "こーひー",
+    "exampleRomaji": "koohii",
+    "exampleEnglish": "coffee",
+    "options": [
+      "ー",
+      "一",
+      "I",
+      "-"
+    ],
+    "relatedItems": [
+      "n5_v_35"
+    ],
+    "tags": "KANA,KATAKANA,YOON,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore Standard Kana Syllabus"
+  }
+]

@@ -1,0 +1,867 @@
+[
+  {
+    "id": "n5_q_01",
+    "japanese": "毎朝、コーヒーを＿＿＿。",
+    "reading": "まいあさ、コーヒーを＿＿＿。",
+    "romaji": "Maiasa, koohii o ___.",
+    "meaning": "I drink coffee every morning.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "GRAMMAR",
+    "examQuestionPrompt": "Choose the most suitable word to complete the sentence.",
+    "options": [
+      "飲みます",
+      "食べます",
+      "行きます",
+      "見ます"
+    ],
+    "exampleJapanese": "毎朝、コーヒーを飲みます。",
+    "exampleReading": "まいあさ、コーヒーをのみます。",
+    "exampleRomaji": "Maiasa, koohii o nomimasu.",
+    "exampleEnglish": "I drink coffee every morning.",
+    "mnemonicOrNote": "Beverages take 飲む (飲みます).",
+    "difficulty": 1,
+    "source": "JLPT N5 Practice Questions",
+    "relatedItems": [
+      "n5_v_35"
+    ]
+  },
+  {
+    "id": "n5_q_02",
+    "japanese": "日曜日に友達＿＿＿映画を見に行きました。",
+    "reading": "にちようびにともだち＿＿＿えいがをみにいきました。",
+    "romaji": "Nichiyoubi ni tomodachi ___ eiga o mi ni ikimashita.",
+    "meaning": "I went to see a movie with my friend on Sunday.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "PARTICLE",
+    "examQuestionPrompt": "Choose the correct particle indicating 'together with'.",
+    "options": [
+      "と",
+      "に",
+      "で",
+      "を"
+    ],
+    "exampleJapanese": "日曜日に友達と映画を見に行きました。",
+    "exampleReading": "にちようびにともだちとえいがをみにいきました。",
+    "exampleRomaji": "Nichiyoubi ni tomodachi to eiga o mi ni ikimashita.",
+    "exampleEnglish": "I went to see a movie with my friend on Sunday.",
+    "mnemonicOrNote": "と indicates accompanying party ('with').",
+    "difficulty": 1,
+    "source": "JLPT N5 Practice Questions",
+    "relatedItems": [
+      "n5_v_15",
+      "n5_v_52"
+    ]
+  },
+  {
+    "id": "n5_q_03",
+    "japanese": "この部屋はとても＿＿＿ですね。",
+    "reading": "このへやはとても＿＿＿ですね。",
+    "romaji": "Kono heya wa totemo ___ desu ne.",
+    "meaning": "This room is very quiet, isn't it?",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "VOCAB",
+    "examQuestionPrompt": "Choose the correct adjective form.",
+    "options": [
+      "静か",
+      "静かだ",
+      "静かに",
+      "静かな"
+    ],
+    "exampleJapanese": "この部屋はとても静かですね。",
+    "exampleReading": "このへやはとてもしずかですね。",
+    "exampleRomaji": "Kono heya wa totemo shizuka desu ne.",
+    "exampleEnglish": "This room is very quiet, isn't it?",
+    "mnemonicOrNote": "Na-adjective + です drops the な when acting as predicate.",
+    "difficulty": 1,
+    "source": "JLPT N5 Practice Questions",
+    "relatedItems": [
+      "n5_v_13",
+      "n5_v_54"
+    ]
+  },
+  {
+    "id": "n5_q_04",
+    "japanese": "昨日、図書館で本を三冊＿＿＿。",
+    "reading": "きのう、としょかんでほんをさんさつ＿＿＿。",
+    "romaji": "Kinou, toshokan de hon o sansatsu ___.",
+    "meaning": "Yesterday, I borrowed three books at the library.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "GRAMMAR",
+    "examQuestionPrompt": "Choose the most appropriate past tense verb.",
+    "options": [
+      "借りました",
+      "借ります",
+      "貸しました",
+      "貸します"
+    ],
+    "exampleJapanese": "昨日、図書館で本を三冊借りました。",
+    "exampleReading": "きのう、としょかんでほんをさんさつかりました。",
+    "exampleRomaji": "Kinou, toshokan de hon o sansatsu karimashita.",
+    "exampleEnglish": "Yesterday, I borrowed three books at the library.",
+    "mnemonicOrNote": "借りる means to borrow; past polite is 借りました.",
+    "difficulty": 1,
+    "source": "JLPT N5 Core Question Bank",
+    "relatedItems": [
+      "n5_v_40",
+      "n5_v_60"
+    ]
+  },
+  {
+    "id": "n5_q_05",
+    "japanese": "駅まで歩いて何分＿＿＿か。",
+    "reading": "えきまであるいてなんぷん＿＿＿か。",
+    "romaji": "Eki made aruite nanpun ___ ka.",
+    "meaning": "How many minutes does it take walking to the station?",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "VOCABULARY",
+    "examQuestionPrompt": "Choose the verb indicating duration/time required.",
+    "options": [
+      "かかります",
+      "します",
+      "あります",
+      "いきます"
+    ],
+    "exampleJapanese": "駅まで歩いて何分かかりますか。",
+    "exampleReading": "えきまであるいてなんぷんかかりますか。",
+    "exampleRomaji": "Eki made aruite nanpun kakarimasu ka.",
+    "exampleEnglish": "How many minutes does it take walking to the station?",
+    "mnemonicOrNote": "かかる is used for time or money required.",
+    "difficulty": 1,
+    "source": "JLPT N5 Core Question Bank",
+    "relatedItems": [
+      "n5_g_09"
+    ]
+  },
+  {
+    "id": "n5_q_06",
+    "japanese": "テーブルの上に果物＿＿＿あります。",
+    "reading": "テーブルのうえにくだもの＿＿＿あります。",
+    "romaji": "Teeburu no ue ni kudamono ___ arimasu.",
+    "meaning": "There is fruit on the table.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "PARTICLE",
+    "examQuestionPrompt": "Choose the subject particle marking the existing object.",
+    "options": [
+      "が",
+      "を",
+      "に",
+      "で"
+    ],
+    "exampleJapanese": "テーブルの上に果物があります。",
+    "exampleReading": "テーブルのうえにくだものが promotionalあります。",
+    "exampleRomaji": "Teeburu no ue ni kudamono ga arimasu.",
+    "exampleEnglish": "There is fruit on the table.",
+    "mnemonicOrNote": "[Location] に [Object] が あります.",
+    "difficulty": 1,
+    "source": "JLPT N5 Core Question Bank",
+    "relatedItems": [
+      "n5_v_31"
+    ]
+  },
+  {
+    "id": "n5_q_07",
+    "japanese": "この部屋は＿＿＿明るいです。",
+    "reading": "このへやは＿＿＿あかるいです。",
+    "romaji": "Kono heya wa ___ akarui desu.",
+    "meaning": "This room is spacious and bright.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "ADJECTIVE",
+    "examQuestionPrompt": "Choose the correct connecting form of the i-adjective 広い (wide, spacious).",
+    "options": [
+      "広くて",
+      "広い",
+      "広いで",
+      "広くては"
+    ],
+    "exampleJapanese": "この部屋は広くて明るいです。",
+    "exampleReading": "このへやはひろくてあかるいです。",
+    "exampleRomaji": "Kono heya wa hirokute akarui desu.",
+    "exampleEnglish": "This room is spacious and bright.",
+    "mnemonicOrNote": "I-adjective te-form is くて to connect reasons or attributes.",
+    "difficulty": 1,
+    "source": "JLPT N5 Core Question Bank",
+    "relatedItems": [
+      "n5_v_54"
+    ]
+  },
+  {
+    "id": "n5_q_08",
+    "japanese": "すみませんが、窓を＿＿＿ください。",
+    "reading": "すみませんが、まどを＿＿＿ください。",
+    "romaji": "Sumimasen ga, mado o ___ kudasai.",
+    "meaning": "Excuse me, please open the window.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "GRAMMAR",
+    "examQuestionPrompt": "Choose the te-form of 開ける for a polite request.",
+    "options": [
+      "開けて",
+      "開けって",
+      "開きて",
+      "開けた"
+    ],
+    "exampleJapanese": "すみませんが、窓を開けてください。",
+    "exampleReading": "すみませんが、まどをあけてください。",
+    "exampleRomaji": "Sumimasen ga, mado o akete kudasai.",
+    "exampleEnglish": "Excuse me, please open the window.",
+    "mnemonicOrNote": "Ichidan verb 開ける -> 開けて + ください.",
+    "difficulty": 1,
+    "source": "JLPT N5 Core Question Bank",
+    "relatedItems": [
+      "n5_v_93"
+    ]
+  },
+  {
+    "id": "n5_q_09",
+    "japanese": "この「新しい」本は誰のですか。",
+    "reading": "この「あたらしい」ほんはだれのですか。",
+    "romaji": "Kono 'atarashii' hon wa dare no desu ka.",
+    "meaning": "Whose is this new book?",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "KANJI_READING",
+    "examQuestionPrompt": "「新しい」の正しい読み方を選んでください。",
+    "options": [
+      "あたらしい",
+      "あたらし",
+      "ふるい",
+      "ただしい"
+    ],
+    "exampleJapanese": "この新しい本は誰のですか。",
+    "exampleReading": "このあたらしいほんはだれのですか。",
+    "exampleRomaji": "Kono atarashii hon wa dare no desu ka.",
+    "exampleEnglish": "Whose is this new book?",
+    "mnemonicOrNote": "新 is read あたら(しい) in kun-yomi. ふるい is 古い, ただしい is 正しい.",
+    "difficulty": 1,
+    "tags": "kanji_reading,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_k_80",
+      "n5_v_11"
+    ]
+  },
+  {
+    "id": "n5_q_10",
+    "japanese": "駅の「前」で待ちましょう。",
+    "reading": "えきの「まえ」でまちましょう。",
+    "romaji": "Eki no 'mae' de machimashou.",
+    "meaning": "Let's wait in front of the station.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "KANJI_READING",
+    "examQuestionPrompt": "「前」の正しい読み方を選んでください。",
+    "options": [
+      "まえ",
+      "うしろ",
+      "よこ",
+      "ちかく"
+    ],
+    "exampleJapanese": "駅の前で待ちましょう。",
+    "exampleReading": "えきのまえでまちましょう。",
+    "exampleRomaji": "Eki no mae de machimashou.",
+    "exampleEnglish": "Let's wait in front of the station.",
+    "mnemonicOrNote": "前 is read まえ (front/before). うしろ is 後ろ.",
+    "difficulty": 1,
+    "tags": "kanji_reading,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_k_39",
+      "n5_v_157"
+    ]
+  },
+  {
+    "id": "n5_q_11",
+    "japanese": "今日はとても「天気」がいいです。",
+    "reading": "きょうはとても「てんき」がいいです。",
+    "romaji": "Kyou wa totemo 'tenki' ga ii desu.",
+    "meaning": "The weather is very nice today.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "KANJI_READING",
+    "examQuestionPrompt": "「天気」の正しい読み方を選んでください。",
+    "options": [
+      "てんき",
+      "てんぎ",
+      "ていき",
+      "でんき"
+    ],
+    "exampleJapanese": "今日はとても天気がいいです。",
+    "exampleReading": "きょうはとてもてんきがいいです。",
+    "exampleRomaji": "Kyou wa totemo tenki ga ii desu.",
+    "exampleEnglish": "The weather is very nice today.",
+    "mnemonicOrNote": "天気 is read てんき (unvoiced ki). でんき is 電気 (electricity).",
+    "difficulty": 1,
+    "tags": "kanji_reading,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_k_33",
+      "n5_k_22",
+      "n5_v_192"
+    ]
+  },
+  {
+    "id": "n5_q_12",
+    "japanese": "父は「会社」で働いています。",
+    "reading": "ちちは「かいしゃ」ではたらいています。",
+    "romaji": "Chichi wa 'kaisha' de hataraite imasu.",
+    "meaning": "My father works at a company.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "KANJI_READING",
+    "examQuestionPrompt": "「会社」の正しい読み方を選んでください。",
+    "options": [
+      "かいしゃ",
+      "かいじゃ",
+      "えきしゃ",
+      "がっこう"
+    ],
+    "exampleJapanese": "父は会社で働いています。",
+    "exampleReading": "ちちはかいしゃではたらいています。",
+    "exampleRomaji": "Chichi wa kaisha de hataraite imasu.",
+    "exampleEnglish": "My father works at a company.",
+    "mnemonicOrNote": "会 (かい) + 社 (しゃ) = かいしゃ (company).",
+    "difficulty": 1,
+    "tags": "kanji_reading,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_k_53",
+      "n5_k_51",
+      "n5_v_175"
+    ]
+  },
+  {
+    "id": "n5_q_13",
+    "japanese": "「ぎんこう」でお金を下ろしました。",
+    "reading": "「ぎんこう」でおかねをおろしました。",
+    "romaji": "'Ginkou' de okane o oroshimashita.",
+    "meaning": "I withdrew money at the bank.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "ORTHOGRAPHY",
+    "examQuestionPrompt": "「ぎんこう」の正しい漢字を選んでください。",
+    "options": [
+      "銀行",
+      "銀効",
+      "金行",
+      "行銀"
+    ],
+    "exampleJapanese": "銀行でお金を下ろしました。",
+    "exampleReading": "ぎんこうでおかねをおろしました。",
+    "exampleRomaji": "Ginkou de okane o oroshimashita.",
+    "exampleEnglish": "I withdrew money at the bank.",
+    "mnemonicOrNote": "銀 (silver) + 行 (going/institution) = 銀行 (bank).",
+    "difficulty": 1,
+    "tags": "orthography,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_k_63",
+      "n5_k_66",
+      "n5_v_58"
+    ]
+  },
+  {
+    "id": "n5_q_14",
+    "japanese": "明日、京都へ「りょこう」します。",
+    "reading": "あした、きょうとへ「りょこう」します。",
+    "romaji": "Ashita, Kyouto e 'ryokou' shimasu.",
+    "meaning": "Tomorrow I will travel to Kyoto.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "ORTHOGRAPHY",
+    "examQuestionPrompt": "「りょこう」の正しい漢字を選んでください。",
+    "options": [
+      "旅行",
+      "旅抗",
+      "行旅",
+      "旅考"
+    ],
+    "exampleJapanese": "明日、京都へ旅行します。",
+    "exampleReading": "あした、きょうとへりょこうします。",
+    "exampleRomaji": "Ashita, Kyouto e ryokou shimasu.",
+    "exampleEnglish": "Tomorrow I will travel to Kyoto.",
+    "mnemonicOrNote": "旅 (travel) + 行 (go) = 旅行 (travel/trip).",
+    "difficulty": 1,
+    "tags": "orthography,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_k_66",
+      "n5_v_188"
+    ]
+  },
+  {
+    "id": "n5_q_15",
+    "japanese": "庭にきれいな「はな」が咲いています。",
+    "reading": "にわにきれいな「はな」がさいています。",
+    "romaji": "Niwa ni kirei na 'hana' ga saite imasu.",
+    "meaning": "Beautiful flowers are blooming in the garden.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "ORTHOGRAPHY",
+    "examQuestionPrompt": "「はな」の正しい漢字を選んでください。",
+    "options": [
+      "花",
+      "草",
+      "木",
+      "竹"
+    ],
+    "exampleJapanese": "庭にきれいな花が咲いています。",
+    "exampleReading": "にわにきれいなはながさいています。",
+    "exampleRomaji": "Niwa ni kirei na hana ga saite imasu.",
+    "exampleEnglish": "Beautiful flowers are blooming in the garden.",
+    "mnemonicOrNote": "花 is flower. 草 is grass, 木 is tree, 竹 is bamboo.",
+    "difficulty": 1,
+    "tags": "orthography,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_k_20",
+      "n5_v_197"
+    ]
+  },
+  {
+    "id": "n5_q_16",
+    "japanese": "「きょうしつ」に入ってください。",
+    "reading": "「きょうしつ」にはいってください。",
+    "romaji": "'Kyoushitsu' ni haitte kudasai.",
+    "meaning": "Please enter the classroom.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "ORTHOGRAPHY",
+    "examQuestionPrompt": "「きょうしつ」の正しい漢字を選んでください。",
+    "options": [
+      "教室",
+      "教館",
+      "室教",
+      "教院"
+    ],
+    "exampleJapanese": "教室に入ってください。",
+    "exampleReading": "きょうしつにはいってください。",
+    "exampleRomaji": "Kyoushitsu ni haitte kudasai.",
+    "exampleEnglish": "Please enter the classroom.",
+    "mnemonicOrNote": "教 (teach) + 室 (room) = 教室 (classroom).",
+    "difficulty": 1,
+    "tags": "orthography,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_k_77",
+      "n5_v_174"
+    ]
+  },
+  {
+    "id": "n5_q_17",
+    "japanese": "朝起きて、顔を＿＿＿。",
+    "reading": "あさおきて、かおを＿＿＿。",
+    "romaji": "Asa okite, kao o ___.",
+    "meaning": "In the morning I woke up and washed my face.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "CONTEXTUAL_MEANING",
+    "examQuestionPrompt": "文の＿＿＿に入る最も適当なものを選んでください。",
+    "options": [
+      "洗いました",
+      "磨きました",
+      "浴びました",
+      "拭きました"
+    ],
+    "exampleJapanese": "朝起きて、顔を洗いました。",
+    "exampleReading": "あさおきて、かおをあらいました。",
+    "exampleRomaji": "Asa okite, kao o arawaimashita.",
+    "exampleEnglish": "In the morning I woke up and washed my face.",
+    "mnemonicOrNote": "顔を洗う (wash one's face) is the natural collocation. 歯を磨く is brush teeth, シャワーを浴びる is take shower.",
+    "difficulty": 1,
+    "tags": "contextual,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_v_45",
+      "n5_v_65"
+    ]
+  },
+  {
+    "id": "n5_q_18",
+    "japanese": "この部屋は窓が多くてとても＿＿＿です。",
+    "reading": "このへやはまどがおおくてとても＿＿＿です。",
+    "romaji": "Kono heya wa mado ga ookute totemo ___ desu.",
+    "meaning": "This room has many windows and is very bright.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "CONTEXTUAL_MEANING",
+    "examQuestionPrompt": "文の＿＿＿に入る最も適当なものを選んでください。",
+    "options": [
+      "明るい",
+      "暗い",
+      "狭い",
+      "重い"
+    ],
+    "exampleJapanese": "この部屋は窓が多くてとても明るいです。",
+    "exampleReading": "このへやはまどがおおくてとてもあかるいです。",
+    "exampleRomaji": "Kono heya wa mado ga ookute totemo akarui desu.",
+    "exampleEnglish": "This room has many windows and is very bright.",
+    "mnemonicOrNote": "Having many windows makes a room 明るい (bright). 暗い is dark, 狭い is narrow.",
+    "difficulty": 1,
+    "tags": "contextual,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_v_54"
+    ]
+  },
+  {
+    "id": "n5_q_19",
+    "japanese": "電車に乗る前に、駅で＿＿＿を買います。",
+    "reading": "でんしゃにのるまえに、えきで＿＿＿をかいます。",
+    "romaji": "Densha ni noru mae ni, eki de ___ o kaimasu.",
+    "meaning": "Before riding the train, I buy a ticket at the station.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "CONTEXTUAL_MEANING",
+    "examQuestionPrompt": "文の＿＿＿に入る最も適当なものを選んでください。",
+    "options": [
+      "切符",
+      "辞書",
+      "財布",
+      "切手"
+    ],
+    "exampleJapanese": "電車に乗る前に、駅で切符を買います。",
+    "exampleReading": "でんしゃにのるまえに、えきできっぷをかいます。",
+    "exampleRomaji": "Densha ni noru mae ni, eki de kippu o kaimasu.",
+    "exampleEnglish": "Before riding the train, I buy a ticket at the station.",
+    "mnemonicOrNote": "To ride a train, one buys a 切符 (ticket). 切手 is postage stamp.",
+    "difficulty": 1,
+    "tags": "contextual,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_v_56",
+      "n5_v_61",
+      "n5_v_08",
+      "n5_g_20"
+    ]
+  },
+  {
+    "id": "n5_q_20",
+    "japanese": "あの人は「親切な」人です。",
+    "reading": "あのひとは「しんせつな」ひとです。",
+    "romaji": "Ano hito wa 'shinsetsu na' hito desu.",
+    "meaning": "That person is a kind person.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "PARAPHRASING",
+    "examQuestionPrompt": "下線部の言葉とだいたい同じ意味の文を選んでください。",
+    "options": [
+      "やさしい",
+      "きびしい",
+      "いそがしい",
+      "おもしろい"
+    ],
+    "exampleJapanese": "あの人はやさしい人です。",
+    "exampleReading": "あのひとはやさしいひとです。",
+    "exampleRomaji": "Ano hito wa yasashii hito desu.",
+    "exampleEnglish": "That person is a gentle / kind person.",
+    "mnemonicOrNote": "親切な (kind/helpful) is synonymous with やさしい (kind/gentle).",
+    "difficulty": 1,
+    "tags": "paraphrasing,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_v_153"
+    ]
+  },
+  {
+    "id": "n5_q_21",
+    "japanese": "この問題は「易しい」です。",
+    "reading": "このもんだいは「やさしい」です。",
+    "romaji": "Kono mondai wa 'yasashii' desu.",
+    "meaning": "This question is easy.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "PARAPHRASING",
+    "examQuestionPrompt": "下線部と意味が最も近いものを選んでください。",
+    "options": [
+      "難しくない",
+      "高くない",
+      "新しくない",
+      "良くない"
+    ],
+    "exampleJapanese": "この問題は難しくないです。",
+    "exampleReading": "このもんだいはむずかしくないです。",
+    "exampleRomaji": "Kono mondai wa muzukashikunai desu.",
+    "exampleEnglish": "This question is not difficult.",
+    "mnemonicOrNote": "易しい (easy) has the opposite meaning of 難しい (difficult), so 易しい = 難しくない.",
+    "difficulty": 1,
+    "tags": "paraphrasing,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_g_25"
+    ]
+  },
+  {
+    "id": "n5_q_22",
+    "japanese": "文法: 助詞「へ」",
+    "reading": "にちようびにともだち＿＿＿えいがをみにいきました。",
+    "romaji": "Nichiyoubi ni tomodachi ___ eiga o mi ni ikimashita.",
+    "meaning": "Next week, I am going on a trip to Kyoto. (Target particle: へ for direction of movement).",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "Contextual Grammar",
+    "examQuestionPrompt": "来週、京都＿＿旅行に行きます。",
+    "options": [
+      "へ",
+      "を",
+      "から",
+      "で"
+    ],
+    "exampleJapanese": "来週、京都へ旅行に行きます。",
+    "exampleReading": "にちようびにともだちとえいがをみにいきました。",
+    "exampleRomaji": "Nichiyoubi ni tomodachi to eiga o mi ni ikimashita.",
+    "exampleEnglish": "Next week, I am going on a trip to Kyoto.",
+    "mnemonicOrNote": "Particle へ indicates direction of motion towards a destination.",
+    "difficulty": 1,
+    "tags": "particles,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_g_03",
+      "n5_v_03",
+      "n5_v_188"
+    ]
+  },
+  {
+    "id": "n5_q_23",
+    "japanese": "私は毎朝七時＿＿＿起きます。",
+    "reading": "わたしはまいあさしちじ＿＿＿おきます。",
+    "romaji": "Watashi wa maiasa shichiji ___ okimasu.",
+    "meaning": "I wake up at seven o'clock every morning.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "PARTICLE",
+    "examQuestionPrompt": "＿＿＿に入る最も適当な助詞を選んでください。",
+    "options": [
+      "に",
+      "で",
+      "を",
+      "が"
+    ],
+    "exampleJapanese": "私は毎朝七時に起きます。",
+    "exampleReading": "わたしはまいあさしちじにおきます。",
+    "exampleRomaji": "Watashi wa maiasa shichiji ni okimasu.",
+    "exampleEnglish": "I wake up at seven o'clock every morning.",
+    "mnemonicOrNote": "Specific clock times take particle に (七時に).",
+    "difficulty": 1,
+    "tags": "particles,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_v_124",
+      "n5_v_65",
+      "n5_g_03"
+    ]
+  },
+  {
+    "id": "n5_q_24",
+    "japanese": "図書館＿＿＿本を三冊借りました。",
+    "reading": "としょかん＿＿＿ほんをさんさつかりました。",
+    "romaji": "Toshokan ___ hon o sansatsu karimashita.",
+    "meaning": "I borrowed three books at the library.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "PARTICLE",
+    "examQuestionPrompt": "＿＿＿に入る最も適当な助詞を選んでください。",
+    "options": [
+      "で",
+      "に",
+      "へ",
+      "と"
+    ],
+    "exampleJapanese": "図書館で本を三冊借りました。",
+    "exampleReading": "としょかんでほんをさんさつかりました。",
+    "exampleRomaji": "Toshokan de hon o sansatsu karimashita.",
+    "exampleEnglish": "I borrowed three books at the library.",
+    "mnemonicOrNote": "The location where an action takes place is marked by で.",
+    "difficulty": 1,
+    "tags": "particles,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_v_60",
+      "n5_g_04"
+    ]
+  },
+  {
+    "id": "n5_q_25",
+    "japanese": "私は日本料理＿＿＿好きです。",
+    "reading": "わたしはにほんりょうり＿＿＿すきです。",
+    "romaji": "Watashi wa nihon ryouri ___ suki desu.",
+    "meaning": "I like Japanese food.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "PARTICLE",
+    "examQuestionPrompt": "＿＿＿に入る最も適当な助詞を選んでください。",
+    "options": [
+      "が",
+      "を",
+      "に",
+      "へ"
+    ],
+    "exampleJapanese": "私は日本料理が好きです。",
+    "exampleReading": "わたしはにほんりょうりがすきです。",
+    "exampleRomaji": "Watashi wa nihon ryouri ga suki desu.",
+    "exampleEnglish": "I like Japanese food.",
+    "mnemonicOrNote": "The object of liking/disliking (好き/嫌い) is marked by が, not を.",
+    "difficulty": 1,
+    "tags": "particles,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_g_24"
+    ]
+  },
+  {
+    "id": "n5_q_26",
+    "japanese": "図書館では大声で＿＿＿＿＿＿。",
+    "reading": "としょかんではおおごえで＿＿＿＿＿＿。",
+    "romaji": "Toshokan de wa oogoe de ______.",
+    "meaning": "You must not speak in a loud voice in the library.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "GRAMMAR_FORM",
+    "examQuestionPrompt": "文の＿＿＿に入る最も適当なものを選んでください。",
+    "options": [
+      "話してはいけません",
+      "話さなければなりません",
+      "話してもいいです",
+      "話してください"
+    ],
+    "exampleJapanese": "図書館では大声で話してはいけません。",
+    "exampleReading": "としょかんではおおごえではなしてはいけません。",
+    "exampleRomaji": "Toshokan de wa oogoe de hanashite wa ikemasen.",
+    "exampleEnglish": "You must not speak in a loud voice in the library.",
+    "mnemonicOrNote": "Prohibition is expressed with 〜てはいけません. Libraries prohibit loud speaking.",
+    "difficulty": 1,
+    "tags": "grammar_form,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_v_60",
+      "n5_v_07",
+      "n5_g_13"
+    ]
+  },
+  {
+    "id": "n5_q_27",
+    "japanese": "雨が降っていますから、傘を＿＿＿＿＿＿。",
+    "reading": "あめがふっていますから、かさを＿＿＿＿＿＿。",
+    "romaji": "Ame ga futte imasu kara, kasa o ______.",
+    "meaning": "Because it is raining, please take an umbrella with you.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "GRAMMAR_FORM",
+    "examQuestionPrompt": "文の＿＿＿に入る最も適当なものを選んでください。",
+    "options": [
+      "持って行ってください",
+      "持って行きません",
+      "持って行きます",
+      "持って行った"
+    ],
+    "exampleJapanese": "雨が降っていますから、傘を塗って行ってください。",
+    "exampleReading": "あめがふっていますから、かさをもっていってください。",
+    "exampleRomaji": "Ame ga futte imasu kara, kasa o motte itte kudasai.",
+    "exampleEnglish": "Because it is raining, please take an umbrella with you.",
+    "mnemonicOrNote": "Giving a polite suggestion or instruction takes 〜てください.",
+    "difficulty": 1,
+    "tags": "grammar_form,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_v_193",
+      "n5_g_05",
+      "n5_g_21"
+    ]
+  },
+  {
+    "id": "n5_q_28",
+    "japanese": "私は日本へ＿＿＿＿＿＿があります。",
+    "reading": "わたしはにほんへ＿＿＿＿＿＿があります。",
+    "romaji": "Watashi wa nihon e ______ ga arimasu.",
+    "meaning": "I have been to Japan before.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "GRAMMAR_FORM",
+    "examQuestionPrompt": "文の＿＿＿に入る最も適当なものを選んでください。",
+    "options": [
+      "行ったこと",
+      "行くこと",
+      "行ってこと",
+      "行かないこと"
+    ],
+    "exampleJapanese": "私は日本へ行ったことがあります。",
+    "exampleReading": "わたしはにほんへいったことがあります。",
+    "exampleRomaji": "Watashi wa nihon e itta koto ga arimasu.",
+    "exampleEnglish": "I have been to Japan before.",
+    "mnemonicOrNote": "Expressing past experience requires Verb Ta-form + ことがある (行ったことがある).",
+    "difficulty": 1,
+    "tags": "grammar_form,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_v_03",
+      "n5_g_18",
+      "n5_g_31"
+    ]
+  },
+  {
+    "id": "n5_q_29",
+    "japanese": "私は ＿＿ ＿＿ ★ ＿＿ 勉強します。\n1: 図書館で　2: 毎晩　3: 日本語を　4: 友達と",
+    "reading": "わたしは ＿＿ ＿＿ ★ ＿＿ べんきょうします。",
+    "romaji": "Watashi wa ___ ___ * ___ benkyou shimasu.",
+    "meaning": "Every night I study Japanese with my friend at the library.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "SENTENCE_ORDER",
+    "examQuestionPrompt": "★に入る最も適当な番号を選んでください。",
+    "options": [
+      "1 (図書館で)",
+      "2 (毎晩)",
+      "3 (日本語を)",
+      "4 (友達と)"
+    ],
+    "exampleJapanese": "私は毎晩友達と図書館で日本語を勉強します。",
+    "exampleReading": "わたしはまいばんともだちととしょかんでにほんごをべんきょうします。",
+    "exampleRomaji": "Watashi wa maiban tomodachi to toshokan de nihongo o benkyou shimasu.",
+    "exampleEnglish": "Every night I study Japanese with my friend at the library.",
+    "mnemonicOrNote": "Correct order: 毎晩(2) 友達と(4) ★図書館で(1) 日本語を(3) 勉強します. The star position ★ is occupied by 1 (図書館で).",
+    "difficulty": 1,
+    "tags": "sentence_order,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_v_125",
+      "n5_v_15",
+      "n5_v_60",
+      "n5_v_289"
+    ]
+  },
+  {
+    "id": "n5_q_30",
+    "japanese": "お知らせ「さくら食堂は土曜日と日曜日は休みです。」\nこの食堂が開いている日はどれですか。",
+    "reading": "おしらせ「さくらしょくどうはどようびとにちようびはやすみです。」\nこのしょくどうがあいているひはどれですか。",
+    "romaji": "Oshirase: 'Sakura Shokudou wa doyoubi to nichiyoubi wa yasumi desu.' Kono shokudou ga aite iru hi wa dore desu ka.",
+    "meaning": "Notice: 'Sakura Diner is closed on Saturdays and Sundays.' Which days is this diner open?",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N5",
+    "examQuestionType": "TEXT_COMPREHENSION",
+    "examQuestionPrompt": "文章の内容と合っているものを選んでください。",
+    "options": [
+      "月曜日から金曜日",
+      "土曜日だけ",
+      "日曜日だけ",
+      "毎日年中無休"
+    ],
+    "exampleJapanese": "さくら食堂は月曜日から金曜日まで開いています。",
+    "exampleReading": "さくらしょくどうはげつようびからきんようびまであいています。",
+    "exampleRomaji": "Sakura shokudou wa getsuyoubi kara kinyoubi made aite imasu.",
+    "exampleEnglish": "Sakura Diner is open from Monday through Friday.",
+    "mnemonicOrNote": "Since Saturday and Sunday are closed (休み), it is open on weekdays (月曜日から金曜日).",
+    "difficulty": 1,
+    "tags": "text_comprehension,STATUS:SOURCE_VERIFIED",
+    "source": "NoIgnore N5 Formative Assessment Bank",
+    "relatedItems": [
+      "n5_r_05",
+      "n5_g_10"
+    ]
+  }
+]

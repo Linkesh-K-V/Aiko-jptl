@@ -1,0 +1,360 @@
+[
+  {
+    "id": "n5_r_01",
+    "japanese": "田中さんの一日\n田中さんは毎朝六時に起きます。朝ごはんを食べた後で、七時半の電車に乗って会社へ行きます。会社ではコンピューターを使って仕事をします。お昼休みには同僚と一緒にお弁当を食べます。夜七時に家に帰って、お風呂に入ってから本を読んで寝ます。",
+    "reading": "たなかさんのいちにち\nたなかさんはまいあさろくじにおきます。あさごはんをたべたあとで、しちじはんのでんしゃにのってかいしゃへいきます。かいしゃではコンピューターをつかってしごとをします。おひるやすみにはどうりょうといっしょにおべんとうをたべます。よるしちじにいえにかえって、おふろにはいってからほんをよんでねます。",
+    "romaji": "Tanaka-san no ichinichi\nTanaka-san wa maiasa rokuji ni okimasu. Asagohan o tabeta ato de, shichijihan no densha ni notte kaisha e ikimasu. Kaisha de wa konpyuutaa o tsukatte shigoto o shimasu. Ohiruyasumi ni wa douryou to issho ni obentou o tabemasu. Yoru shichiji ni ie ni kaette, ofuro ni haitte kara hon o yonde nemasu.",
+    "meaning": "Tanaka's Daily Life\nMr. Tanaka wakes up at six every morning. After eating breakfast, he takes the 7:30 train to the company. At work, he uses a computer for work. During lunch break, he eats a bento lunch together with his colleagues. He returns home at seven in the evening, takes a bath, reads a book, and goes to sleep.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,comprehension,daily",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "田中さんは何時の電車に乗って会社へ行きますか。",
+    "options": [
+      "七時半",
+      "六時",
+      "七時",
+      "八時"
+    ],
+    "source": "JLPT N5 Graded Reading",
+    "relatedItems": [
+      "n5_g_20",
+      "n5_v_01",
+      "n5_v_45",
+      "n5_v_46",
+      "n5_v_47",
+      "n5_v_53",
+      "n5_v_61",
+      "n5_v_65"
+    ]
+  },
+  {
+    "id": "n5_r_02",
+    "japanese": "私の部屋\n私の部屋はアパートの二階にあります。広くないですが、とても静かです。窓の近くに机と椅子があります。机の上にはノートパソコンと辞書があります。壁には日本の地図が貼ってあります。毎晩ここで日本語を二時間勉強します。",
+    "reading": "わたしのへや\nわたしのへやはアパートのにかいにあります。ひろくないですが、とてもしずかです。まどのちかくにつくえといすがあります。つくえのうえにはノートパソコンとじしょがあります。かべにはにほんのちずがはってあります。まいばんここでにほんごをにじかんべんきょうします。",
+    "romaji": "Watashi no heya\nWatashi no heya wa apaato no nikai ni arimasu. Hiroku nai desu ga, totemo shizuka desu. Mado no chikaku ni tsukue to isu ga arimasu. Tsukue no ue ni wa nootopasokon to jisho ga arimasu. Kabe ni wa nihon no chizu ga hatte arimasu. Maiban koko de nihongo o nijikan benkyou shimasu.",
+    "meaning": "My Room\nMy room is on the second floor of the apartment. It is not spacious, but very quiet. Near the window, there is a desk and a chair. On the desk, there is a laptop and a dictionary. On the wall, a map of Japan is posted. Every night I study Japanese here for two hours.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,comprehension,home",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "机の上に何がありますか。",
+    "options": [
+      "ノートパソコンと辞書",
+      "日本の地図",
+      "椅子と時計",
+      "教科書とペン"
+    ],
+    "source": "JLPT N5 Graded Reading",
+    "relatedItems": [
+      "n5_g_09",
+      "n5_v_13",
+      "n5_v_54",
+      "n5_v_70"
+    ]
+  },
+  {
+    "id": "n5_r_03",
+    "japanese": "京都旅行\n先週の日曜日に新幹線で京都へ行きました。京都の駅に着いてから、バスで有名なお寺に行きました。お寺の庭にはきれいな池と紅葉がありました。昼ごはんに美味しいお蕎麦を食べました。たくさん写真を撮って、とても楽しかったです。",
+    "reading": "きょうとりょこう\nせんしゅうのにちようびにしんかんせんできょうとへいきました。きょうとのえきについてから、バスでゆうめいなおてらにいきました。おてらのにわにはきれいないけともみじがありました。ひるごはんにおいしいおそばをたべました。たくさんしゃしんをとって、とてもたのしかったです。",
+    "romaji": "Kyouto ryokou\nSenshuu no nichiyoubi ni shinkansen de Kyouto e ikimashita. Kyouto no eki ni tsuite kara, basu de yuumei na otera ni ikimashita. Otera no niwa ni wa kirei na ike to momiji ga arimashita. Hirugohan ni oishii osoba o tabemashita. Takusan shashin o totte, totemo tanoshikatta desu.",
+    "meaning": "Kyoto Trip\nLast Sunday I went to Kyoto by Shinkansen. After arriving at Kyoto station, I went to a famous temple by bus. In the temple garden, there was a beautiful pond and autumn foliage. For lunch, I ate delicious soba noodles. I took a lot of photos and had a great time.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,travel,kyoto",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "京都の駅に着いてから、何に乗ってお寺に行きましたか。",
+    "options": [
+      "バス",
+      "新幹線",
+      "タクシー",
+      "自転車"
+    ],
+    "source": "JLPT N5 Graded Reading",
+    "relatedItems": [
+      "n5_v_01",
+      "n5_v_44",
+      "n5_v_46",
+      "n5_v_52",
+      "n5_v_56",
+      "n5_v_62"
+    ]
+  },
+  {
+    "id": "n5_r_04",
+    "japanese": "短いメッセージ\nリーさん、こんにちは。明日の映画ですが、午後二時半に駅の東口で会いましょう。チケットは私が買いましたから、心配しないでください。雨が降ったら、駅の中の喫茶店で待っていてください。",
+    "reading": "みじかいメッセージ\nリーさん、こんにちは。あしたのえいがですが、ごごにじはんにえきのひがしぐちであいましょう。チケットはわたしがかいましたから、しんぱいしないでください。あめがふったら、えきのなかのきっさてんでまっていてください。",
+    "romaji": "Mijikai messeeji\nLii-san, konnichiwa. Ashita no eiga desu ga, gogo nijihan ni eki no higashiguchi de aimashou. Chiketto wa watashi ga kaimashita kara, shinpai shinaide kudasai. Ame ga futtara, eki no naka no kissaten de matte ite kudasai.",
+    "meaning": "Short Message\nHello Lee. About tomorrow's movie, let's meet at 2:30 p.m. at the station's east exit. I bought the tickets, so please do not worry. If it rains, please wait at the coffee shop inside the station.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,message,invitation,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "二人は明日どこで会いますか。",
+    "options": [
+      "駅の東口",
+      "映画館の前",
+      "チケット売り場",
+      "リーさんの家"
+    ],
+    "source": "NoIgnore Graded Reader Series",
+    "relatedItems": [
+      "n5_v_39",
+      "n5_v_131",
+      "n5_v_161",
+      "n5_v_56",
+      "n5_v_08",
+      "n5_g_05",
+      "n5_g_11"
+    ]
+  },
+  {
+    "id": "n5_r_05",
+    "japanese": "定食屋のメニューと案内\n「さくら食堂」のランチ案内：\n月曜日〜金曜日：午前十一時〜午後二時\nAランチ：魚の塩焼き定食（八百円）\nBランチ：鶏肉のから揚げ定食（八百五十円）\nご飯とお味噌汁はおかわりができます。コーヒーはプラス百円です。土曜日と日曜日は休みです。",
+    "reading": "ていしょくやのメニューとあんない\n「さくらしょくどう」のランチあんない：\nげつようび〜きんようび：ごぜんじゅういちじ〜ごごにじ\nAランチ：さかなのしおやきていしょく（はっぴゃくえん）\nBランチ：とりにくのからあげていしょく（はっぴゃくごじゅうえん）\nごはんとおみそしるはおかわりができます。コーヒーはプラスひゃくえんです。どようびとにちようびはやすみです。",
+    "romaji": "Teishokuya no menyuu to annai\n'Sakura Shokudou' no ranchi annai:\nGetsuyoubi ~ kinyoubi: gozen juuichiji ~ gogo niji\nA ranchi: Sakana no shioyaki teishoku (happyaku-en)\nB ranchi: Toriniku no karaage teishoku (happyaku gojuu-en)\nGohan to omisoshiru wa okawari ga dekimasu. Koohii wa purasu hyaku-en desu. Doyoubi to nichiyoubi wa yasumi desu.",
+    "meaning": "Diner Menu and Guide\n'Sakura Diner' Lunch Guide:\nMonday to Friday: 11:00 AM - 2:00 PM\nLunch A: Grilled salted fish set (800 yen)\nLunch B: Fried chicken set (850 yen)\nFree refills for rice and miso soup. Coffee is plus 100 yen. Closed on Saturdays and Sundays.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,menu,shopping,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "「さくら食堂」について正しいものはどれですか。",
+    "options": [
+      "土曜日はランチをやっていない",
+      "ご飯のおかわりは有料である",
+      "コーヒーは無料でついてくる",
+      "ランチは午後三時まで食べられる"
+    ],
+    "source": "NoIgnore Graded Reader Series",
+    "relatedItems": [
+      "n5_v_107",
+      "n5_v_110",
+      "n5_v_130",
+      "n5_v_131",
+      "n5_v_27",
+      "n5_v_202",
+      "n5_g_10",
+      "n5_g_17"
+    ]
+  },
+  {
+    "id": "n5_r_06",
+    "japanese": "電車の時刻とお知らせ\n緑駅のホーム案内：\n次の電車は十時十五分発の快速・青葉行きです。三番線から出ます。各駅停車は十時二十二分発、四番線です。\n※本日は工事のため、急行電車は運転していません。",
+    "reading": "でんしゃのじこくとおしらせ\nみどりえきのホームあんない：\nつぎのでんしゃはじゅうじじゅうごふんはつのかいそく・あおばゆきです。さんばんせんからでます。かくえきていしゃはじゅうじにじゅうにふんはつ、よんばんせんです。\n※ほんじつはこうじのため、きゅうこうでんしゃはうんてんしていません。",
+    "romaji": "Densha no jikoku to oshirase\nMidori-eki no hoomu annai:\nTsugi no densha wa juuji juugofun hatsu no kaisoku, Aoba-yuki desu. Sanbansen kara demasu. Kakuekiteisha wa juuji nijuunifun hatsu, yonbansen desu.\n* Honjitsu wa kouji no tame, kyuukou densha wa unten shite imasen.",
+    "meaning": "Train Schedule and Notice\nMidori Station Platform Guide:\nThe next train is the 10:15 Rapid bound for Aoba. It departs from track 3. The local train departs at 10:22 from track 4.\n* Please note: Express trains are not operating today due to construction.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,notice,transportation,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "十時十五分に出る電車は何番線から出ますか。",
+    "options": [
+      "三番線",
+      "四番線",
+      "二番線",
+      "一番線"
+    ],
+    "source": "NoIgnore Graded Reader Series",
+    "relatedItems": [
+      "n5_v_110",
+      "n5_v_133",
+      "n5_v_56",
+      "n5_v_61",
+      "n5_v_226",
+      "n5_g_03",
+      "n5_g_10"
+    ]
+  },
+  {
+    "id": "n5_r_07",
+    "japanese": "学校の掲示板\n日本語クラブの皆さんへ：\n今週の金曜日に「日本の昔話を読む会」を行います。\n時間：午後四時〜五時半\n場所：西館二階・第二教室\n持ってくるもの：筆記用具と辞書\n参加したい人は木曜日までに山田先生に名前を言ってください。",
+    "reading": "がっこうのけいじばん\nにほんごクラブのみなさんへ：\nこんしゅうのきんようびに「にほんのむかしばなしをよむかい」をおこないます。\nじかん：ごごよじ〜ごじはん\nばしょ：にしかんにかい・だいにきょうしつ\nもってくるもの：ひっきようぐとじしょ\nさんかしたいひとはもくようびまでにやまだせんせいになまえをいってください。",
+    "romaji": "Gakkou no keijiban\nNihongo kurabu no minasan e:\nKonshuu no kinyoubi ni 'Nihon no mukashibanashi o yomu kai' o okonaimasu.\nJikan: gogo yoji ~ gojihan\nBasho: Nishikan nikai, daini kyoushitsu\nMotte kuru mono: hikkiyougu to jisho\nSanka shitai hito wa mokuyoubi made ni Yamada-sensei ni namae o itte kudasai.",
+    "meaning": "School Bulletin Board\nTo members of the Japanese Club:\nThis Friday we will hold the 'Reading Japanese Folktales Gathering'.\nTime: 4:00 PM - 5:30 PM\nLocation: West Building 2nd Floor, Classroom 2\nThings to bring: Writing utensils and dictionary\nThose who wish to participate, please tell your name to Teacher Yamada by Thursday.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,school,notice,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "参加したい人はいつまでに先生に言わなければなりませんか。",
+    "options": [
+      "木曜日まで",
+      "金曜日まで",
+      "水曜日まで",
+      "当日の四時まで"
+    ],
+    "source": "NoIgnore Graded Reader Series",
+    "relatedItems": [
+      "n5_v_42",
+      "n5_v_131",
+      "n5_v_150",
+      "n5_v_162",
+      "n5_v_55",
+      "n5_v_174",
+      "n5_g_05",
+      "n5_g_10",
+      "n5_g_16"
+    ]
+  },
+  {
+    "id": "n5_r_08",
+    "japanese": "友達からのメール\nキムさんへ\nお元気ですか。今度の日曜日に私の家でバーベキューをします。クラスの友達も五人来ます。お肉と野菜は私が買いますから、キムさんは何か飲み物を持ってきてくれませんか。午後一時から始めます。来られるかどうか、金曜日までに返事をください。\nスミスより",
+    "reading": "ともだちからのメール\nキムさんへ\nおげんきですか。こんどのにちようびにわたしのいえでバーベキューをします。クラスのともだちもごにんきます。おにくとやさいはわたしがかいますから、キムさんはなにかのみものをもってきてくれませんか。ごごいちじからはじめます。こられるかどうか、きんようびまでにへんじをください。\nスミスより",
+    "romaji": "Tomodachi kara no meeru\nKimu-san e\nOgenki desu ka. Kondo no nichiyoubi ni watashi no ie de baabekyuu o shimasu. Kurasu no tomodachi mo gonin kimasu. Oniku to yasai wa watashi ga kaimasu kara, Kimu-san wa nanika nomimono o motte kite kuremasen ka. Gogo ichiji kara hajimemasu. Korareru ka dou ka, kinyoubi made ni henji o kudasai.\nSumisu yori",
+    "meaning": "Email from a Friend\nDear Kim,\nHow are you? This coming Sunday we are having a barbecue at my house. Five friends from class are also coming. I will buy meat and vegetables, so could you bring some drinks? We start at 1:00 PM. Please reply by Friday whether you can come.\nFrom Smith",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,email,invitation,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "キムさんは何を持って行きますか。",
+    "options": [
+      "飲み物",
+      "お肉",
+      "野菜",
+      "お菓子"
+    ],
+    "source": "NoIgnore Graded Reader Series",
+    "relatedItems": [
+      "n5_v_131",
+      "n5_v_15",
+      "n5_v_53",
+      "n5_v_201",
+      "n5_v_30",
+      "n5_v_04",
+      "n5_g_05",
+      "n5_g_21"
+    ]
+  },
+  {
+    "id": "n5_r_09",
+    "japanese": "私の雨の日の日記\n五月十日（日曜日）雨\n今日は朝から雨が降っていました。どこへも出かけないで、家で妹と一緒にお菓子を作りました。バナナケーキを焼きました。とても甘くておいしかったです。午後は暖かい紅茶を飲みながら、図書館で借りた本を二冊読みました。静かで楽しい一日でした。",
+    "reading": "わたしのあめのひのにっき\nごがつとおか（にちようび）あめ\nきょうはあさからあめがふっていました。どこへもでかけないで、いえでいもうとといっしょにおかしをつくりました。バナナケーキをやきました。とてもあまくておいしかったです。ごごはあたたかいこうちゃをのみながら、としょかんでかりたほんをにさつよみました。しずかでたのしいいちにちでした。",
+    "romaji": "Watashi no ame no hi no nikki\nGogatsu tooka (nichiyoubi) ame\nKyou wa asa kara ame ga futte imashita. Doko e mo dekakenaide, ie de imouto to issho ni okashi o tsukurimashita. Banana keeki o yakimashita. Totemo amakute oishikatta desu. Gogo wa atatakai koucha o nominagara, toshokan de karita hon o nisatsu yomimashita. Shizuka de tanoshii ichinichi deshita.",
+    "meaning": "My Rainy Day Diary\nMay 10th (Sunday) Rainy\nIt was raining from morning today. Without going anywhere, I made sweets at home together with my younger sister. We baked a banana cake. It was very sweet and delicious. In the afternoon, while drinking warm black tea, I read two books borrowed from the library. It was a quiet and enjoyable day.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,diary,daily,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "「私」は午後何をしましたか。",
+    "options": [
+      "お茶を飲みながら本を読んだ",
+      "妹と一緒にケーキを作った",
+      "図書館へ本を返しに行った",
+      "友達と雨の中散歩した"
+    ],
+    "source": "NoIgnore Graded Reader Series",
+    "relatedItems": [
+      "n5_v_38",
+      "n5_v_131",
+      "n5_v_24",
+      "n5_v_53",
+      "n5_v_60",
+      "n5_v_193",
+      "n5_v_230",
+      "n5_v_248",
+      "n5_v_13",
+      "n5_g_15",
+      "n5_g_45"
+    ]
+  },
+  {
+    "id": "n5_r_10",
+    "japanese": "図書館の利用案内\n利用者の皆さんへのお願い：\n一、館内では静かにしてください。携帯電話での通話はできません。\n二、本は一度に五冊まで、二週間借りることができます。\n三、飲み物は蓋がある水筒やペットボトルだけ飲むことができます。\n四、読み終わった本は元の棚に戻してください。",
+    "reading": "としょかんのりようあんない\nりようしゃのみなさんへのおねがい：\nいち、かんないではしずかにしてください。けいたいでんわでのつうわはできません。\nに、ほんはいちどにごさつまで、にしゅうかんかりることができます。\nさん、のみものはふたがあるすいとうやペットボトルだけのむことができます。\nよん、よみおわったほんはもとのたなにもどしてください。",
+    "romaji": "Toshokan no riyou annai\nRiyousha no minasan e no onegai:\nIchi, kannai de wa shizuka ni shite kudasai. Keitaidenwa de no tsuuwa wa dekimasen.\nNi, hon wa ichido ni gosatsu made, nishuukan kariru koto ga dekimasu.\nSan, nomimono wa futa ga aru suitou ya pettobotoru dake nomu koto ga dekimasu.\nYon, yomiowatta hon wa moto no tana ni modoshite kudasai.",
+    "meaning": "Library Usage Rules\nNotice to library users:\n1. Please be quiet inside the library. Talking on mobile phones is not permitted.\n2. You can borrow up to 5 books at a time for 2 weeks.\n3. Drinks may only be consumed from containers with caps such as thermoses or plastic bottles.\n4. Please return books you have finished reading to their original shelves.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,rules,sign,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "この図書館で本は何冊何週間借りられますか。",
+    "options": [
+      "五冊を二週間",
+      "二冊を五週間",
+      "十冊を一週間",
+      "何冊でも一か月"
+    ],
+    "source": "NoIgnore Graded Reader Series",
+    "relatedItems": [
+      "n5_v_101",
+      "n5_v_113",
+      "n5_v_60",
+      "n5_v_13",
+      "n5_g_05",
+      "n5_g_17"
+    ]
+  },
+  {
+    "id": "n5_r_11",
+    "japanese": "はじめての買い物\n留学生のアリさんは昨日、初めて一人で文房具店へ行きました。漢字のノートと青いボールペンを買いたかったです。店に入って「すみません、漢字の練習ノートはどこですか」と店員さんに聞きました。店員さんは笑顔で棚まで案内してくれました。アリさんは「ありがとうございます」と言って、ノートを二冊買いました。",
+    "reading": "はじめてのかいもの\nりゅうがくせいのアリさんはきのう、はじめてひとりでぶんぼうぐてんへいきました。かんじのノートとあおいボールペンをかいたかったです。みせにはいって「すみません、かんじのれんしゅうノートはどこですか」とてんいんさんにききました。てんいんさんはえがおでたなまであんないしてくれました。アリさんは「ありがとうございます」といって、ノートをにさつかいました。",
+    "romaji": "Hajimete no kaimono\nRyuugakusei no Ari-san wa kinou, hajimete hitori de bunbouguten e ikimashita. Kanji no nooto to aoi boorupen o kaitakatta desu. Mise ni haitte 'Sumimasen, kanji no renshuu nooto wa doko desu ka' to ten'in-san ni kikimashita. Ten'in-san wa egao de tana made annai shite kuremashita. Ari-san wa 'Arigatou gozaimasu' to itte, nooto o nisatsu kaimashita.",
+    "meaning": "First Shopping Experience\nAli, an international student, went to a stationery shop alone for the first time yesterday. He wanted to buy a kanji practice notebook and a blue ballpoint pen. Entering the shop, he asked the clerk: 'Excuse me, where are the kanji practice notebooks?' The clerk smiled and guided him to the shelf. Ali said 'Thank you very much' and bought two notebooks.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,shopping,story,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "アリさんは店で何を買いましたか。",
+    "options": [
+      "漢字のノート二冊",
+      "青いペン二本",
+      "辞書とノート",
+      "消しゴムとペン"
+    ],
+    "source": "NoIgnore Graded Reader Series",
+    "relatedItems": [
+      "n5_v_112",
+      "n5_v_40",
+      "n5_v_152",
+      "n5_v_180",
+      "n5_v_03",
+      "n5_v_06",
+      "n5_v_08",
+      "n5_v_225",
+      "n5_g_12",
+      "n5_g_28"
+    ]
+  },
+  {
+    "id": "n5_r_12",
+    "japanese": "私の町\n私の町は京都の近くにある小さな町です。町の中央にきれいな川が流れていて、春には川の周りにたくさんの桜の花が咲きます。駅の近くにはスーパーや本屋があって、買い物に便利です。高いビルはあまりありませんが、静かで自然が多くてとても住みやすい町です。",
+    "reading": "わたしのまち\nわたしのまちはきょうとのちかくにあるちいさなまちです。まちのちゅうおうにきれいなかわがながれていて、はるにはかわのまわりにたくさんのさくらのはながさきます。えきのちかくにはスーパーやほんやがあって、かいものにべんりです。たかいビルはあまりありませんが、しずかでしぜんがおおくてとてもすみやすいまちです。",
+    "romaji": "Watashi no machi\nWatashi no machi wa Kyouto no chikaku ni aru chiisana machi desu. Machi no chuuou ni kirei na kawa ga nagarete ite, haru ni wa kawa no mawari ni takusan no sakura no hana ga sakimasu. Eki no chikaku ni wa suupaa ya honya ga atte, kaimono ni benri desu. Takai biru wa amari arimasen ga, shizuka de shizen ga ookute totemo sumiyasui machi desu.",
+    "meaning": "My Town\nMy town is a small town near Kyoto. A clean river flows through the center of the town, and in spring many cherry blossoms bloom along the river. Near the station there are supermarkets and bookstores, which is convenient for shopping. There are not many tall buildings, but it is a quiet town with lots of nature that is very pleasant to live in.",
+    "category": "READING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "reading,town,nature,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "「私の町」の特徴として合っているものはどれですか。",
+    "options": [
+      "静かで川や自然が多い",
+      "高いビルがたくさん並んでいる",
+      "駅の近くに店がなくて不便である",
+      "京都からとても遠いところにある"
+    ],
+    "source": "NoIgnore Graded Reader Series",
+    "relatedItems": [
+      "n5_v_167",
+      "n5_v_56",
+      "n5_v_190",
+      "n5_v_197",
+      "n5_v_10",
+      "n5_v_77",
+      "n5_v_13",
+      "n5_v_287",
+      "n5_g_09",
+      "n5_g_34"
+    ]
+  }
+]

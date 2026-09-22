@@ -1,0 +1,349 @@
+[
+  {
+    "id": "n5_l_01",
+    "japanese": "男の人と女の人が話しています。男の人は何を買いますか。\n女：すみません、牛乳とパンを買ってきてくれませんか。\n男：分かりました。卵もいりますか。\n女：いいえ、卵はまだ冷蔵庫にたくさんあります。\n男：じゃ、牛乳とパンですね。行ってきます。\n質問：男の人は何を買いますか。",
+    "reading": "おとこのひととおんなのひとがはなしています。おとこのひとはなにをかいますか。\nおんな：すみません、ぎゅうにゅうとパンをかってきてくれませんか。\nおとこ：わかりました。たまごもいりますか。\nおんな：いいえ、たまごはまだれいぞうこにたくさんあります。\nおとこ：じゃ、ぎゅうにゅうとパンですね。いってきます。\nしつもん：おとこのひとはなにをかいますか。",
+    "romaji": "Otoko no hito to onna no hito ga hanashite imasu. Otoko no hito wa nani o kaimasu ka.\nOnna: Sumimasen, gyuunyuu to pan o katte kite kuremasen ka.\nOtoko: Wakarimashita. Tamago mo irimasu ka.\nOnna: Iie, tamago wa mada reizouko ni takusan arimasu.\nOtoko: Ja, gyuunyuu to pan desu ne. Ittekimasu.\nShitsumon: Otoko no hito wa nani o kaimasu ka.",
+    "meaning": "A man and a woman are talking. What will the man buy?\nWoman: Excuse me, could you buy milk and bread?\nMan: Understood. Do you need eggs as well?\nWoman: No, there are still plenty of eggs in the refrigerator.\nMan: Well then, milk and bread. I'm off.\nQuestion: What will the man buy?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,dialogue,shopping",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "男の人は何を買いますか。",
+    "options": [
+      "牛乳とパン",
+      "卵とパン",
+      "牛乳と卵",
+      "パンだけ"
+    ],
+    "source": "JLPT N5 Graded Listening",
+    "relatedItems": [
+      "n5_g_05",
+      "n5_g_09",
+      "n5_v_28",
+      "n5_v_29",
+      "n5_v_34",
+      "n5_v_93"
+    ]
+  },
+  {
+    "id": "n5_l_02",
+    "japanese": "駅で女の人と駅員が話しています。女の人は何番線の電車に乗りますか。\n女：すみません、新宿へ行く電車は何番線ですか。\n駅員：新宿行きですね。階段を上がって、三番線の電車に乗ってください。\n女：三番線ですね。ありがとうございます。\n質問：女の人は何番線の電車に乗りますか。",
+    "reading": "えきでおんなのひととえきいんがはなしています。おんなのひとはなんばんせんのでんしゃにのりますか。\nおんな：すみません、しんじゅくへいくでんしゃはなんばんせんですか。\nえきいん：しんじゅくゆきですね。かいだんをあがって、さんばんせんのでんしゃにのってください。\nおんな：さんばんせんですね。ありがとうございます。\nしつもん：おんなのひとはなんばんせんのでんしゃにのりますか。",
+    "romaji": "Eki de onna no hito to ekiin ga hanashite imasu. Onna no hito wa nanbansen no densha ni norimasu ka.\nOnna: Sumimasen, Shinjuku e iku densha wa nanbansen desu ka.\nEkiin: Shinjuku yuki desu ne. Kaidan o agatte, sanbansen no densha ni notte kudasai.\nOnna: Sanbansen desu ne. Arigatou gozaimasu.\nShitsumon: Onna no hito wa nanbansen no densha ni norimasu ka.",
+    "meaning": "At the station, a woman and a station attendant are talking. Which track train will the woman take?\nWoman: Excuse me, which track is the train for Shinjuku?\nAttendant: The train for Shinjuku? Go up the stairs and take the train on track 3, please.\nWoman: Track 3. Thank you very much.\nQuestion: Which track train will the woman take?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,dialogue,station",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "女の人は何番線の電車に乗りますか。",
+    "options": [
+      "三番線",
+      "一番線",
+      "二番線",
+      "四番線"
+    ],
+    "source": "JLPT N5 Graded Listening",
+    "relatedItems": [
+      "n5_g_05",
+      "n5_g_09",
+      "n5_v_03",
+      "n5_v_56",
+      "n5_v_61",
+      "n5_v_92",
+      "n5_v_93"
+    ]
+  },
+  {
+    "id": "n5_l_03",
+    "japanese": "会社で男の人と女の人が明日の会議について話しています。会議は何時に始まりますか。\n男：明日の朝の会議は何時からでしたっけ。\n女：予定では十時でしたが、部長の都合で十時半からに変更になりました。\n男：十時半ですね。了解しました。\n質問：明日の会議は何時に始まりますか。",
+    "reading": "かいしゃでおとこのひととおんなのひとがあしたのかいぎについてはなしています。かいぎはなんじにはじまりますか。\nおとこ：あしたのあさのかいぎはなんじからでしたっけ。\nおんな：よていではじゅうじでしたが、ぶちょうのつごうでじゅうじはんからにへんこうになりました。\nおとこ：じゅうじはんですね。りょうかいしました。\nしつもん：あしたのかいぎはなんじにはじまりますか。",
+    "romaji": "Kaisha de otoko no hito to onna no hito ga ashita no kaigi ni tsuite hanashite imasu. Kaigi wa nanji ni hajimarimasu ka.\nOtoko: Ashita no asa no kaigi wa nanji kara deshita kke.\nOnna: Yotei de wa juuji deshita ga, buchou no tsugou de juujihan kara ni henkou ni narimashita.\nOtoko: Juujihan desu ne. Ryoukai shimashita.\nShitsumon: Ashita no kaigi wa nanji ni hajimarimasu ka.",
+    "meaning": "At work, a man and a woman are discussing tomorrow's meeting. What time will the meeting begin?\nMan: What time was tomorrow morning's meeting again?\nWoman: It was scheduled for 10:00, but due to the manager's schedule it was changed to start at 10:30.\nMan: 10:30. Understood.\nQuestion: What time will tomorrow's meeting begin?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,dialogue,business",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "明日の会議は何時に始まりますか。",
+    "options": [
+      "十時半",
+      "十時",
+      "九時半",
+      "十一時"
+    ],
+    "source": "JLPT N5 Graded Listening",
+    "relatedItems": [
+      "n3_g_01",
+      "n4_v_06",
+      "n5_g_09",
+      "n5_v_39",
+      "n5_v_45"
+    ]
+  },
+  {
+    "id": "n5_l_04",
+    "japanese": "駅の窓口で男の人と駅員が話しています。男の人は何枚切符を買いますか。\n男：すみません、京都までの切符を大人二枚と子ども一枚ください。\n駅員：はい、京都までですね。特急券もつけますか。\n男：いいえ、普通の切符だけでいいです。\n駅員：かしこまりました。全部で三枚ですね。四千五百円になります。\n男：これでお願いします。\n質問：男の人は全部で何枚切符を買いましたか。",
+    "reading": "えきのまどぐちでおとこのひととえきいんがはなしています。おとこのひとはなんまいきっぷをかいますか。\nおとこ：すみません、きょうとまでのきっぷをおとなにまいとこどもいちまいください。\nえきいん：はい、きょうとまでですね。とっきゅうけんもつけますか。\nおとこ：いいえ、ふつうのきっぷだけでいいです。\nえきいん：かしこまりました。ぜんぶでさんまいですね。よんせんごひゃくえんになります。\nおとこ：これでおねがいします。\nしつもん：おとこのひとはぜんぶでなんまいきっぷをかいましたか。",
+    "romaji": "Eki no madoguchi de otoko no hito to ekiin ga hanashite imasu. Otoko no hito wa nanmai kippu o kaimasu ka.\nOtoko: Sumimasen, Kyouto made no kippu o otona nimai to kodomo ichimai kudasai.\nEkiin: Hai, Kyouto made desu ne. Tokkyuuken mo tsukemasu ka.\nOtoko: Iie, futsuu no kippu dake de ii desu.\nEkiin: Kashikomarimashita. Zenbu de sanmai desu ne. Yonsen gohyaku-en ni narimasu.\nOtoko: Kore de onegai shimasu.\nShitsumon: Otoko no hito wa zenbu de nanmai kippu o kaimashita ka.",
+    "meaning": "A man and a station clerk are talking at the station window. How many tickets will the man buy?\nMan: Excuse me, tickets to Kyoto for two adults and one child please.\nClerk: Yes, to Kyoto. Would you like limited express tickets too?\nMan: No, just regular tickets is fine.\nClerk: Understood. That's 3 tickets in total. That will be 4,500 yen.\nMan: Here you go.\nQuestion: How many tickets in total did the man buy?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,dialogue,station,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "男の人は全部で何枚切符を買いましたか。",
+    "options": [
+      "三枚",
+      "二枚",
+      "一枚",
+      "四枚"
+    ],
+    "source": "NoIgnore Situational Audio/TTS Dialogues",
+    "relatedItems": [
+      "n5_v_108",
+      "n5_v_110",
+      "n5_v_112",
+      "n5_v_113",
+      "n5_v_148",
+      "n5_v_56",
+      "n5_v_08",
+      "n5_g_05"
+    ]
+  },
+  {
+    "id": "n5_l_05",
+    "japanese": "コンビニで店員と女の人が話しています。女の人はいくら払いますか。\n店員：いらっしゃいませ。お弁当とお茶ですね。\n女：はい、お願いします。あ、お弁当を温めてください。\n店員：かしこまりました。袋はご利用になりますか。\n女：いいえ、袋は持っていますので大丈夫です。\n店員：では、お弁当が五百円、お茶が百五十円で、合計六百五十円になります。\n女：千円札でお願いします。\n質問：女の人はいくら払いますか。",
+    "reading": "コンビニでてんいんとおんなのひとがはなしています。おんなのひとはいくらはらいますか。\nてんいん：いらっしゃいませ。おべんとうとおちゃですね。\nおんな：はい、おねがいします。あ、おべんとうをあたためてください。\nてんいん：かしこまりました。ふくろはごりようになりますか。\nおんな：いいえ、ふくろはもっていますのでだいじょうぶです。\nてんいん：では、おべんとうがごひゃくえん、おちゃがひゃくごじゅうえんで、ごうけいろっぴゃくごじゅうえんになります。\nおんな：せんえんさつでおねがいします。\nしつもん：おんなのひとはいくらはらいますか。",
+    "romaji": "Konbini de ten'in to onna no hito ga hanashite imasu. Onna no hito wa ikura haraimasu ka.\nTen'in: Irasshaimase. Obentou to ocha desu ne.\nOnna: Hai, onegai shimasu. A, obentou o atatamete kudasai.\nTen'in: Kashikomarimashita. Fukuro wa goriyou ni narimasu ka.\nOnna: Iie, fukuro wa motte imasu node daijoubu desu.\nTen'in: Dewa, obentou ga gohyaku-en, ocha ga hyakugojuu-en de, goukei roppyaku gojuu-en ni narimasu.\nOnna: Sen-en-satsu de onegai shimasu.\nShitsumon: Onna no hito wa ikura haraimasu ka.",
+    "meaning": "A clerk and a woman are talking at a convenience store. How much does the woman pay?\nClerk: Welcome. A bento and green tea.\nWoman: Yes please. Ah, please heat up the bento.\nClerk: Certainly. Would you like a bag?\nWoman: No, I have a bag with me so it's fine.\nClerk: Then, the bento is 500 yen and the tea is 150 yen, totaling 650 yen.\nWoman: With a thousand-yen bill, please.\nQuestion: How much is the total price?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,dialogue,shopping,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "買い物のお会計は合計いくらですか。",
+    "options": [
+      "六百五十円",
+      "五百円",
+      "千円",
+      "七百円"
+    ],
+    "source": "NoIgnore Situational Audio/TTS Dialogues",
+    "relatedItems": [
+      "n5_v_107",
+      "n5_v_108",
+      "n5_v_110",
+      "n5_v_33",
+      "n5_g_05",
+      "n5_g_21"
+    ]
+  },
+  {
+    "id": "n5_l_06",
+    "japanese": "道で男の人と女の人が話しています。郵便局はどこにありますか。\n男：すみません、この近くに郵便局はありますか。\n女：ええ、ありますよ。この道をまっすぐ行って、二つ目の信号を右に曲がってください。\n男：二つ目の信号を右ですね。\n女：はい。曲がると左側に大きなスーパーがあります。郵便局はそのスーパーの隣です。\n男：分かりました。どうもありがとうございました。\n質問：郵便局はどこにありますか。",
+    "reading": "みちでおとこのひととおんなのひとがはなしています。ゆうびんきょくはどこにありますか。\nおとこ：すみません、このちかくにゆうびんきょくはありますか。\nおんな：ええ、ありますよ。このみちをまっすぐいって、ふたつめのしんごうをみぎにまがってください。\nおとこ：ふたつめのしんごうをみぎですね。\nおんな：はい。まがるとひだりがわにおおきなスーパーがあります。ゆうびんきょくはそのスーパーのとなりです。\nおとこ：わかりました。どうもありがとうございました。\nしつもん：ゆうびんきょくはどこにありますか。",
+    "romaji": "Michi de otoko no hito to onna no hito ga hanashite imasu. Yuubinkyoku wa doko ni arimasu ka.\nOtoko: Sumimasen, kono chikaku ni yuubinkyoku wa arimasu ka.\nOnna: Ee, arimasu yo. Kono michi o massugu itte, futatsume no shingou o migi ni magatte kudasai.\nOtoko: Futatsume no shingou o migi desu ne.\nOnna: Hai. Magaru to hidarigawa ni ookina suupaa ga arimasu. Yuubinkyoku wa sono suupaa no tonari desu.\nOtoko: Wakarimashita. Doumo arigatou gozaimashita.\nShitsumon: Yuubinkyoku wa doko ni arimasu ka.",
+    "meaning": "A man and a woman are talking on the street. Where is the post office?\nMan: Excuse me, is there a post office near here?\nWoman: Yes, there is. Go straight down this road, and turn right at the second traffic light.\nMan: Turn right at the second traffic light.\nWoman: Yes. When you turn, there is a large supermarket on the left. The post office is next to that supermarket.\nMan: I understand. Thank you very much.\nQuestion: Where is the post office located?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,directions,city,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "郵便局はどこにありますか。",
+    "options": [
+      "二つ目の信号を右に曲がったスーパーの隣",
+      "一つ目の信号を左に曲がったところ",
+      "まっすぐ行った突き当たりの右側",
+      "駅の東口を出た目の前"
+    ],
+    "source": "NoIgnore Situational Audio/TTS Dialogues",
+    "relatedItems": [
+      "n5_v_98",
+      "n5_v_159",
+      "n5_v_160",
+      "n5_v_167",
+      "n5_v_187",
+      "n5_v_03",
+      "n5_g_05",
+      "n5_g_28"
+    ]
+  },
+  {
+    "id": "n5_l_07",
+    "japanese": "電話で友達同士が話しています。二人は何時に会いますか。\n女：もしもし、ケンさん？今晩の約束ですが、六時は少し間に合わないかもしれません。\n男：あ、そうなんだ。何時なら大丈夫？\n女：仕事が少し長引いていて、七時なら確実に着けます。\n男：分かった。じゃあ、レストランの予約を七時に変更しておくね。\n女：ありがとう！じゃあ七時に駅の改札でね。\n質問：二人は何時に会うことになりましたか。",
+    "reading": "でんわでともだちどうしがはなしています。ふたりはなんじにあいますか。\nおんな：もしもし、ケンさん？こんばんのやくそくですが、ろくじはすこしまにあわないかもしれません。\nおとこ：あ、そうなんだ。なんじならだいじょうぶ？\nおんな：しごとがすこしながびいていて、しちじならかくじつにつけます。\nおとこ：わかった。じゃあ、レストランのよやくをしちじにへんこうしておくね。\nおんな：ありがとう！じゃあしちじにえきのかいさつでね。\nしつもん：ふたりはなんじにあうことになりましたか。",
+    "romaji": "Denwa de tomodachi doushi ga hanashite imasu. Futari wa nanji ni aimasu ka.\nOnna: Moshimoshi, Ken-san? Konban no yakusoku desu ga, rokuji wa sukoshi maniawanai kamoshiremasen.\nOtoko: A, sou nan da. Nanji nara daijoubu?\nOnna: Shigoto ga sukoshi nagabiite ite, shichiji nara kakujitsu ni tsukemasu.\nOtoko: Wakatta. Jaa, resutoran no yoyaku o shichiji ni henkou shite oku ne.\nOnna: Arigatou! Jaa shichiji ni eki no kaisatsu de ne.\nShitsumon: Futari wa nanji ni au koto ni narimashita ka.",
+    "meaning": "Friends are talking on the phone. What time will they meet?\nWoman: Hello, Ken? About tonight's plans, I might not make 6:00 in time.\nMan: Oh, I see. What time would work?\nWoman: Work is running a little late, but I can definitely arrive at 7:00.\nMan: Got it. Then I'll change the restaurant reservation to 7:00.\nWoman: Thanks! See you at the station ticket gate at 7:00.\nQuestion: What time did the two agree to meet?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,phone,schedule,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "二人は何時に会いますか。",
+    "options": [
+      "七時",
+      "六時",
+      "六時半",
+      "七時半"
+    ],
+    "source": "NoIgnore Situational Audio/TTS Dialogues",
+    "relatedItems": [
+      "n5_v_113",
+      "n5_v_133",
+      "n5_v_15",
+      "n5_v_56",
+      "n5_v_73",
+      "n5_g_03"
+    ]
+  },
+  {
+    "id": "n5_l_08",
+    "japanese": "ラジオで天気予報を聞いています。明日の午後の天気はどうなりますか。\nアナウンサー：明日の東京地方の天気です。明日の朝は晴れますが、昼頃から雲が多くなるでしょう。午後三時を過ぎると雨が降り始め、夜にかけて強い風が吹く見込みです。お出かけの際は、傘をお持ちください。\n質問：明日の午後の天気はどうですか。",
+    "reading": "ラジオでてんきよほうをきいています。あしたのごごのてんきはどうなりますか。\nアナウンサー：あしたのとうきょうちほうのてんきです。あしたのあさははれますが、ひるごろからくもがおおくなるでしょう。ごごさんじをすぎるとあめがふりはじめ、よるにかけてつよいかぜがふくみこみです。おでかけのさいは、かさをおもちください。\nしつもん：あしたのごごのてんきはどうですか。",
+    "romaji": "Rajio de tenki yohou o kiite imasu. Ashita no gogo no tenki wa dou narimasu ka.\nAnaunsaa: Ashita no Toukyou chihou no tenki desu. Ashita no asa wa haremasu ga, hirugoro kara kumo ga ooku naru deshou. Gogo sanji o sugiru to ame ga furihajime, yoru ni kakete tsuyoi kaze ga fuku mikomi desu. Odekake no sai wa, kasa o omochi kudasai.\nShitsumon: Ashita no gogo no tenki wa dou desu ka.",
+    "meaning": "Listening to the weather forecast on the radio. How will tomorrow's afternoon weather be?\nAnnouncer: Tomorrow's weather for the Tokyo region. It will be sunny tomorrow morning, but clouds will increase around noon. Past 3:00 p.m., rain will begin to fall, with strong winds expected into the night. Please take an umbrella when heading out.\nQuestion: How will tomorrow's afternoon weather be?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,announcement,weather,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "明日の午後はどのような天気になりますか。",
+    "options": [
+      "雨が降る",
+      "ずっと晴れる",
+      "雪が降る",
+      "朝から強い雨になる"
+    ],
+    "source": "NoIgnore Situational Audio/TTS Dialogues",
+    "relatedItems": [
+      "n5_v_39",
+      "n5_v_45",
+      "n5_v_46",
+      "n5_v_47",
+      "n5_v_131",
+      "n5_v_192",
+      "n5_v_193",
+      "n5_g_39"
+    ]
+  },
+  {
+    "id": "n5_l_09",
+    "japanese": "教室で先生が学生たちに話しています。学生は明日何を持ってこなければなりませんか。\n先生：皆さん、明日は校外学習で美術館へ行きます。明日の朝は九時半に駅の南口に集まってください。教科書はいりませんが、筆記用具と学生証を必ず持ってきてください。お弁当は美術館のレストランで食べますので、持ってくる必要はありません。\n質問：学生は明日何を持って行きますか。",
+    "reading": "きょうしつでせんせいががくせいたちにはなしています。がくせいはあしたなにをもってこなければなりませんか。\nせんせい：みなさん、あしたはこうがいがくしゅうでびじゅつかんへいきます。あしたのあさはくじはんにえきのみなみぐちにあつまってください。きょうかしょはいりませんが、ひっきようぐとがくせいしょうをかならずもってきてください。おべんとうはびじゅつかんのレストランでたべますので、もってくるひつようはありません。\nしつもん：がくせいはあしたなにをもって行きますか。",
+    "romaji": "Kyoushitsu de sensei ga gakuseitachi ni hanashite imasu. Gakusei wa ashita nani o motte konakereba narimasen ka.\nSensei: Minasan, ashita wa kougai gakushuu de bijutsukan e ikimasu. Ashita no asa wa kujihan ni eki no minamiguchi ni atsumatte kudasai. Kyoukasho wa irimasen ga, hikkiyougu to gakuseishou o kanarazu motte kite kudasai. Obentou wa bijutsukan no resutoran de tabemasu node, motte kuru hitsuyou wa arimasen.\nShitsumon: Gakusei wa ashita nani o motte ikimasu ka.",
+    "meaning": "A teacher is talking to students in the classroom. What must students bring tomorrow?\nTeacher: Everyone, tomorrow we are going to the art museum for field study. Please gather at the station's south exit at 9:30 tomorrow morning. You do not need textbooks, but be sure to bring writing materials and student ID. You don't need to bring a bento as we will eat at the museum restaurant.\nQuestion: What must the students bring tomorrow?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,school,instruction,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "学生は明日何を持っていきますか。",
+    "options": [
+      "筆記用具と学生証",
+      "教科書とお弁当",
+      "お弁当と水筒",
+      "教科書と学生証"
+    ],
+    "source": "NoIgnore Situational Audio/TTS Dialogues",
+    "relatedItems": [
+      "n5_v_39",
+      "n5_v_45",
+      "n5_v_150",
+      "n5_v_151",
+      "n5_v_163",
+      "n5_v_174",
+      "n5_g_05",
+      "n5_g_16"
+    ]
+  },
+  {
+    "id": "n5_l_10",
+    "japanese": "病院で医者と男の人が話しています。男の人は薬をいつ飲みますか。\n医者：熱は三十七度五分ですね。喉も少し赤いです。風邪ですね。\n男：はい。頭も痛いです。\n医者：では、三日分の薬を出します。毎食後、つまり朝・昼・晩のご飯を食べた後で、一包ずつ飲んでください。\n男：お腹が痛い時に飲む薬もありますか。\n医者：いいえ、今回は風邪の薬だけです。\n質問：男の人は薬をいつ飲みますか。",
+    "reading": "びょういんでいしゃとおとこのひとがはなしています。おとこのひとはくすりをいつのみますか。\nいしゃ：ねつはさんじゅうななどごぶですね。のどもすこしあかいです。かぜですね。\nおとこ：はい。あたまもいたいです。\nいしゃ：では、みっかぶんのくすりをだします。まいしょくご、つまりあさ・ひる・ばんのごはんをたべたあとで、いっぽうずつのんでください。\nおとこ：おなかがいたいときにのむくすりもありますか。\nいしゃ：いいえ、こんかいはかぜのくすりだけです。\nしつもん：おとこのひとはくすりをいつのみますか。",
+    "romaji": "Byouin de isha to otoko no hito ga hanashite imasu. Otoko no hito wa kusuri o itsu nomimasu ka.\nIsha: Netsu wa sanjuunanado gobu desu ne. Nodo mo sukoshi akai desu. Kaze desu ne.\nOtoko: Hai. Atama mo itai desu.\nIsha: Dewa, mikkabun no kusuri o dashimasu. Maishokugo, tsumari asa, hiru, ban no gohan o tabeta ato de, ippou zutsu nonde kudasai.\nOtoko: Onaka ga itai toki ni nomu kusuri mo arimasu ka.\nIsha: Iie, konkai wa kaze no kusuri dake desu.\nShitsumon: Otoko no hito wa kusuri o itsu nomimasu ka.",
+    "meaning": "A doctor and a man are talking at the hospital. When does the man take his medicine?\nDoctor: Your fever is 37.5 degrees. Your throat is also slightly red. It's a cold.\nMan: Yes. My head also hurts.\nDoctor: Well then, I will prescribe three days' worth of medicine. Please take one packet after every meal, meaning after breakfast, lunch, and dinner.\nMan: Is there also medicine for when my stomach hurts?\nDoctor: No, this time it is only cold medicine.\nQuestion: When does the man take his medicine?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,hospital,health,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "男の人は薬をいつ飲みますか。",
+    "options": [
+      "毎食後（朝・昼・晩のご飯の後）",
+      "寝る前の一回だけ",
+      "熱が出た時だけ",
+      "朝ご飯の前"
+    ],
+    "source": "NoIgnore Situational Audio/TTS Dialogues",
+    "relatedItems": [
+      "n5_v_45",
+      "n5_v_46",
+      "n5_v_128",
+      "n5_v_57",
+      "n5_v_27",
+      "n5_g_05",
+      "n5_g_20"
+    ]
+  },
+  {
+    "id": "n5_l_11",
+    "japanese": "電話で女の人とレストランの店員が話しています。何人の予約をしましたか。\n店員：はい、イタリア料理の「カプリ」でございます。\n女：すみません、金曜日の夜七時に予約をお願いしたいのですが。\n店員：金曜日の十九時ですね。何名様でしょうか。\n女：最初は三人だったんですが、友達がもう一人来ることになったので、四人でおねがいします。\n店員：かしこまりました。四名様ですね。お名前とお電話番号をお願いします。\n質問：女の人は何人の予約をしましたか。",
+    "reading": "でんわでおんなのひととレストランのてんいんがはなしています。なんにんのよやくをしましたか。\nてんいん：はい、イタリアりょうりの「カプリ」でございます。\nおんな：すみません、きんようびのよるしちじによやくをおねがいしたいのですが。\nてんいん：きんようびのじゅうくじですね。なんめいさまでしょうか。\nおんな：さいしょはさんにんだったんですが、ともだちがもうひとりくることになったので、よにんでおねがいします。\nてんいん：かしこまりました。よんめいさまですね。おなまえとおでんわばんごうをおねがいします。\nしつもん：おんなのひとはなんにんのよやくをしましたか。",
+    "romaji": "Denwa de onna no hito to resutoran no ten'in ga hanashite imasu. Nannin no yoyaku o shimashita ka.\nTen'in: Hai, Itaria ryouri no 'Kapuri' de gozaimasu.\nOnna: Sumimasen, kinyoubi no yoru shichiji ni yoyaku o onegai shitai no desu ga.\nTen'in: Kinyoubi no juukuji desu ne. Nanmei-sama deshou ka.\nOnna: Saisho wa sannin datta n desu ga, tomodachi ga mou hitori kuru koto ni natta node, yonin de onegai shimasu.\nTen'in: Kashikomarimashita. Yonmei-sama desu ne. Onamae to odenwabangou o onegai shimasu.\nShitsumon: Onna no hito wa nannin no yoyaku o shimashita ka.",
+    "meaning": "A woman and a restaurant staff member are talking on the phone. How many people did she make a reservation for?\nStaff: Hello, this is Italian restaurant 'Capri'.\nWoman: Excuse me, I would like to make a reservation for Friday night at 7:00.\nStaff: Friday at 19:00. How many guests?\nWoman: At first it was three people, but another friend decided to come, so for four people please.\nStaff: Certainly. Four guests. May I have your name and telephone number?\nQuestion: How many people was the reservation made for?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,phone,reservation,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "女の人は何人の予約をしましたか。",
+    "options": [
+      "四人",
+      "三人",
+      "二人",
+      "五人"
+    ],
+    "source": "NoIgnore Situational Audio/TTS Dialogues",
+    "relatedItems": [
+      "n5_v_100",
+      "n5_v_112",
+      "n5_v_47",
+      "n5_v_15",
+      "n5_v_04",
+      "n5_g_05",
+      "n5_g_21"
+    ]
+  },
+  {
+    "id": "n5_l_12",
+    "japanese": "デパートの店内でアナウンスが流れています。迷子のお子さんはどこで待っていますか。\nアナウンス：お客様にお呼び出しを申し上げます。青いTシャツと黒いズボンを履いた六歳くらいの男の子がお母様をお待ちです。お名前はタケシ君です。現在、一階の正面案内所でお預かりしております。心当たりのあるお客様は、一階の正面案内所までお越しください。\n質問：迷子の男の子はどこで待っていますか。",
+    "reading": "デパートのてんないでアナウンスがながれています。まいごのおこさんはどこでまっていますか。\nアナウンス：おきゃくさまにおよびだしをもうしあげます。あおいTシャツとくろいズボンをはいたろくさいくらいのおとこのこがおかあさまをおまちです。おなまえはタケシくんです。げんざい、いっかいのしょうめんあんないしょでおあずかりしております。こころあたりのあるおきゃくさまは、いっかいのしょうめんあんないしょまでおこしください。\nしつもん：まいごのおとこのこはどこでまっていますか。",
+    "romaji": "Depaato no tennai de anaunsu ga nagarete imasu. Maigo no okosan wa doko de matte imasu ka.\nAnaunsu: Okyakusama ni oyobidashi o moushiagemasu. Aoi tiishatsu to kuroi zubon o haita rokusai kurai no otokonoko ga okaasama o omachi desu. Onamae wa Takeshi-kun desu. Genzai, ikkai no shoumen annaisho de oazukari shite orimasu. Kokoroatari no aru okyakusama wa, ikkai no shoumen annaisho made okoshi kudasai.\nShitsumon: Maigo no otokonoko wa doko de matte imasu ka.",
+    "meaning": "An announcement is playing inside a department store. Where is the lost child waiting?\nAnnouncement: Calling our customers. A boy of about 6 years old wearing a blue T-shirt and black trousers is waiting for his mother. His name is Takeshi-kun. He is currently waiting at the 1st floor main information desk. Customers concerned, please come to the 1st floor main information desk.\nQuestion: Where is the lost boy waiting?",
+    "category": "LISTENING",
+    "jlptLevel": "N5",
+    "difficulty": 1,
+    "tags": "listening,announcement,shopping,STATUS:SOURCE_VERIFIED",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "男の子はどこで待っていますか。",
+    "options": [
+      "一階の正面案内所",
+      "屋上の広場",
+      "地下の食料品売り場",
+      "五階の玩具売り場"
+    ],
+    "source": "NoIgnore Situational Audio/TTS Dialogues",
+    "relatedItems": [
+      "n5_v_102",
+      "n5_v_139",
+      "n5_v_146",
+      "n5_v_180",
+      "n5_v_74",
+      "n5_v_291",
+      "n5_g_03"
+    ]
+  }
+]

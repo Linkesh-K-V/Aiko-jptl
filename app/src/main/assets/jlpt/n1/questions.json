@@ -1,0 +1,31 @@
+[
+  {
+    "id": "n1_q_01",
+    "japanese": "一国の首相＿＿＿、私利私欲に走ることなく国民に奉仕すべきだ。",
+    "reading": "いっこくのしゅしょう＿＿＿、しりしよくにはしることなくこくみんにほうしすべきだ。",
+    "romaji": "Ikkoku no shushou ___, shirishiyoku ni hashiru koto naku kokumin ni houshi subeki da.",
+    "meaning": "As the prime minister of a nation, one should serve the citizens without pursuing private gains.",
+    "category": "JLPT_EXAM",
+    "jlptLevel": "N1",
+    "examQuestionType": "GRAMMAR",
+    "examQuestionPrompt": "Choose the expression describing conduct appropriate to high status.",
+    "options": [
+      "たるもの",
+      "としたところで",
+      "を皮切りに",
+      "をおいて"
+    ],
+    "exampleJapanese": "一国の首相たるもの、私利私欲に走ることなく国民に奉仕すべきだ。",
+    "exampleReading": "いっこくのしゅしょうたるもの、しりしよくにはしることなくこくみんにほうしすべきだ。",
+    "exampleRomaji": "Ikkoku no shushou taru mono, shirishiyoku ni hashiru koto naku kokumin ni houshi subeki da.",
+    "exampleEnglish": "As the prime minister of a nation, one should serve the citizens without pursuing private gains.",
+    "mnemonicOrNote": "〜たるもの indicates the duty or standard expected of someone in a role.",
+    "difficulty": 5,
+    "source": "JLPT N1 Practice Questions",
+    "relatedItems": [
+      "n1_g_01",
+      "n1_g_03",
+      "n1_g_04"
+    ]
+  }
+]
