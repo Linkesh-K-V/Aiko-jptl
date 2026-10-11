@@ -1,4 +1,4 @@
-# Aiko JLPT --- 
+# Aiko JLPT 
 
 **Updated:** 12 October 2026\
 **Basis:** AI Studio report dated 11 October 2026, plus the developer's
