@@ -1,0 +1,30 @@
+[
+  {
+    "id": "n3_l_01",
+    "japanese": "会社で課長と部下が新製品のパンフレットについて話しています。部下はこの後まず何をしなければなりませんか。\n課長：佐藤さん、新製品のパンフレットの原稿を見たけれど、製品の特徴が少し分かりにくいね。\n部下：申し訳ありません。技術的な説明が多すぎましたでしょうか。\n課長：そうだね。一般の顧客向けだから、専門用語を減らして、利用者のメリットを強調する表現に修正してほしい。\n部下：承知いたしました。すぐに修正案を作成します。\n課長：できたらまず広報部の意見も聞いてみてね。\n部下：はい、分かりました。\n質問：部下はこの後まず何をしますか。",
+    "reading": "かいしゃでかちょうとぶかがしんせいひんのパンフレットについてはなしています。ぶかはこのあとまずなにをしなければなりませんか。\nかちょう：さとうさん、しんせいひんのパンフレットのげんこうをみたけれど、せいひんのとくちょうがすこしわかりにくいね。\nぶか：もうしわけありません。ぎじゅつてきなせつめいがおおすぎましたでしょうか。\nかちょう：そうだね。いっぱんのこきゃくむけだから、せんもんようごをへらして、りようしゃのメリットをきょうちょうするひょうげんにしゅうせいしてほしい。\nぶか：しょうちいたしました。すぐにしゅうせいあんをさくせいします。\nかちょう：できたらまずこうほうぶのいけんもきいてみてね。\nぶか：はい、わかりました。\nしつもん：ぶかはこのあとまずなにをしますか。",
+    "romaji": "Kaisha de kachou to buka ga shinseihin no panfuretto ni tsuite hanashite imasu.",
+    "meaning": "At a company, a section chief and a subordinate are discussing a new product pamphlet. The chief asks the subordinate to revise technical terms to highlight user benefits first.",
+    "category": "LISTENING",
+    "jlptLevel": "N3",
+    "difficulty": 3,
+    "tags": "listening,business,workplace",
+    "examQuestionType": "LISTENING_TASK",
+    "examQuestionPrompt": "部下はこの後まず何をしますか。",
+    "options": [
+      "パンフレットの原稿の表現を修正する",
+      "印刷会社に見積もりを依頼する",
+      "広報部に相談に行く",
+      "顧客に直接アンケートをとる"
+    ],
+    "source": "JLPT N3 Graded Listening",
+    "relatedItems": [
+      "n3_g_01",
+      "n3_v_11",
+      "n4_g_02",
+      "n5_g_09",
+      "n5_g_16",
+      "n5_v_28"
+    ]
+  }
+]

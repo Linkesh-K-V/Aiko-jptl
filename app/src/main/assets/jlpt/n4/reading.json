@@ -1,0 +1,53 @@
+[
+  {
+    "id": "n4_r_01",
+    "japanese": "日本のゴミの分別について\n日本に住み始めて驚いたことの一つは、ゴミの分別がとても細かいことです。燃えるゴミ、燃えないゴミ、ペットボトル、空き缶などを別の袋に入れて、決められた曜日の朝に出さなければなりません。初めは少し面倒だと思いましたが、環境を守るために大切な習慣だと分かりました。",
+    "reading": "にほんのごみのぶんべつについて\nにほんにすみはじめておどろいたことのひとつは、ごみのぶんべつがとてもこまかいことです。もえるごみ、もえないごみ、ペットボトル、あきかんなどをべつのふくろにいれて、きめられたようびのあさにださなければなりません。はじめはすこしめんどうだとおもいましたが、かんきょうをまもるためにたいせつなしゅうかんだとわかりました。",
+    "romaji": "Nihon no gomi no bunbetsu ni tsuite\nNihon ni sumihajimete odoroita koto no hitotsu wa, gomi no bunbetsu ga totemo komakai koto desu. Moeru gomi, moenai gomi, pettobotoru, akikan nado o betsu no fukuro ni irete, kimerareta youbi no asa ni dasanakereba narimasen. Hajime wa sukoshi mendou da to omoimashita ga, kankyou o mamoru tame ni taisetsu na shuukan da to wakarimashita.",
+    "meaning": "About Garbage Sorting in Japan\nOne of the things that surprised me when I started living in Japan is how detailed garbage separation is. Burnable trash, non-burnable trash, plastic bottles, and empty cans must be placed in separate bags and put out on the morning of specified days. At first I thought it was a bit troublesome, but I understood that it is an important habit for protecting the environment.",
+    "category": "READING",
+    "jlptLevel": "N4",
+    "difficulty": 2,
+    "tags": "reading,life,culture,japan",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "筆者は日本のゴミの分別についてどう思っていますか。",
+    "options": [
+      "環境を守るために大切な習慣だと思っている",
+      "面倒だからやめたいと思っている",
+      "海外と同じで簡単だと思っている",
+      "夜に出したほうが便利だと思っている"
+    ],
+    "source": "JLPT N4 Graded Reading",
+    "relatedItems": [
+      "n3_v_05",
+      "n4_v_11",
+      "n5_g_16",
+      "n5_v_45"
+    ]
+  },
+  {
+    "id": "n4_r_02",
+    "japanese": "図書館の利用案内\n本を借りるときは、学生証または利用者カードを受付に見せてください。一度に借りられる本は五冊までで、期間は二週間です。辞書や最新の雑誌は館内だけで利用できます。返却が遅れると、一定の期間本を借りることができなくなりますので、必ず期限を守ってください。",
+    "reading": "としょかんのりようあんない\nほんをかりるときは、がくせいしょうまたはりようしゃカードをうけつけにみせてください。いちどにかりられるほんはごさつまでで、きかんはにしゅうかんです。じしょやさいしんのざっしはかんないだけでりようできます。へんきゃくがおくれると、いっていのきかんほんをかりることができなくなりますので、かならずきげんをまもってください。",
+    "romaji": "Toshokan no riyou annai\nHon o kariru toki wa, gakuseishou matawa riyousha kaado o uketsuke ni misete kudasai. Ichido ni karareru hon wa gosatsu made de, kikan wa nishuukan desu. Jisho ya saishin no zasshi wa kannai dake de riyou dekimasu. Henkyaku ga okureru to, ittei no kikan hon o kariru koto ga dekinaku narimasu node, kanarazu kigen o mamotte kudasai.",
+    "meaning": "Library Usage Guide\nWhen borrowing books, please show your student ID or user card at the reception counter. You can borrow up to five books at a time, for a duration of two weeks. Dictionaries and the latest magazines can only be used inside the library. If your return is late, you will become unable to borrow books for a certain period, so please strictly observe the deadline.",
+    "category": "READING",
+    "jlptLevel": "N4",
+    "difficulty": 2,
+    "tags": "reading,practical,guide",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "図書館で一度に何冊まで本を借りることができますか。",
+    "options": [
+      "五冊まで",
+      "二冊まで",
+      "三冊まで",
+      "何冊でも"
+    ],
+    "source": "JLPT N4 Graded Reading",
+    "relatedItems": [
+      "n4_v_01",
+      "n5_g_05",
+      "n5_v_60"
+    ]
+  }
+]

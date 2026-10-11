@@ -1,0 +1,27 @@
+[
+  {
+    "id": "n3_r_01",
+    "japanese": "食品ロス削減への取り組み\n近年、まだ食べられるのに捨てられてしまう「食品ロス」が世界的な社会問題となっています。日本でも毎年数百万人分の食料が廃棄されていると言われています。これに対して、賞味期限が近づいた商品を値引きして販売する「見切り品コーナー」の設置や、余った食材を福祉施設などに寄付する「フードバンク」の活動が急速に広がっています。私たち一人ひとりが買い物の際に必要な分だけを購入する意識を持つことが、問題解決への第一歩となります。",
+    "reading": "しょくひんロスさくげんへのとりくみ\nきんねん、まだたべられるのにすてられてしまう「しょくひんロス」がせかいてきなしゃかいもんだいとなっています。にほんでもまいとしすうひゃくまんにんぶんのしょくりょうがはいきされているといわれています。これにたいして、しょうみきげんがちかづいたしょうひんをねびきしてはんばいする「みきりひんコーナー」のせっちや、あまったしょくざいをふくししせつなどにきふする「フードバンク」のかつどうがきゅうそくにひろがっています。わたしたちひとりひとりがかいもののさいにひつようなぶんだけをこうにゅうするいしきをもつことが、もんだいかいけつへのだいいっぽとなります。",
+    "romaji": "Shokuhin rosu sakugen e no torikumi\nKinnen, mada taberareru noni suterarete shimau shokuhin rosu ga sekaiteki na shakai mondai to natte imasu. Nihon demo maitoshi suuhyakumannin-bun no shokuryou ga haiki sarete iru to iwarete imasu.",
+    "meaning": "Efforts Towards Food Loss Reduction\nIn recent years, food loss—the discarding of food that is still edible—has become a worldwide social issue. Each of us maintaining an awareness to purchase only what is necessary when shopping represents the first step toward resolving this issue.",
+    "category": "READING",
+    "jlptLevel": "N3",
+    "difficulty": 3,
+    "tags": "reading,society,environment",
+    "examQuestionType": "READING_COMPREHENSION",
+    "examQuestionPrompt": "食品ロスの問題解決のために、個人ができることとして筆者が述べていることは何ですか。",
+    "options": [
+      "買い物の際に必要な分だけを購入する意識を持つこと",
+      "賞味期限に関係なくすべて食べきること",
+      "外食を控えてすべて自炊すること",
+      "フードバンクの施設を新しく作ること"
+    ],
+    "source": "JLPT N3 Graded Reading",
+    "relatedItems": [
+      "n3_g_02",
+      "n5_g_09",
+      "n5_v_01"
+    ]
+  }
+]
